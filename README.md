@@ -68,13 +68,13 @@ For people with lots of accounts it can be tedious adding them one by one. This 
 1) create a file named "pokeralert_accounts.txt" at the ROOT of your SDcard
 2) Add your account in the file like this
 
-ptc_username_1 password PTC
-ptc_username_2 password PTC
-ptc_username_3 password PTC
-ptc_username_4 password PTC
-google_username_4 password GOOGLE
-google_username_4 password GOOGLE
-google_username_4 password GOOGLE
+ptc_username_1 password PTC<br />
+ptc_username_2 password PTC<br />
+ptc_username_3 password PTC<br />
+ptc_username_4 password PTC<br />
+google_username_4 password GOOGLE<br />
+google_username_4 password GOOGLE<br />
+google_username_4 password GOOGLE<br />
 
 3) got in the "Add Extra Accounts" and simply tap "LOAD FROM FILE". You will see all the account getting added!
 
