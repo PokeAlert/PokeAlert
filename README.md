@@ -65,7 +65,7 @@ This means that if a scan is composed of 25 scan points, it will take 250seconds
 # Load accounts from file
 For people with lots of accounts it can be tedious adding them one by one. This is why you can put all your account in a text file and use the "LOAD FROM FILE" option in the "Add Extra Accounts" screen
 
-1) create a file named "pokeralert_accounts.txt" at the ROOT of your SDcard
+1) create a file named "pokealert_accounts.txt" at the ROOT of your SDcard
 2) Add your account in the file like this
 
 ptc_username_1 password PTC<br />
