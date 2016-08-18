@@ -54,6 +54,30 @@ Note: There is only ONE scan at the same time. it means that if a new location i
 PokemonGO server only accept 1 request every 10 second per account. 
 This means that if a scan is composed of 25 scan points, it will take 250seconds to complete, which is over 4 minutes. This is VERY slow. But with PokeAlert you can add more than one account. This will increase the request rate and finish the scans much faster.
 
+Example:
+A scan of 400m is composed of 25 scan points (meaning there is gonna be 25 requests with 25 different location)
+
+each scan point is associated to 1 account
+
+Scenario with 1 account:
+point1/account1, point2/account1, point3/account1, point3/account1 ... point25/account1
+
+Remember 1 account can only make 1 request every 10 second.. so to finish the scan it will take 250seconds = over 4minutes
+
+Scenario with 5 account:
+point1/account1, point2/account2, point3/account3, point4/accoun4, point5/account5, point6/account1, point7/account2 ... point25/account5
+
+point1,2,3,4,5 will be made at the same time
+point6,7,8,9,10 will respectively wait until 10sec is passed for each account
+point6,7,8,9,10 will be made at the same time
+point11,12,13,14,15 will respectively wait until 10sec is passed for each account
+point11,12,13,14,15 will be made at the same time
+point16,17,18,19,20 will respectively wait until 10sec is passed for each account
+point16,17,18,19,20 will be made at the same time
+
+**This total to (theoretically) 30 seconds for a 400m scan instead of 4 minutes when using 1 account**
+
+
 1) Tap on the options (Top-Right corner)
 
 2) Tap on "Add Extra Accounts"
