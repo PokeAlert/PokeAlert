@@ -1,3 +1,6 @@
+
+**Disclaimer: If Niantic Labs asks that to stop all PokeAert activities, PokeAlert will comply and the request will be fulfilled immediately**
+
 Download links (latest version at the top) 
 ###[Download Section](https://github.com/PokeAlert/PokeAlert/releases)
 
