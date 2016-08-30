@@ -108,18 +108,20 @@ google_username_4 password GOOGLE<br />
 
 # Recommendations
 
-This section will explain why an account becomes banned and how it is possible 
+This section will explain why an account can become banned and some tips to avoid this.
+
+## Niantic possible anti-scan technics
 
 First to understand better why it is preferable to avoid doing certain things, here a list of reason an account "might" get flagged/banned:
 
-Things that are is users hands:
+###### Things that are is users hands:
 
  - Distance between scans: This might be the one that makes the more sense. If a scan (point) is considered "too fare" from a previous one they might judges that it was impossible for a normal user to fly/drive/walk there in a normal time. 
 
  - Delay between each requests: The original PokemonGO game only makes **1 request every 10 seconds**. If this delay is not respected nothing is returned by the server. And if this rules is periodically not respected this "might" indicate a non-normal behaviour and risk an account to be flagged/banned
  
 
-Things that are not in users hands:
+###### Things that are not in users hands:
 
  - The requests PokeAlert sends to the PokemonGO server are not the same as the original PokemonGO game: There is a lot to consider when talking to the server. PokeAlert tries to mimic **as much as possible** the real game. But sometimes it is possible that things are slightly different and it "can" be used to get an account flagged.
 
@@ -127,7 +129,7 @@ Things that are not in users hands:
 
 
 
-Here are some tips to make your accounts last longer (PokeAlert viagra):
+###### Here are some tips to make your accounts last longer (PokeAlert viagra):
 
  1) Do not login with with your "scanning" accounts in the **PokemonGO game** with the same phone you using your main playing account. And of course do not login with your main playing account in PokeAlert!
 
