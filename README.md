@@ -129,7 +129,7 @@ First to understand better why it is preferable to avoid doing certain things, h
 
 
 
-###### Here are some tips to make your accounts last longer (PokeAlert viagra):
+## Tips to make your accounts last longer (PokeAlert viagra):
 
  1) Do not login with with your "scanning" accounts in the **PokemonGO game** with the same phone you using your main playing account. And of course do not login with your main playing account in PokeAlert!
 
@@ -145,7 +145,7 @@ First to understand better why it is preferable to avoid doing certain things, h
  6) For user that use the 70m radius it is very easy to break rule 5). So try manually wait 10 seconds between scans.
 
 
-Settings recommendations:
+###### Settings recommendations:
 
  - Add at least 4-5 accounts for a better experience.
 
