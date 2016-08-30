@@ -116,7 +116,7 @@ First to understand better why it is preferable to avoid doing certain things, h
 
 ###### Things that are is users hands:
 
- - Distance between scans: This might be the one that makes the more sense. If a scan (point) is considered "too fare" from a previous one they might judges that it was impossible for a normal user to fly/drive/walk there in a normal time. 
+ - Distance between scans: This might be the one that makes the more sense. If a scan (point) is considered "too fare" from a previous one they (Niantic) might judge that it was impossible for a normal user to fly/drive/walk there in a normal time. 
 
  - Delay between each requests: The original PokemonGO game only makes **1 request every 10 seconds**. If this delay is not respected nothing is returned by the server. And if this rules is periodically not respected this "might" indicate a non-normal behaviour and risk an account to be flagged/banned
  
