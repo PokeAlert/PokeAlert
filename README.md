@@ -106,6 +106,59 @@ google_username_4 password GOOGLE<br />
 3) got in the "Add Extra Accounts" and simply tap "LOAD FROM FILE". You will see all the account getting added!
 
 
+# Recommendations
+
+This section will explain why an account becomes banned and how it is possible 
+
+First to understand better why it is preferable to avoid doing certain things, here a list of reason an account "might" get flagged/banned:
+
+Things that are is users hands:
+
+ - Distance between scans: This might be the one that makes the more sense. If a scan (point) is considered "too fare" from a previous one they might judges that it was impossible for a normal user to fly/drive/walk there in a normal time. 
+
+ - Delay between each requests: The original PokemonGO game only makes **1 request every 10 seconds**. If this delay is not respected nothing is returned by the server. And if this rules is periodically not respected this "might" indicate a non-normal behaviour and risk an account to be flagged/banned
+ 
+
+Things that are not in users hands:
+
+ - The requests PokeAlert sends to the PokemonGO server are not the same as the original PokemonGO game: There is a lot to consider when talking to the server. PokeAlert tries to mimic **as much as possible** the real game. But sometimes it is possible that things are slightly different and it "can" be used to get an account flagged.
+
+ - The ratio **distance/pokemon caught**: Niantic "Might" use this criteria to detect a normal user vs scanning account and PokeAlert doesn't (yet?) catches pokemon now and then to adjust that ratio. This might explain why after 2 or 3 weeks an account might become banned.
+
+
+
+Here are some tips to make your accounts last longer (PokeAlert viagra):
+
+ 1) Do not login with with your "scanning" accounts in the **PokemonGO game** with the same phone you using your main playing account. And of course do not login with your main playing account in PokeAlert!
+
+ 2) Scan around you as much as possible (avoid jumping over 2km away from scan to scan)
+ 
+ 3) Don't scan cities where your are not just for fun 
+
+ 4) Don't use your PokeAlert accounts on any other third-party app.
+ 
+ 
+ 5) avoid starting and stopping the background service (and manual scan) every 2 seconds (remember that 10 seconds rules?, when you start and stop to frequently the 10 seconds rules is not respected and might raise an eye brow server side) 
+
+ 6) For user that use the 70m radius it is very easy to break rule 5). So try manually wait 10 seconds between scans.
+
+
+Settings recommendations:
+
+ - Add at least 4-5 accounts for a better experience.
+
+ - For user between 2 and 5 accounts I would suggest using not more than 300m radius and a background scan delay of minimum 20 seconds
+
+ - For users that have between 10 and 15 accounts I'd suggest using not more than 550m radius and a background scan delay of minimum 20 seconds.
+
+
+Note this is not an exact science. We do not know all the technics Niantic might use to detect non-normal behaviours. 
+PokeAlert tries to be as stealthy as possible but it might happens of course that some of you account becomes banned after a while even by following the below rules.
+
+
+
+
+
 
 # Twitter
 https://twitter.com/PokemonGORadar1
