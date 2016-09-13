@@ -118,11 +118,15 @@ To remove the locked area simply click "once" on the blue circle
 # Multi-Scan
 
 **This is a feature for advance user**
+
 PokeAlert let yout select "multiple" locked areas and assign any number of accounts to them. 
 
 1) Activate the feature in the Settings ("use multi scan")
+
 2) Long press on the map. A dialog appear that will ask you select which account will scan this area
+
 3) Press Ok
+
 4) Long press on the map to create a new area. A dialog appear that will ask you to select which account will scannin this area
 
 You can "edit" an area simply by clicking "once" on a blue circle. If you wish to remove an area simply click "once" on it and remove all the accounts, this will automatically remove the locked are.
