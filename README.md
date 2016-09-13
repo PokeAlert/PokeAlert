@@ -104,6 +104,35 @@ google_username_4 password GOOGLE<br />
 
 3) got in the "Add Extra Accounts" and simply tap "LOAD FROM FILE". You will see all the account getting added!
 
+# Fixed location
+
+Normaly, when the background service is enabled, PokeAlert will periodically scan your location in the background. But you can as well instruct PokeAlert to only scan a "fixed" location" here is how:
+
+1) Long press on the Map
+
+This will show a blue circle and whenever you enable the background service PokeAlert will scann that area
+
+To remove the locked area simply click "once" on the blue circle
+
+
+# Multi-Scan
+
+**This is a feature for advance user**
+PokeAlert let yout select "multiple" locked areas and assign any number of accounts to them. 
+
+1) Activate the feature in the Settings ("use multi scan")
+2) Long press on the map. A dialog appear that will ask you select which account will scan this area
+3) Press Ok
+4) Long press on the map to create a new area. A dialog appear that will ask you to select which account will scannin this area
+
+You can "edit" an area simply by clicking "once" on a blue circle. If you wish to remove an area simply click "once" on it and remove all the accounts, this will automatically remove the locked are.
+
+**Again, this feature is for advanced. When scannng on single area, PokeAlert is smart enough to make your accounts travel as a walking person and avoid making accounts jumps to fare**
+
+**Now with Multi-Scan you are free to decide which accounts can scan which area, but if you create areas that are really fare from each other and start mixing which account scan which area then you MIGHT see these account ban faster as they jump location too fare**
+
+**If you are a normal Joe you probably should not be using multi-scan and only scan one area as usual...**
+
 
 # Recommendations
 
