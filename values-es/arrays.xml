@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
 
@@ -15,9 +15,9 @@
 
     <string-array name="map_type">
         <item>Normal</item>
-        <item>Satellite</item>
-        <item>Terrain</item>
-        <item>Hybrid</item>
+        <item>Satélite</item>
+        <item>Terreno</item>
+        <item>Híbrido</item>
     </string-array>
 
     <string-array name="map_type_values">
@@ -28,14 +28,15 @@
     </string-array>
 
     <string-array name="pref_languages">
-        <item>English</item>
-        <item>German</item>
-        <item>French</item>
-        <item>Russian</item>
-        <item>Japanese</item>
-        <item>Chinese (PRC)</item>
-        <item>Chinese (Taiwan)</item>
-        <item>Chinese (Hong Kong)</item>
+        <item>Inglés</item>
+        <item>Alemán</item>
+        <item>Francés</item>
+		<item>Español</item>
+        <item>Ruso</item>
+        <item>Japonés</item>
+        <item>Chino (PRC)</item>
+        <item>Chino (Taiwan)</item>
+        <item>Chino (Hong Kong)</item>
     </string-array>
 
     <!-- Translaters DO NOT translate this -->
@@ -43,6 +44,7 @@
         <item>en</item>
         <item>de</item>
         <item>fr</item>
+		<item>es</item>
         <item>ru</item>
         <item>jp</item>
         <item>zh_CN</item>
@@ -62,7 +64,7 @@
         <item>900m</item>
         <item>1000m</item>
         <item>1600m</item>
-        <item>2200m (Better have loaded lots of accounts :))</item>
+        <item>2200m (Mejor se han cargado un montón de cuentas :))</item>
     </string-array>
 
     <string-array name="pref_possible_steps_values">
@@ -81,21 +83,21 @@
     </string-array>
 
     <string-array name="scan_delay">
-        <item>10 seconds</item>
-        <item>20 seconds</item>
-        <item>40 seconds</item>
-        <item>1 minutes</item>
-        <item>2 minutes</item>
-        <item>3 minutes</item>
-        <item>4 minutes</item>
-        <item>5 minutes</item>
-        <item>6 minutes</item>
-        <item>7 minutes</item>
-        <item>8 minutes</item>
-        <item>9 minutes</item>
-        <item>10 minutes</item>
-        <item>20 minutes</item>
-        <item>30 minutes</item>
+        <item>10 segundos</item>
+        <item>20 segundos</item>
+        <item>40 segundos</item>
+        <item>1 minutos</item>
+        <item>2 minutos</item>
+        <item>3 minutos</item>
+        <item>4 minutos</item>
+        <item>5 minutos</item>
+        <item>6 minutos</item>
+        <item>7 minutos</item>
+        <item>8 minutos</item>
+        <item>9 minutos</item>
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
     </string-array>
 
     <!-- Translaters DO NOT translate this -->
@@ -118,9 +120,9 @@
     </string-array>
 
     <string-array name="pokemon_display_time">
-        <item>Expired time (24H)</item>
-        <item>Expired time (12H)</item>
-        <item>Countdown</item>
+        <item>El tiempo de caducidad (24H)</item>
+        <item>El tiempo de caducidad (24H)</item>
+        <item>Cuenta atrás</item>
     </string-array>
 
     <!-- Translaters DO NOT translate this -->
@@ -137,5 +139,6 @@
         <item>en-US</item>
         <item>it-IT</item>
         <item>de-DE</item>
+		<item>es-ES</item>
     </string-array>
 </resources>
