@@ -3,8 +3,8 @@
 
 
     <string-array name="icon_type">
-        <item>Old school low res</item>
-        <item>HD (beta)</item>
+        <item>Iconos antiguos</item>
+        <item>Iconos HD (beta)</item>
     </string-array>
 
     <!-- Translaters DO NOT translate this -->
@@ -64,7 +64,7 @@
         <item>900m</item>
         <item>1000m</item>
         <item>1600m</item>
-        <item>2200m (Mejor se han cargado un montón de cuentas :))</item>
+        <item>2200m (Preferible usarlo cuando se han añadido muchas cuentas :))</item>
     </string-array>
 
     <string-array name="pref_possible_steps_values">
@@ -120,8 +120,8 @@
     </string-array>
 
     <string-array name="pokemon_display_time">
-        <item>El tiempo de caducidad (24H)</item>
-        <item>El tiempo de caducidad (24H)</item>
+        <item>Tiempo de expiración (24H)</item>
+        <item>Tiempo de expiración (12H)</item>
         <item>Cuenta atrás</item>
     </string-array>
 
