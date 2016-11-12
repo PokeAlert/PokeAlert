@@ -45,7 +45,7 @@
     <string name="password_hint">PTC 密码或 Gmail 密码</string>
     <string name="account_loaded">帐户读取成功</string>
     <string name="use_multi_area_scan_title">多点扫瞄</string>
-    <string name="use_multi_area_scan_summary">选择将由不同帐户扫描的多个区域（这是进阶的用户功能，如果设定正确会让扫瞄速度更快）</string>
+    <string name="use_multi_area_scan_summary">选择将由不同帐户扫描的多个区域（这是进阶的用户功能，如果设定不正确会让帐户更快被禁用）</string>
     <string name="select_account_assigne_area">选择要分配到此区域的帐户</string>
     <string name="next">下一个</string>
     <string name="close">关闭</string>
