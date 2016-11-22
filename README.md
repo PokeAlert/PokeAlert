@@ -38,6 +38,9 @@ PokeAlert has been developed by a handsome (:)) and enthusiast Pokemon trainer. 
 
 4) Basically, you are good to go, simply press the "Play" button and you will see the scan starting (pink circle moving around)
 
+You can also follow this guide made by Twitter user @CrimOfSweden
+https://docs.google.com/document/d/1bZ8OHdF1YOE9O3hWKmoYmBM0R1Pqb3su-0Hnru_zjeI/pub
+
 
 # Background scan service
 If you do not want to manually scan areas, you can use the background scan service. When activated, PokeAlert will periodically scan in the background and send notification when a Pokemon is found! You do not need to stare at the map, simply put your phone in your pocket and wait for that Snorlax! :p
