@@ -1,0 +1,364 @@
+<resources>
+    <string name="clear_map">清空地图</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
+    <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
+    <string name="trainer_login_description">！！请勿使用游戏帐户！！ \n\n请至 https://www.pokemon.com/us/pokemon-trainer-club/ 创建扫瞄专用帐户</string>
+    <string name="hint_trainer_username">PTC 帐户</string>
+    <string name="hint_trainer_password">PTC 密码</string>
+    <string name="filter_management">过滤器管理</string>
+    <string name="delete">删除</string>
+    <string name="creds_not_valid">错误的用户名称或密码</string>
+    <string name="add_extra_account_title">加入额外帐户</string>
+    <string name="manage_accounts">管理帐户</string>
+    <string name="duplicate_account">你已经加入此帐户</string>
+    <string name="account_added">帐户已经新增了！ </string>
+    <string name="help_title">求助</string>
+    <string name="help_summary">到推特找我</string>
+    <string name="scan_settings">扫瞄设定</string>
+    <string name="search_range">搜寻半径</string>
+    <string name="background_scan_inerval">背景扫描间隔时间 (秒)</string>
+    <string name="notification_description">PokeAlert 有更新版本！ </string>
+    <string name="auto_updating">PokeAlert 正自动更新中，请等待完成下载及安装</string>
+	<string name="pokemon_auto_despawn_title">自动移除过期宝可梦</string>
+    <string name="pokemon_time_display_title">宝可梦过期类型</string>
+    <string name="load_from_file">从文件读取</string>
+    <string name="version_title">点此看版本说明</string>
+    <string name="pokemon_name_title">宝可梦名字显示语系</string>
+    <string name="ptc_login">训练师登入</string>
+    <string name="google_login">Google 登入</string>
+    <string name="caught_pokemon_management_title">已收服宝可梦管理</string>
+    <string name="use_fast_scan">使用快速扫瞄</string>
+    <string name="delete_all">删除全部</string>
+    <string name="use_fast_scan_summary">快速扫瞄使用其它用户的扫瞄成果，所以不需要帐户。请注意结果不一定百分百准确。 </string>
+    <string name="annoucement_title">公告</string>
+    <string name="background_service_settings">背景扫瞄设定</string>
+    <string name="save_log_file">储存日志档 (除错用)</string>
+    <string name="notification_sound">​​通知铃声</string>
+    <string name="use_default_notification_sound_title">使用预设的通知铃声</string>
+    <string name="use_default_notification_sound_summary">当启用时你的手机预设铃声会被使用，或者使用以下自订列表中的铃声</string>
+    <string name="vibration_title">振动</string>
+    <string name="vibration_summary">通知时开启或关闭振动</string>
+    <string name="account_deletion_confirmation">你是否确定要删除此帐户</string>
+    <string name="account_seems_banned">此帐户似乎已被禁用</string>
+    <string name="account_alive">帐户仍然有效</string>
+    <string name="username_hint">PTC 帐户或 Gmail 帐户</string>
+    <string name="password_hint">PTC 密码或 Gmail 密码</string>
+    <string name="account_loaded">帐户读取成功</string>
+    <string name="use_multi_area_scan_title">多点扫瞄</string>
+    <string name="use_multi_area_scan_summary">选择将由不同帐户扫描的多个区域（这是进阶的用户功能，如果设定不正确会让帐户更快被禁用）</string>
+    <string name="select_account_assigne_area">选择要分配到此区域的帐户</string>
+    <string name="next">下一个</string>
+    <string name="close">关闭</string>
+	<string name="map_type_title">地图类型</string>
+    <string name="donate_title">捐赠</string>
+    <string name="map_settings">地图设定</string>
+    <string name="icon_type_title">宝可梦图示类型</string>
+    <string name="settings">设定</string>
+    <string name="filter_name_hint">过滤器名称</string>
+    <string name="filter_management_title">过滤器管理</string>
+    <string name="filter_cannot_delete_active">你不能删除使用中的过滤器</string>
+    <string name="select_tone">选择音效</string>
+    <string name="empty_filter_error">你必须至少选择一个宝可梦</string>
+    <string name="duplicate_filter">此过滤器已经存在</string>
+    <string name="iv_title">IVs</string>
+    <string name="attack">攻击</string>
+    <string name="defense">防御</string>
+    <string name="moves_title">技能</string>
+    <string name="stamina">耐力</string>
+    <string name="show_gyms">显示道馆</string>
+    <string name="show_pokestops">显示补给点</string>
+    <string name="read_write_no_permissions">这个App没有读取及写入SD卡的权限</string>
+    <string name="filter_saved_to_file">过滤器设定档已成功储存在: %s</string>
+    <string name="filter_saved_to_file_error">在SD卡上储存过滤器设定到文件的时候出现错误</string>
+    <string name="filters_loaded">过滤器已读取成功</string>
+    <string name="filters_loaded_error">在从文件中读取过滤器设定时出现错误</string>
+    <string name="support_title">支持 PokeAlert</string>
+    <string name="support_us_summary">藉由启用每30次扫瞄出现的全屏广告，您将可以享用更多功能</string>
+    <string name="support_us_title">支持我们</string>
+    <string name="scan_unknown_error">在扫瞄时发生错误，请联络开发人员</string>
+    <string name="account_banned">帐户 = %s 似乎已被禁用</string>
+    <string name="generic_login_error">帐户 = %s 发生登入异常</string>
+    <string name="niantic_login_error">帐户 = %1$s : %2$s</string>
+    <string name="no_account_error">你没有任何可使用的帐户，请至少加入一个</string>
+    <string name="stop_scan_before_editing">在开启背景扫瞄前，请先停止目前的扫瞄</string>
+    <string name="stop_scan_before_starting_manual">开始手动扫瞄前，请先停止背景扫瞄</string>
+    <string name="scan_stoping">扫瞄正停止中，有耐心点</string>
+    <string name="enable_gps_error">请启用 GPS 再开始扫瞄</string>
+    <string name="stop_service_before_creating_area">建立新区域前请先停止服务</string>
+    <string name="stop_manual_scan_before_starting_background">​​在开启背景扫瞄前，请先停止目前的扫瞄服务</string>
+    <string name="auto_update_error">无法自动更新App，请手动更新</string>
+    <string name="save_log_to_file_success">系统日志已成功存放在: %s 请把此文件传给开发者</string>
+    <string name="save_log_to_file_error">存放日志文件时发生错误，请确认是否有授权给App读写的权限</string>
+    <string name="no_location_permission_error">看样子你没给App读取位置的权限，请在设定中开启然后重启App</string>
+    <string name="no_play_service_error">Google Play 服务连接错误。请确认 Google Play 服务是最新版本！ </string>
+    <string name="account_loaded_error">从文件中汇入帐户时发生错误</string>
+    <string name="sd_no_writeable">看样子SD卡无法写入</string>
+    <string name="accounts_save_to_file_success">帐户设定档存放在 %s</string>
+    <string name="accounts_save_to_file_error">在写入帐户设定到文件时发生错误，确认你已经有赋予文件读与写的权限</string>
+    <string name="background_service_stopping">停止背景扫瞄服务</string>
+    <string name="background_service_starting">开始背景扫瞄服务，请稍候</string>
+    <string name="select_all">选择全部</string>
+    <string name="filter_saved">过滤器已储存</string>
+    <string name="show_on_map_min_iv"><![CDATA[Show on map when IV >=]]></string>
+    <string name="notifify_min_iv"><![CDATA[Notify when IV >=]]></string>
+    <string name="iv_threshold_hint">0</string>
+    <string name="map">地图</string>
+    <string name="notify">通知</string>
+    <string name="iv">IV</string>
+    <string name="advanced_filter_description_title">进阶过滤</string>
+    <string name="advanced_filter_description">点选名字可为此宝可梦设定进阶过滤条件</string>
+    <string name="failed_iv">(IV Failed)</string>
+    <string name="background_scan">背景扫瞄</string>
+    <string name="background_scan_tuto">这将会启用背景扫瞄，并且在找到宝可梦时发给你通知</string>
+    <string name="clear_map_tuto">这将会清除地图上的所有宝可梦</string>
+    <string name="fixed_area">固定区域</string>
+    <string name="fix_area_tuto">这将会让你创立一个「固定」区域供背景扫瞄用。移除区域只要点一下圆圈即可</string>
+    <string name="support_pokealert">支持 PokeAlert</string>
+    <string name="supper_pokealert_tuto">这是一个好广告，如果你想支持 PokeAlert，请点击</string>
+    <string name="overlaymap">浮动地图</string>
+    <string name="overlaymap_tuto">这会打开一个浮动地图，可在玩 PokemonGO 时同时使用</string>
+
+	<!-- For the translaters that have already  translated their language, from here to bottom are the new strings -->
+    <string name="spawn_point_manager_title">重生点管理员</string>
+    <string name="export_all_spawn_points">汇出为 JSON 格式档</string>
+    <string name="spawn_point_count_title">重生点:</string>
+    <string name="spawn_point_limit_description">由于不同手机的记忆体限制，只能存 3000 笔重生点</string>
+    <string name="import_spawn_points">从 JSON 格式档汇入</string>
+    <string name="comming_soon">即将开放</string>
+    <string name="save_spawn_points_title">储存重生点</string>
+    <string name="save_spawn_points_summary">当启用此选项，所有找到的宝被将存到资料库中</string>
+    <string name="delete_all_spawn_points">删除所有重生点</string>
+    <string name="spawn_point_saved_sucessfully">重生点记录档已成功存到 %s</string>
+    <string name="manage_spawn_point">管理重生点</string>
+    <string name="bitcoin_address_copied">比特币的地址已成功复制到您的剪贴簿里</string>
+    <string name="gym_detail_failed">没有道馆资料</string>
+    <string name="show_gym_summary">显示所有道馆和其细节 (警告！额外的请求会增加您的网路传输量)</string>
+    <string name="show_pokestops_summary">显示所有补给点</string>
+    <string name="has_lure">有樱花</string>
+    <string name="has_no_lure">一般补给点</string>
+    <string name="pokestop">补给点</string>
+    <string name="overlaymap_not_available_for_device">不好意思！您的装置不支援浮动式地图 :(</string>
+    <string name="no_iv_for_fastscan">无 IV 资讯给快速扫描的宝可梦</string>
+    <string name="requires_captcha">要求 Captcha 验证</string>
+    <string name="captcha_resolve_intruction">Captcha 验证的网址已经存到您的剪贴簿。打开 Chrome 浏览器并贴上网址</string>
+    <string name="solve_captach">解决 Captcha 验证</string>
+    <string name="capctha_link_expired">您已经试过解决此 Captcha 验证且连结已过期。您需要用此帐户重新扫描来取得新的 Captcha 验证连结</string>
+    <string name="scan_before_solving">Captcha 验证已经过期。请用此帐户再扫描一次重新读取 Captcha 验证。在进行此动作时别关掉 App。 </string>
+    <string name="cancel">取消</string>
+    <string name="captcha">Captcha 验证</string>
+    <string name="captcha_required">需要进行 Captcha 验证</string>
+    <string name="captcha_required_for_account">需要 Captcha 验证的帐户: %s</string>
+    <string name="accounts">帐户</string>
+    <string name="filters">过滤器</string>
+    <string name="spawn_points">重生点</string>
+    <string name="general_settings">一般设定</string>
+    <string name="scan">扫描</string>
+    <string name="map_overlay">浮动式地图</string>
+    <string name="expire">过期</string>
+    <string name="move_one">招式 1</string>
+    <string name="move_two">招式 2</string>
+    <string name="expired">已过期</string>
+    <string name="quick_scan">快速扫描</string>
+    <string name="show_pokemon_timer_summary">在每个宝可梦上方显示计时器 (低记忆体的手机关闭此项)</string>
+    <string name="show_pokemon_timer_title">显示计时器</string>
+    <string name="gym_points">道馆分数:</string>
+    <string name="gym_level">道馆等级:</string>
+    <string name="guard_pokemon">驻守的宝可梦:</string>
+    <string name="show_when_iv_fail">当 IV fails 时显示</string>
+    <string name="notifiy_when_iv_fail">当 IV fails 时通知</string>
+    <string name="ad_block">挡广告程序</string>
+    <string name="ad_block_message">我们不向您收取任何费用让您使用 PokeAlert，而您却不支持我们为您免费提供如此棒的作品。请关掉挡广告程序</string>
+    <string name="assign_group">分派群组</string>
+    <string name="remove_from_group">从群组移除</string>
+    <string name="new_group">新的群组</string>
+    <string name="select_group">选择群组</string>
+    <string name="group_name">群组名称</string>
+    <string name="create">建立</string>
+    <string name="area">区域</string>
+    <string name="save">储存</string>
+    <string name="are_already_locked">您已经锁定这个区域</string>
+    <string name="random_nb_accounts">随机数量的帐户</string>
+    <string name="external_notification">推特通知</string>
+    <string name="consumer_key">Consumer key</string>
+    <string name="consumer_secret_key">Consumer secret key</string>
+    <string name="access_token">Access token</string>
+    <string name="access_token_secret">Access Token Secret</string>
+    <string name="apply_filters">应用过滤器</string>
+    <string name="fill_all_fields">请输入所有栏位</string>
+    <string name="advance_filter">进阶过滤器</string>
+    <string name="multi_filter_select_comment">您在多选模式。这些选项将会套用设定到全部您已圈选的宝可梦</string>
+    <string name="clone">复制</string>
+    <string name="no_whatsapp">您没有装 Whatsapp。无法分享此宝可梦</string>
+    <string name="no_available_account">您没有任何可选用的帐户，删掉一个区域以空出一些帐户</string>
+    <string name="quick_scan_tuto">这是一个立即扫描 (Quick scan)。立即扫描用在您只是想立即扫描一个区域，但扫完之后就停止，不继续在背景执行。立即扫描不用在固定区域，视蓝色的「预览」圈圈在那里而定</string>
+    <string name="share_using">分享到</string>
+    <string name="creating_account">创建帐户</string>
+    <string name="account_created">帐户已建立</string>
+    <string name="auto_ptc_username_hint">挑选一个帐户名称</string>
+    <string name="auto_ptc_password_hint">挑选一个密码</string>
+    <string name="auto_ptc_email_hint">挑选一个有效的 Email</string>
+    <string name="auto_ptc_nb_account_hint">要创建的帐户数量</string>
+    <string name="auto_ptc_info">PokeAlert 将会为您挑选随机的帐户名称。输入一个有效的 Email (请使用 Gmail) 您必须登入 Email 收信激活帐户，因为不激活的话 3 天后帐户就会失效。 PokeAlert 最多能让您在一个批次里建立10笔帐户</string>
+    <string name="no_account_info">要让 PokeAlert 动起来需要您新增一些「扫描用」帐户。您也可以让 PokeAlert 帮您创建帐户 (在下一个画面点选最上方的机器人图示按纽) 或者您可以手动新增一些已经有的帐户</string>
+    <string name="add_accounts">新增帐户</string>
+    <string name="account_long_press_info">在帐户上长按，进去多选模式</string>
+    <string name="filter_long_press_info">在宝可梦上长按，进去多选模式</string>
+    <string name="account_stats">状态</string>
+    <string name="wrong_email">请确实输入有效的 Email</string>
+    <string name="real_user_simulation_summary">当启用此项，PokeAlert 会尽其可能地模拟真实玩家或动以避免遇到 Captcha 验证</string>
+
+	
+    <string-array name="pokemons">
+		<item>妙蛙种子</item>
+        <item>妙蛙草</item>
+        <item>妙蛙花</item>
+        <item>小火龙</item>
+        <item>火恐龙</item>
+        <item>喷火龙</item>
+        <item>杰尼龟</item>
+        <item>卡咪龟</item>
+        <item>水箭龟</item>
+        <item>绿毛虫</item>
+        <item>铁甲蛹</item>
+        <item>巴大蝶</item>
+        <item>独角虫</item>
+        <item>铁壳蛹</item>
+        <item>大针蜂</item>
+        <item>波波</item>
+        <item>比比鸟</item>
+        <item>大比鸟</item>
+        <item>小拉达</item>
+        <item>拉达</item>
+        <item>烈雀</item>
+        <item>大嘴雀</item>
+        <item>阿柏蛇</item>
+        <item>阿柏怪</item>
+        <item>皮卡丘</item>
+        <item>雷丘</item>
+        <item>穿山鼠</item>
+        <item>穿山王</item>
+        <item>尼多兰</item>
+        <item>尼多娜</item>
+        <item>尼多后</item>
+        <item>尼多朗</item>
+        <item>尼多力诺</item>
+        <item>尼多王</item>
+        <item>皮皮</item>
+        <item>皮可西</item>
+        <item>六尾</item>
+        <item>九尾</item>
+        <item>胖丁</item>
+        <item>胖可丁</item>
+        <item>超音蝠</item>
+        <item>大嘴蝠</item>
+        <item>走路草</item>
+        <item>臭臭花</item>
+        <item>霸王花</item>
+        <item>派拉斯</item>
+        <item>派拉斯特</item>
+        <item>毛球</item>
+        <item>摩鲁蛾</item>
+        <item>地鼠</item>
+        <item>三地鼠</item>
+        <item>喵喵</item>
+        <item>猫老大</item>
+        <item>可达鸭</item>
+        <item>哥达鸭</item>
+        <item>猴怪</item>
+        <item>火爆猴</item>
+        <item>卡蒂狗</item>
+        <item>风速狗</item>
+        <item>蚊香蝌蚪</item>
+        <item>蚊香君</item>
+        <item>蚊香勇士</item>
+        <item>凯西</item>
+        <item>勇吉拉</item>
+        <item>胡地</item>
+        <item>腕力</item>
+        <item>豪力</item>
+        <item>怪力</item>
+        <item>喇叭芽</item>
+        <item>口呆花</item>
+        <item>大食花</item>
+        <item>玛瑙水母</item>
+        <item>毒刺水母</item>
+        <item>小拳石</item>
+        <item>隆隆石</item>
+        <item>隆隆岩</item>
+        <item>小火马</item>
+        <item>烈焰马</item>
+        <item>呆呆兽</item>
+        <item>呆壳兽</item>
+        <item>小磁怪</item>
+        <item>三合一磁怪</item>
+        <item>大葱鸭</item>
+        <item>嘟嘟</item>
+        <item>嘟嘟利</item>
+        <item>小海狮</item>
+        <item>白海狮</item>
+        <item>臭泥</item>
+        <item>臭泥</item>
+        <item>大舌贝</item>
+        <item>刺甲贝</item>
+        <item>鬼斯</item>
+        <item>鬼斯通</item>
+        <item>耿鬼</item>
+        <item>大岩蛇</item>
+        <item>催眠貘</item>
+        <item>引梦貘人</item>
+        <item>大钳蟹</item>
+        <item>巨钳蟹</item>
+        <item>霹雳电球</item>
+        <item>顽皮雷弹</item>
+        <item>蛋蛋</item>
+        <item>椰蛋树</item>
+        <item>卡拉卡拉</item>
+        <item>嘎拉嘎拉</item>
+        <item>飞腿郎</item>
+        <item>快拳郎</item>
+        <item>大舌头</item>
+        <item>瓦斯弹</item>
+        <item>双弹瓦斯</item>
+        <item>独角犀牛</item>
+        <item>钻角犀牛</item>
+        <item>吉利蛋</item>
+        <item>蔓藤怪</item>
+        <item>袋兽</item>
+        <item>墨海马</item>
+        <item>海刺龙</item>
+        <item>角金鱼</item>
+        <item>金鱼王</item>
+        <item>海星星</item>
+        <item>宝石海星</item>
+        <item>魔墙人偶</item>
+        <item>飞天螳螂</item>
+        <item>迷唇姐</item>
+        <item>电击兽</item>
+        <item>鸭嘴火兽</item>
+        <item>凯罗斯</item>
+        <item>肯泰罗</item>
+        <item>鲤鱼王</item>
+        <item>暴鲤龙</item>
+        <item>拉普拉斯</item>
+        <item>百变怪</item>
+        <item>伊布</item>
+        <item>水伊布</item>
+        <item>雷伊布</item>
+        <item>火伊布</item>
+        <item>多边兽</item>
+        <item>菊石兽</item>
+        <item>多刺菊石兽</item>
+        <item>化石盔</item>
+        <item>镰刀盔</item>
+        <item>化石翼龙</item>
+        <item>卡比兽</item>
+        <item>急冻鸟</item>
+        <item>闪电鸟</item>
+        <item>火焰鸟</item>
+        <item>迷你龙</item>
+        <item>哈克龙</item>
+        <item>快龙</item>
+        <item>超梦</item>
+        <item>梦幻</item>
+    </string-array>
+</resources>

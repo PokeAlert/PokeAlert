@@ -1,0 +1,365 @@
+<resources>
+    <string name="clear_map">清空地圖</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
+    <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
+    <string name="trainer_login_description">！！請勿使用遊戲帳號！！\n\n請至 https://www.pokemon.com/us/pokemon-trainer-club/ 創建掃瞄專用帳號</string>
+    <string name="hint_trainer_username">PTC 帳號</string>
+    <string name="hint_trainer_password">PTC 密碼</string>
+    <string name="filter_management">過濾器管理</string>
+    <string name="delete">刪除</string>
+    <string name="creds_not_valid">錯誤的用戶名稱或密碼</string>
+    <string name="add_extra_account_title">加入額外帳號</string>
+    <string name="manage_accounts">管理帳號</string>
+    <string name="duplicate_account">您已經加入此帳號</string>
+    <string name="account_added">帳號已經新增了！</string>
+    <string name="help_title">求助</string>
+    <string name="help_summary">到推特找我</string>
+    <string name="scan_settings">掃瞄設定</string>
+    <string name="search_range">搜尋半徑</string>
+    <string name="background_scan_inerval">背景掃描間隔時間 (秒)</string>
+    <string name="notification_description">PokeAlert 有更新版本！</string>
+    <string name="auto_updating">PokeAlert 正自動更新中，請等待完成下載及安裝</string>
+
+    <string name="pokemon_auto_despawn_title">自動移除過期寶貝</string>
+    <string name="pokemon_time_display_title">寶貝過期類型</string>
+    <string name="load_from_file">從檔案讀取</string>
+    <string name="version_title">點此看版本說明</string>
+    <string name="pokemon_name_title">寶貝名字顯示語系</string>
+    <string name="ptc_login">訓練師登入</string>
+    <string name="google_login">Google 登入</string>
+    <string name="caught_pokemon_management_title">已收服寶貝管理</string>
+    <string name="use_fast_scan">使用快速掃瞄</string>
+    <string name="delete_all">刪除全部</string>
+    <string name="use_fast_scan_summary">快速掃瞄使用其它用戶的掃瞄成果，所以不需要帳號。請注意結果不一定百分百準確。</string>
+    <string name="annoucement_title">公告</string>
+    <string name="background_service_settings">背景掃瞄設定</string>
+    <string name="save_log_file">儲存日誌檔 (除錯用)</string>
+    <string name="notification_sound">通知鈴聲</string>
+    <string name="use_default_notification_sound_title">使用預設的通知鈴聲</string>
+    <string name="use_default_notification_sound_summary">當啟用時您的手機預設鈴聲會被使用，或者使用以下自訂列表中的鈴聲</string>
+    <string name="vibration_title">振動</string>
+    <string name="vibration_summary">通知時開啟或關閉振動</string>
+    <string name="account_deletion_confirmation">您是否確定要刪除此帳號</string>
+    <string name="account_seems_banned">此帳號似乎已被禁用</string>
+    <string name="account_alive">帳號仍然有效</string>
+    <string name="username_hint">PTC 帳號或 Gmail 帳號</string>
+    <string name="password_hint">PTC 密碼或 Gmail 密碼</string>
+    <string name="account_loaded">帳號讀取成功</string>
+    <string name="use_multi_area_scan_title">多點掃瞄</string>
+    <string name="use_multi_area_scan_summary">選擇將由不同帳號掃描的多個區域（這是進階的用戶功能，如果設定不正確會讓帳號更快被禁用）</string>
+    <string name="select_account_assigne_area">選擇要分配到此區域的帳號</string>
+    <string name="next">下一個</string>
+    <string name="close">關閉</string>
+    <string name="map_type_title">地圖類型</string>
+    <string name="donate_title">捐贈</string>
+    <string name="map_settings">地圖設定</string>
+    <string name="icon_type_title">寶貝圖示類型</string>
+    <string name="settings">設定</string>
+    <string name="filter_name_hint">過濾器名稱</string>
+    <string name="filter_management_title">過濾器管理</string>
+    <string name="filter_cannot_delete_active">您不能刪除使用中的過濾器</string>
+    <string name="select_tone">選擇音效</string>
+    <string name="empty_filter_error">您必須至少選擇一個寶貝</string>
+    <string name="duplicate_filter">此過濾器已經存在</string>
+    <string name="iv_title">IVs</string>
+    <string name="attack">攻擊</string>
+    <string name="defense">防禦</string>
+    <string name="moves_title">技能</string>
+    <string name="stamina">耐力</string>
+    <string name="show_gyms">顯示道館</string>
+    <string name="show_pokestops">顯示補給點</string>
+    <string name="read_write_no_permissions">這個App沒有讀取及寫入SD卡的權限</string>
+    <string name="filter_saved_to_file">過濾器設定檔已成功儲存在: %s</string>
+    <string name="filter_saved_to_file_error">在SD卡上儲存過濾器設定到檔案的時候出現錯誤</string>
+    <string name="filters_loaded">過濾器已讀取成功</string>
+    <string name="filters_loaded_error">在從檔案中讀取過濾器設定時出現錯誤</string>
+    <string name="support_title">支持 PokeAlert</string>
+    <string name="support_us_summary">藉由啟用每30次掃瞄出現的全屏廣告，您將可以享用更多功能</string>
+    <string name="support_us_title">支持我們</string>
+    <string name="scan_unknown_error">在掃瞄時發生錯誤，請聯絡開發人員</string>
+    <string name="account_banned">帳號 = %s 似乎已被禁用</string>
+    <string name="generic_login_error">帳號 = %s 發生登入異常</string>
+    <string name="niantic_login_error">帳號 = %1$s : %2$s</string>
+    <string name="no_account_error">您沒有任何可使用的帳號，請至少加入一個</string>
+    <string name="stop_scan_before_editing">在開啟背景掃瞄前，請先停止目前的掃瞄</string>
+    <string name="stop_scan_before_starting_manual">開始手動掃瞄前，請先停止背景掃瞄</string>
+    <string name="scan_stoping">掃瞄正停止中，有耐心點</string>
+    <string name="enable_gps_error">請啟用 GPS 再開始掃瞄</string>
+    <string name="stop_service_before_creating_area">建立新區域前請先停止服務</string>
+    <string name="stop_manual_scan_before_starting_background">在開啟背景掃瞄前，請先停止目前的掃瞄服務</string>
+    <string name="auto_update_error">無法自動更新App，請手動更新</string>
+    <string name="save_log_to_file_success">系統日誌已成功存放在: %s 請把此檔案傳給開發者</string>
+    <string name="save_log_to_file_error">存放日誌檔案時發生錯誤，請確認是否有授權給App讀寫的權限</string>
+    <string name="no_location_permission_error">看樣子您沒給App讀取位置的權限，請在設定中開啟然後重啟App</string>
+    <string name="no_play_service_error">Google Play 服務連接錯誤。請確認 Google Play 服務是最新版本！</string>
+    <string name="account_loaded_error">從檔案中匯入帳號時發生錯誤</string>
+    <string name="sd_no_writeable">看樣子SD卡無法寫入</string>
+    <string name="accounts_save_to_file_success">帳號設定檔存放在 %s</string>
+    <string name="accounts_save_to_file_error">在寫入帳號設定到檔案時發生錯誤，確認您已經有賦予檔案讀與寫的權限</string>
+    <string name="background_service_stopping">停止背景掃瞄服務</string>
+    <string name="background_service_starting">開始背景掃瞄服務，請稍候</string>
+    <string name="select_all">選擇全部</string>
+    <string name="filter_saved">過濾器已儲存</string>
+    <string name="show_on_map_min_iv"><![CDATA[Show on map when IV >=]]></string>
+    <string name="notifify_min_iv"><![CDATA[Notify when IV >=]]></string>
+    <string name="iv_threshold_hint">0</string>
+    <string name="map">地圖</string>
+    <string name="notify">通知</string>
+    <string name="iv">IV</string>
+    <string name="advanced_filter_description_title">進階過濾</string>
+    <string name="advanced_filter_description">點選名字可為此寶貝設定進階過濾條件</string>
+    <string name="failed_iv">(IV Failed)</string>
+    <string name="background_scan">背景掃瞄</string>
+    <string name="background_scan_tuto">這將會啟用背景掃瞄，並且在找到寶貝時發給您通知</string>
+    <string name="clear_map_tuto">這將會清除地圖上的所有寶貝</string>
+    <string name="fixed_area">固定區域</string>
+    <string name="fix_area_tuto">這將會讓您創立一個「固定」區域供背景掃瞄用。移除區域只要點一下圓圈即可</string>
+    <string name="support_pokealert">支持 PokeAlert</string>
+    <string name="supper_pokealert_tuto">這是一個好廣告，如果您想支持 PokeAlert，請點擊</string>
+    <string name="overlaymap">浮動式地圖</string>
+    <string name="overlaymap_tuto">這會打開一個浮動式地圖，可在玩 PokemonGO 時同時使用</string>
+	
+	<!-- For the translaters that have already  translated their language, from here to bottom are the new strings -->
+    <string name="spawn_point_manager_title">重生點管理員</string>
+    <string name="export_all_spawn_points">匯出為 JSON 格式檔</string>
+    <string name="spawn_point_count_title">重生點:</string>
+    <string name="spawn_point_limit_description">由於不同手機的記憶體限制，只能存 3000 筆重生點</string>
+    <string name="import_spawn_points">從 JSON 格式檔匯入</string>
+    <string name="comming_soon">即將開放</string>
+    <string name="save_spawn_points_title">儲存重生點</string>
+    <string name="save_spawn_points_summary">當啟用此選項，所有找到的寶被將存到資料庫中</string>
+    <string name="delete_all_spawn_points">刪除所有重生點</string>
+    <string name="spawn_point_saved_sucessfully">重生點記錄檔已成功存到 %s</string>
+    <string name="manage_spawn_point">管理重生點</string>
+    <string name="bitcoin_address_copied">比特幣的地址已成功複製到您的剪貼簿裡</string>
+    <string name="gym_detail_failed">沒有道館資料</string>
+    <string name="show_gym_summary">顯示所有道館和其細節 (警告！額外的請求會增加您的網路傳輸量)</string>
+    <string name="show_pokestops_summary">顯示所有補給點</string>
+    <string name="has_lure">有櫻花</string>
+    <string name="has_no_lure">一般補給點</string>
+    <string name="pokestop">補給點</string>
+    <string name="overlaymap_not_available_for_device">不好意思！您的裝置不支援浮動式地圖 :(</string>
+    <string name="no_iv_for_fastscan">無 IV 資訊給快速掃描的寶貝</string>
+    <string name="requires_captcha">要求 Captcha 驗證</string>
+    <string name="captcha_resolve_intruction">Captcha 驗證的網址已經存到您的剪貼簿。打開 Chrome 瀏覽器並貼上網址</string>
+    <string name="solve_captach">解決 Captcha 驗證</string>
+    <string name="capctha_link_expired">您已經試過解決此 Captcha 驗證且連結已過期。您需要用此帳號重新掃描來取得新的 Captcha 驗證連結</string>
+    <string name="scan_before_solving">Captcha 驗證已經過期。請用此帳號再掃描一次重新讀取 Captcha 驗證。在進行此動作時別關掉 App。</string>
+    <string name="cancel">取消</string>
+    <string name="captcha">Captcha 驗證</string>
+    <string name="captcha_required">需要進行 Captcha 驗證</string>
+    <string name="captcha_required_for_account">需要 Captcha 驗證的帳號: %s</string>
+    <string name="accounts">帳號</string>
+    <string name="filters">過濾器</string>
+    <string name="spawn_points">重生點</string>
+    <string name="general_settings">一般設定</string>
+    <string name="scan">掃描</string>
+    <string name="map_overlay">浮動式地圖</string>
+    <string name="expire">過期</string>
+    <string name="move_one">招式 1</string>
+    <string name="move_two">招式 2</string>
+    <string name="expired">已過期</string>
+    <string name="quick_scan">快速掃描</string>
+    <string name="show_pokemon_timer_summary">在每個寶貝上方顯示計時器 (低記憶體的手機關閉此項)</string>
+    <string name="show_pokemon_timer_title">顯示計時器</string>
+    <string name="gym_points">道館分數:</string>
+    <string name="gym_level">道館等級:</string>
+    <string name="guard_pokemon">駐守的寶貝:</string>
+    <string name="show_when_iv_fail">當 IV fails 時顯示</string>
+    <string name="notifiy_when_iv_fail">當 IV fails 時通知</string>
+    <string name="ad_block">擋廣告程式</string>
+    <string name="ad_block_message">我們不向您收取任何費用讓您使用 PokeAlert，而您卻不支持我們為您免費提供如此棒的作品。請關掉擋廣告程式</string>
+    <string name="assign_group">分派群組</string>
+    <string name="remove_from_group">從群組移除</string>
+    <string name="new_group">新的群組</string>
+    <string name="select_group">選擇群組</string>
+    <string name="group_name">群組名稱</string>
+    <string name="create">建立</string>
+    <string name="area">區域</string>
+    <string name="save">儲存</string>
+    <string name="are_already_locked">您已經鎖定這個區域</string>
+    <string name="random_nb_accounts">隨機數量的帳號</string>
+    <string name="external_notification">推特通知</string>
+    <string name="consumer_key">Consumer key</string>
+    <string name="consumer_secret_key">Consumer secret key</string>
+    <string name="access_token">Access token</string>
+    <string name="access_token_secret">Access Token Secret</string>
+    <string name="apply_filters">應用過濾器</string>
+    <string name="fill_all_fields">請輸入所有欄位</string>
+    <string name="advance_filter">進階過濾器</string>
+    <string name="multi_filter_select_comment">您在多選模式。這些選項將會套用設定到全部您已圈選的寶貝</string>
+    <string name="clone">複製</string>
+    <string name="no_whatsapp">您沒有裝 Whatsapp。無法分享此寶貝</string>
+    <string name="no_available_account">您沒有任何可選用的帳號，刪掉一個區域以空出一些帳號</string>
+    <string name="quick_scan_tuto">這是一個立即掃描 (Quick scan)。立即掃描用在您只是想立即掃描一個區域，但掃完之後就停止，不繼續在背景執行。立即掃描不用在固定區域，視藍色的「預覽」圈圈在那裡而定</string>
+    <string name="share_using">分享到</string>
+    <string name="creating_account">創建帳號</string>
+    <string name="account_created">帳號已建立</string>
+    <string name="auto_ptc_username_hint">挑選一個帳號名稱</string>
+    <string name="auto_ptc_password_hint">挑選一個密碼</string>
+    <string name="auto_ptc_email_hint">挑選一個有效的 Email</string>
+    <string name="auto_ptc_nb_account_hint">要創建的帳號數量</string>
+    <string name="auto_ptc_info">PokeAlert 將會為您挑選隨機的帳號名稱。輸入一個有效的 Email (請使用 Gmail) 您必須登入 Email 收信激活帳號，因為不激活的話 3 天後帳號就會失效。PokeAlert 最多能讓您在一個批次裡建立10筆帳號</string>
+    <string name="no_account_info">要讓 PokeAlert 動起來需要您新增一些「掃描用」帳號。您也可以讓 PokeAlert 幫您創建帳號 (在下一個畫面點選最上方的機器人圖示按紐) 或者您可以手動新增一些已經有的帳號</string>
+    <string name="add_accounts">新增帳號</string>
+    <string name="account_long_press_info">在帳號上長按，進去多選模式</string>
+    <string name="filter_long_press_info">在寶貝上長按，進去多選模式</string>
+    <string name="account_stats">狀態</string>
+    <string name="wrong_email">請確實輸入有效的 Email</string>
+    <string name="real_user_simulation_summary">當啟用此項，PokeAlert 會盡其可能地模擬真實玩家或動以避免遇到 Captcha 驗證</string>
+    <string name="real_user_simulation_title">真實玩家</string>
+
+    <string-array name="pokemons">
+        <item>妙蛙種子</item>
+        <item>妙蛙草</item>
+        <item>妙蛙花</item>
+        <item>小火龍</item>
+        <item>火恐龍</item>
+        <item>噴火龍</item>
+        <item>傑尼龜</item>
+        <item>卡咪龜</item>
+        <item>水箭龜</item>
+        <item>綠毛蟲</item>
+        <item>鐵甲蛹</item>
+        <item>巴大蝶</item>
+        <item>獨角蟲</item>
+        <item>鐵殼昆</item>
+        <item>大針蜂</item>
+        <item>波波</item>
+        <item>比比鳥</item>
+        <item>比雕</item>
+        <item>小拉達</item>
+        <item>拉達</item>
+        <item>烈雀</item>
+        <item>大嘴雀</item>
+        <item>阿柏蛇</item>
+        <item>阿柏怪</item>
+        <item>皮卡丘</item>
+        <item>雷丘</item>
+        <item>穿山鼠</item>
+        <item>穿山王</item>
+        <item>尼多蘭</item>
+        <item>尼多娜</item>
+        <item>尼多后</item>
+        <item>尼多朗</item>
+        <item>尼多力諾</item>
+        <item>尼多王</item>
+        <item>皮皮</item>
+        <item>皮可西</item>
+        <item>六尾</item>
+        <item>九尾</item>
+        <item>胖丁</item>
+        <item>胖可丁</item>
+        <item>超音蝠</item>
+        <item>大嘴蝠</item>
+        <item>走路草</item>
+        <item>臭臭花</item>
+        <item>霸王花</item>
+        <item>派拉斯</item>
+        <item>派拉斯特</item>
+        <item>毛球</item>
+        <item>末入蛾</item>
+        <item>地鼠</item>
+        <item>三地鼠</item>
+        <item>喵喵</item>
+        <item>貓老大</item>
+        <item>可達鴨</item>
+        <item>哥達鴨</item>
+        <item>猴怪</item>
+        <item>火爆猴</item>
+        <item>卡蒂狗</item>
+        <item>風速狗</item>
+        <item>蚊香蝌蚪</item>
+        <item>蚊香蛙</item>
+        <item>快泳蛙</item>
+        <item>凱西</item>
+        <item>勇吉拉</item>
+        <item>胡地</item>
+        <item>腕力</item>
+        <item>豪力</item>
+        <item>怪力</item>
+        <item>喇叭芽</item>
+        <item>口呆花</item>
+        <item>大食花</item>
+        <item>瑪瑙水母</item>
+        <item>毒刺水母</item>
+        <item>小拳石</item>
+        <item>隆隆石</item>
+        <item>隆隆岩</item>
+        <item>小火馬</item>
+        <item>烈燄馬</item>
+        <item>呆呆獸</item>
+        <item>呆殼獸</item>
+        <item>小磁怪</item>
+        <item>三合一磁怪</item>
+        <item>大蔥鴨</item>
+        <item>嘟嘟</item>
+        <item>嘟嘟利</item>
+        <item>小海獅</item>
+        <item>白海獅</item>
+        <item>臭泥</item>
+        <item>臭臭泥</item>
+        <item>大舌貝</item>
+        <item>鐵甲貝</item>
+        <item>鬼斯</item>
+        <item>鬼斯通</item>
+        <item>耿鬼</item>
+        <item>大岩蛇</item>
+        <item>素利普</item>
+        <item>素利拍</item>
+        <item>大鉗蟹</item>
+        <item>巨鉗蟹</item>
+        <item>雷電球</item>
+        <item>頑皮彈</item>
+        <item>蛋蛋</item>
+        <item>椰蛋樹</item>
+        <item>卡拉卡拉</item>
+        <item>嘎拉嘎拉</item>
+        <item>沙瓦郎</item>
+        <item>艾比郎</item>
+        <item>大舌頭</item>
+        <item>瓦斯彈</item>
+        <item>雙彈瓦斯</item>
+        <item>鐵甲犀牛</item>
+        <item>鐵甲暴龍</item>
+        <item>吉利蛋</item>
+        <item>蔓藤怪</item>
+        <item>袋龍</item>
+        <item>墨海馬</item>
+        <item>海刺龍</item>
+        <item>角金魚</item>
+        <item>金魚王</item>
+        <item>海星星</item>
+        <item>寶石海星</item>
+        <item>吸盤魔偶</item>
+        <item>飛天螳螂</item>
+        <item>迷唇姐</item>
+        <item>電擊獸</item>
+        <item>鴨嘴火龍</item>
+        <item>大甲</item>
+        <item>肯泰羅</item>
+        <item>鯉魚王</item>
+        <item>暴鯉龍</item>
+        <item>乘龍</item>
+        <item>百變怪</item>
+        <item>伊布</item>
+        <item>水精靈</item>
+        <item>雷精靈</item>
+        <item>火精靈</item>
+        <item>3D龍</item>
+        <item>菊石獸</item>
+        <item>多刺菊石獸</item>
+        <item>化石盔</item>
+        <item>鐮刀盔</item>
+        <item>化石翼龍</item>
+        <item>卡比獸</item>
+        <item>急凍鳥</item>
+        <item>閃電鳥</item>
+        <item>火燄鳥</item>
+        <item>迷您龍</item>
+        <item>哈克龍</item>
+        <item>快龍</item>
+        <item>超夢</item>
+        <item>夢幻</item>
+    </string-array>
+</resources>
