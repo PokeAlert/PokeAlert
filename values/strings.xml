@@ -117,6 +117,9 @@
     <string name="supper_pokealert_tuto">This is nice an advert :) Click on it if you wish to support PokeAlert</string>
     <string name="overlaymap">OverlayMap</string>
     <string name="overlaymap_tuto">This opens an overlay map which can be used at the same time you play PokemonGO</string>
+
+
+    <!-- For the translaters that have already  translated their language, from here to bottom are the new strings -->
     <string name="spawn_point_manager_title">Spawn Points Manager</string>
     <string name="export_all_spawn_points">Export to JSON</string>
     <string name="spawn_point_count_title">Spawn points:</string>
@@ -206,7 +209,7 @@
     <string name="real_user_simulation_summary">When checked PokeAlert will try to simulate a real player as much as possible to avoid ban an captcha</string>
     <string name="real_user_simulation_title">Real player</string>
 
-    <!-- DO NOT NEED TO TRANSLATE THIS -->
+    <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
         <item>Bulbasaur</item>
         <item>Ivysaur</item>

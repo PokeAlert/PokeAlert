@@ -1,275 +1,121 @@
 <resources>
-    <string name="clear_map">Clear map</string>
+    <string name="clear_map">Säubere Karte</string>
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
-    <string name="trainer_login_description">!!DO NOT USE YOUR OFFICIAL ACCOUNT!!\n\nCreate a separate account at https://www.pokemon.com/us/pokemon-trainer-club/ just for this app and log-in with it.</string>
-    <string name="hint_trainer_username">Pokemon Trainer Club username</string>
-    <string name="hint_trainer_password">Pokemon Trainer Club Password</string>
-    <string name="filter_management">Filters Managements</string>
-    <string name="delete">Delete</string>
-    <string name="creds_not_valid">Wrong username or password</string>
-    <string name="add_extra_account_title">Add Extra Accounts</string>
-    <string name="manage_accounts">Manage accounts</string>
-    <string name="duplicate_account">You already have added this account</string>
-    <string name="account_added">Account Added !</string>
-    <string name="help_title">Help</string>
-    <string name="help_summary">You can find me on Twitter</string>
-    <string name="scan_settings">Scan settings</string>
-    <string name="search_range">Search radius</string>
-    <string name="background_scan_inerval">Background scan interval (seconds)</string>
-    <string name="notification_description">PokeAlert is being updated !</string>
-    <string name="auto_updating">PokeAlert is being automatically updated, please wait until the download and install are completed</string>
+    <string name="trainer_login_description">!!BENUTZE NICHT DEINEN OFFIZIELLEN ACCOUNT!!\n\nErstell hier einen neuen Account: https://www.pokemon.com/us/pokemon-trainer-club/ nur für diese App und log dich damit ein.</string>
+    <string name="hint_trainer_username">Pokemon Trainer Club Benutzername</string>
+    <string name="hint_trainer_password">Pokemon Trainer Club Passwort</string>
+    <string name="filter_management">Filter Management</string>
+    <string name="delete">Löschen</string>
+    <string name="creds_not_valid">Falscher Benutzername oder Passwort</string>
+    <string name="add_extra_account_title">Füge mehr Accounts hinzu</string>
+    <string name="manage_accounts">Verwalte Accounts</string>
+    <string name="duplicate_account">Dieser Account existiert bereits</string>
+    <string name="account_added">Account hinzugefügt!</string>
+    <string name="help_title">Hilfe</string>
+    <string name="help_summary">Frag mich bei Twitter</string>
+    <string name="scan_settings">Scan Optionen</string>
+    <string name="search_range">Suchradius</string>
+    <string name="background_scan_inerval">Hintergrund Scan Intervall (in Sekunden)</string>
+    <string name="notification_description">PokeAlert wird aktualisiert</string>
+    <string name="auto_updating">PokeAlert wird automatisch aktualisiert. Bitte warte, bis der Download und die Installation abgeschlossen sind.</string>
 
-    <string name="pokemon_auto_despawn_title">Auto remove expired pokemon</string>
-    <string name="pokemon_time_display_title">Pokemon expiration type</string>
-    <string name="load_from_file">Load from file</string>
-    <string name="version_title">Tap to see what\'s new</string>
-    <string name="pokemon_name_title">Pokemon name language</string>
-    <string name="ptc_login">Pokemon Trainer Login</string>
+    <string name="pokemon_auto_despawn_title">Auto-Löschen von abgelaufenen Pokémon</string>
+    <string name="pokemon_time_display_title">Ablaufzeit Anzeige</string>
+    <string name="load_from_file">Aus Datei laden</string>
+    <string name="version_title">Was ist neu?</string>
+    <string name="pokemon_name_title">Sprache der Pokémon-Namen</string>
+    <string name="ptc_login">Pokémon Trainer Login</string>
     <string name="google_login">Google Login</string>
-    <string name="caught_pokemon_management_title">Caught Pokemon Management</string>
-    <string name="use_fast_scan">Use Fast Scan</string>
-    <string name="delete_all">Delete all</string>
-    <string name="use_fast_scan_summary">Fast scan works by requesting results from other scanners. It doesn\'t need accounts to work. Keep in mind that the results might not always be 100% accurate.</string>
-    <string name="annoucement_title">Announcement</string>
-    <string name="background_service_settings">Background service settings</string>
-    <string name="save_log_file">Save log file (debug only)</string>
-    <string name="notification_sound">Notification sound</string>
-    <string name="use_default_notification_sound_title">Use default notification sound</string>
-    <string name="use_default_notification_sound_summary">When activated your phone\'s default  sound will be used, otherwise one of the custom list bellow will be used</string>
+    <string name="caught_pokemon_management_title">Gefangene Pokémon Management</string>
+    <string name="use_fast_scan">Fast Scan benutzen</string>
+    <string name="delete_all">Alles löschen</string>
+    <string name="use_fast_scan_summary">Fast Scan fragt die Ergebnisse anderen Scanner ab. Du brauchst also keine Accounts, damit es funktioniert. Die Ergebnisse sind aber nicht immer 100% genau.</string>
+    <string name="annoucement_title">Ankündigung</string>
+    <string name="background_service_settings">Hintergrund-Dienst Optionen</string>
+    <string name="save_log_file">Speicher log-Datei (nur im Debug-Modus)</string>
+    <string name="notification_sound">Benachrichtigungssound</string>
+    <string name="use_default_notification_sound_title">Benutze Standard Benachrichtigungssound</string>
+    <string name="use_default_notification_sound_summary">Wenn aktiviert, wird dein Standard-Benachrichtigungssound verwendet. Ansonsten wird der unten in der Liste gewählte Sound benutzt.</string>
     <string name="vibration_title">Vibration</string>
-    <string name="vibration_summary">Enable or disable vibration when receiving a notification</string>
-    <string name="account_deletion_confirmation">Are you sure you want to delete this account ?</string>
-    <string name="account_seems_banned">This account seems banned</string>
-    <string name="account_alive">This account is alive (yay!)</string>
-    <string name="username_hint">PTC username or Gmail account</string>
-    <string name="password_hint">PTC password or Gmail password</string>
-    <string name="account_loaded">Account loaded successfully</string>
-    <string name="use_multi_area_scan_title">Multi area scan</string>
-    <string name="use_multi_area_scan_summary">Select multiple area that will be scanned by different accounts (this is an advance user feature and might get your accounts by faster if incorrectly)</string>
-    <string name="select_account_assigne_area">Select accounts to assign to this area</string>
-    <string name="next">Next</string>
-    <string name="close">Close</string>
-    <string name="map_type_title">Map type</string>
-    <string name="donate_title">Donate</string>
-    <string name="map_settings">Map settings</string>
-    <string name="icon_type_title">Pokemon icons type</string>
-    <string name="settings">Settings</string>
-    <string name="filter_name_hint">Filter name</string>
-    <string name="filter_management_title">Filters Management</string>
-    <string name="filter_cannot_delete_active">You cannot delete an active filter</string>
-    <string name="select_tone">Select Tone</string>
-    <string name="empty_filter_error">You need to select at least 1 Pokemon</string>
-    <string name="duplicate_filter">This filter already exists</string>
+    <string name="vibration_summary">Ein- oder Ausschalten der Vibration bei einer Benachrichtigung.</string>
+    <string name="account_seems_banned">Dieser Account scheint gebannt worden zu sein.</string>
+    <string name="account_alive">Dieser Account lebt (yay!)</string>
+    <string name="username_hint">PTC Benutzername oder Gmail Account</string>
+    <string name="password_hint">PTC Passwort oder Gmail Passwort</string>
+    <string name="account_loaded">Account erfolgreich geladen</string>
+    <string name="use_multi_area_scan_title">Mehrere Bereiche scannen</string>
+    <string name="use_multi_area_scan_summary">Wähle mehrere Bereiche, die von verschiedenen Accounts gescannt werden sollen (Diese Funktion ist für fortgeschrittene Nutzer und könnte bei falscher Nutzung schneller zu einem Bann führen)</string>
+    <string name="select_account_assigne_area">Wähle die Accounts, die diesem Bereich zugeordnet werden sollen</string>
+    <string name="next">Weiter</string>
+    <string name="close">Schließen</string>
+    <string name="map_type_title">Kartentyp</string>
+    <string name="donate_title">Spenden</string>
+    <string name="map_settings">Karteneinstellungen</string>
+    <string name="icon_type_title">Pokémon Symbolarten</string>
+    <string name="settings">Einstellungen</string>
+    <string name="filter_name_hint">Filtername</string>
+    <string name="filter_management_title">Filter Management</string>
+    <string name="filter_cannot_delete_active">Du kannst keinen aktiven Filter löschen</string>
+    <string name="select_tone">Wähle den Ton</string>
+    <string name="empty_filter_error">Du musst mindestens ein Pokémon auswählen</string>
+    <string name="duplicate_filter">Dieser Filter existiert bereits</string>
     <string name="iv_title">IVs</string>
-    <string name="attack">Attack</string>
-    <string name="defense">Defense</string>
-    <string name="moves_title">Moves</string>
-    <string name="stamina">Stamina</string>
-    <string name="show_gyms">Show gyms</string>
-    <string name="show_pokestops">Show pokestops</string>
-    <string name="read_write_no_permissions">The app doesn\'t have the permission to read and write on the SD card</string>
-    <string name="filter_saved_to_file">Filters successfully save at: %s</string>
-    <string name="filter_saved_to_file_error">An error occurred while saving the filters to a file on the SD</string>
-    <string name="filters_loaded">Filters have beens successfully loaded</string>
-    <string name="filters_loaded_error">An error occurred while loading the filters form file</string>
-    <string name="support_title">Support PokeAlert</string>
-    <string name="support_us_summary">By supporting us you will be able to enjoy extra features by showing a fullscreen ad evey 30 scans</string>
-    <string name="support_us_title">Support us</string>
-    <string name="scan_unknown_error">An error happened during the scan, please contact the developers</string>
-    <string name="account_banned">Account = %s seems to be banned</string>
-    <string name="generic_login_error">Account = %s got a login exception</string>
+    <string name="attack">Angriff</string>
+    <string name="defense">Verteidigung</string>
+    <string name="moves_title">Attacken</string>
+    <string name="stamina">Ausdauer</string>
+    <string name="show_gyms">Zeige Arenen</string>
+    <string name="show_pokestops">Zeige Pokéstops</string>
+    <string name="read_write_no_permissions">Die App hat keine Berechtigung, auf der SD-Karte zu lesen und zu schreiben</string>
+    <string name="filter_saved_to_file">Die Filter wurden hier gespeichert: %s</string>
+    <string name="filter_saved_to_file_error">Beim Speichern der Filter ist ein Fehler aufgetreten</string>
+    <string name="filters_loaded">Filter erfolgreich geladen</string>
+    <string name="filters_loaded_error">Beim Laden der Filter ist ein Fehler aufgetreten</string>
+    <string name="support_title">Unterstütze PokeAlert</string>
+    <string name="support_us_summary">Wenn du uns unterstützt, erhältst du Zugriff auf besondere Features. Dafür wird dir alle 30 Scans eine Vollbild-Werbung angezeigt.</string>
+    <string name="support_us_title">Unterstütze uns</string>
+    <string name="scan_unknown_error">Beim Scan ist ein Fehler aufgetreten. Bitte kontaktiere die Entwickler</string>
+    <string name="account_banned">Account = %s scheint gebannt zu sein</string>
+    <string name="generic_login_error">Account = %s konnte sich nicht einloggen</string>
     <string name="niantic_login_error">Account = %1$s : %2$s</string>
-    <string name="no_account_error">You don\'t have any active accounts, please add at least one</string>
-    <string name="stop_scan_before_editing">Please stop the current scan before starting the background service</string>
-    <string name="stop_scan_before_starting_manual">Please stop the background service before starting a manual scan</string>
-    <string name="scan_stoping">Be patient, scan is stopping</string>
-    <string name="enable_gps_error">Please enable your GPS to start a scan</string>
-    <string name="stop_service_before_creating_area">Stop the service before creating a new area</string>
-    <string name="stop_manual_scan_before_starting_background">Please stop the current scan before starting the background service</string>
-    <string name="auto_update_error">Unable to automatically update the app, Please update manually</string>
-    <string name="save_log_to_file_success">Log successfully saved to: %s Please get in touch with the devs and send him this file</string>
-    <string name="save_log_to_file_error">Error while saving logfile, please verify you have given write and read permissions</string>
-    <string name="no_location_permission_error">It seems that you didn\'t give location permission for this app. Enable them in the settings and restart the app</string>
-    <string name="no_play_service_error">Google Play Service failed to connect. Please Make sure Google Play Service is up to date!!</string>
-    <string name="account_loaded_error">Error while importing the accounts from file</string>
-    <string name="sd_no_writeable">Looks like the SD card is not writable</string>
-    <string name="accounts_save_to_file_success">Accounts file saved at %s</string>
-    <string name="accounts_save_to_file_error">Error while writing accounts to file, verify you have given write and read permission</string>
-    <string name="background_service_stopping">Stopping background service</string>
-    <string name="background_service_starting">Starting background service, please wait</string>
-    <string name="select_all">Select all</string>
-    <string name="filter_saved">Filter saved</string>
-    <string name="show_on_map_min_iv"><![CDATA[Show on map when IV >=]]></string>
-    <string name="notifify_min_iv"><![CDATA[Notify when IV >=]]></string>
+    <string name="no_account_error">Du hast keine aktiven Accounts. Bitte füge mindestens einen hinzu</string>
+    <string name="stop_scan_before_editing">Bitte stopp den laufenden Scan, bevor du den Hintergrund-Dienst aktivierst</string>
+    <string name="stop_scan_before_starting_manual">Bitte stopp den Hintergrund-Dienst, bevor du einen manuellen Scan startest</string>
+    <string name="scan_stoping">Hab Geduld, der Scan stoppt</string>
+    <string name="enable_gps_error">Bitte aktiviere dein GPS um den Scan zu starten</string>
+    <string name="stop_service_before_creating_area">Stoppe den Scanner bevor du einen neue Bereich hinzufügst</string>
+    <string name="stop_manual_scan_before_starting_background">Bitte stopp den laufenden Scan, bevor du den Hintergrund-Dienst aktivierst</string>
+    <string name="auto_update_error">Kann nicht automatisch aktualisieren. Bitte aktualisiere PokeAlert manuell</string>
+    <string name="save_log_to_file_success">Log-Datei erfolgreich hierhin gespeichert: %s Bitte nimm Kontakt mit dem Entwickler auf und sende ihm diese Datei</string>
+    <string name="save_log_to_file_error">Ein Fehler ist während des Speichervorgangs aufgetreten. Bitte stelle sicher, dass PokeAlert Lese- und Schreibberechtigungen hat</string>
+    <string name="no_location_permission_error">Es scheint, als hättest du PokeAlert keine Standortberechtigungen erteilt. Aktiviere sie in den Einstellungen und starte die App neu</string>
+    <string name="no_play_service_error">Verbindungsaufbau der Google Play Dienste fehlgeschlagen. Bitte stell sicher, dass Google Play Dienste aktuell ist!</string>
+    <string name="account_loaded_error">Importieren der Accounts fehlgeschlagen</string>
+    <string name="sd_no_writeable">Sieht so aus, als wäre die SD-Karte nicht beschreibbar</string>
+    <string name="accounts_save_to_file_success">Accounts-Datei hierhin gespeichert: %s</string>
+    <string name="accounts_save_to_file_error">Speichern der Accounts-Datei fehlgeschlagen. Bitte stell sicher, dass du PokeAlert Lese- und Schreibberechtigungen erteilt hast</string>
+    <string name="background_service_stopping">Hintergrund-Dienst wird angehalten</string>
+    <string name="background_service_starting">Starte Hintergrund-Dienst, bitte warten</string>
+    <string name="select_all">Alle auswählen</string>
+    <string name="filter_saved">Filter gespeichert</string>
+    <string name="show_on_map_min_iv"><![CDATA[Zeige auf der Karte, wenn IV >=]]></string>
+    <string name="notifify_min_iv"><![CDATA[Benachrichtige, wenn IV >=]]></string>
     <string name="iv_threshold_hint">0</string>
-    <string name="map">Map</string>
-    <string name="notify">Notify</string>
+    <string name="map">Karte</string>
+    <string name="notify">Benachrichtigung</string>
     <string name="iv">IV</string>
-    <string name="advanced_filter_description_title">Advanced Filter</string>
-    <string name="advanced_filter_description">To only configure the advanced filter for ONE Pokemon simply tap on its name</string>
-    <string name="failed_iv">(IV Failed)</string>
-    <string name="background_scan">Background scan</string>
-    <string name="background_scan_tuto">This will activate the background scan and send you notification when a Pokemon is found</string>
-    <string name="clear_map_tuto">This will clear the map from all the Pokemon</string>
-    <string name="fixed_area">Fixed Area</string>
-    <string name="fix_area_tuto">This will allow you create a \"fixed\" area for your background scanning. To remove the area simply tap once on the circle</string>
-    <string name="support_pokealert">Support PokeAlert</string>
-    <string name="supper_pokealert_tuto">This is nice an advert :) Click on it if you wish to support PokeAlert</string>
-    <string name="overlaymap">OverlayMap</string>
-    <string name="overlaymap_tuto">This opens an overlay map which can be used at the same time you play PokemonGO</string>
+    <string name="advanced_filter_description_title">Fortgeschrittene Filter</string>
+    <string name="advanced_filter_description">Um den fortgeschrittenen Filter nur für ein Pokémon einzustellen, tippe einfach auf seinen Namen</string>
+    <string name="failed_iv">(IV fehlgeschlagen)</string>
+    <string name="background_scan">Hintergrund-Scan</string>
+    <string name="background_scan_tuto">Das aktiviert den Hintergrund-Scan und du wirst benachrichtigt, wenn ein Pokémon gefunden wurde</string>
+    <string name="clear_map_tuto">Das wird die Karte von allen Pokémon säubern</string>
+    <string name="fixed_area">Festgelegter Bereich</string>
+    <string name="fix_area_tuto">Das wird einen Bereich zum Hintergrund-Scannen festlegen. Um den Bereich zu entfernen, tippe einfach auf den Kreis</string>
+    <string name="support_pokealert">Unterstütze PokeAlert</string>
+    <string name="supper_pokealert_tuto">Das ist eine schöne Werbung :) Tippe auf sie, wenn du PokeAlert unterstützen möchtest</string>
+    <string name="overlaymap">Overlay-Karte</string>
+    <string name="overlaymap_tuto">Das öffnete eine Overlay-Karte, die beim spielen von PokémonGO benutzt werden kann</string>
 
-    <string-array name="pokemons">
-        <item>Bulbasaur</item>
-        <item>Ivysaur</item>
-        <item>Venusaur</item>
-        <item>Charmander</item>
-        <item>Charmeleon</item>
-        <item>Charizard</item>
-        <item>Squirtle</item>
-        <item>Wartortle</item>
-        <item>Blastoise</item>
-        <item>Caterpie</item>
-        <item>Metapod</item>
-        <item>Butterfree</item>
-        <item>Weedle</item>
-        <item>Kakuna</item>
-        <item>Beedrill</item>
-        <item>Pidgey</item>
-        <item>Pidgeotto</item>
-        <item>Pidgeot</item>
-        <item>Rattata</item>
-        <item>Raticate</item>
-        <item>Spearow</item>
-        <item>Fearow</item>
-        <item>Ekans</item>
-        <item>Arbok</item>
-        <item>Pikachu</item>
-        <item>Raichu</item>
-        <item>Sandshrew</item>
-        <item>Sandslash</item>
-        <item>Nidoran F</item>
-        <item>Nidorina</item>
-        <item>Nidoqueen</item>
-        <item>Nidoran M</item>
-        <item>Nidorino</item>
-        <item>Nidoking</item>
-        <item>Clefairy</item>
-        <item>Clefable</item>
-        <item>Vulpix</item>
-        <item>Ninetales</item>
-        <item>Jigglypuff</item>
-        <item>Wigglytuff</item>
-        <item>Zubat</item>
-        <item>Golbat</item>
-        <item>Oddish</item>
-        <item>Gloom</item>
-        <item>Vileplume</item>
-        <item>Paras</item>
-        <item>Parasect</item>
-        <item>Venonat</item>
-        <item>Venomoth</item>
-        <item>Diglett</item>
-        <item>Dugtrio</item>
-        <item>Meowth</item>
-        <item>Persian</item>
-        <item>Psyduck</item>
-        <item>Golduck</item>
-        <item>Mankey</item>
-        <item>Primeape</item>
-        <item>Growlithe</item>
-        <item>Arcanine</item>
-        <item>Poliwag</item>
-        <item>Poliwhirl</item>
-        <item>Poliwrath</item>
-        <item>Abra</item>
-        <item>Kadabra</item>
-        <item>Alakazam</item>
-        <item>Machop</item>
-        <item>Machoke</item>
-        <item>Machamp</item>
-        <item>Bellsprout</item>
-        <item>Weepinbell</item>
-        <item>Victreebel</item>
-        <item>Tentacool</item>
-        <item>Tentacruel</item>
-        <item>Geodude</item>
-        <item>Graveler</item>
-        <item>Golem</item>
-        <item>Ponyta</item>
-        <item>Rapidash</item>
-        <item>Slowpoke</item>
-        <item>Slowbro</item>
-        <item>Magnemite</item>
-        <item>Magneton</item>
-        <item>Farfetch\'d</item>
-        <item>Doduo</item>
-        <item>Dodrio</item>
-        <item>Seel</item>
-        <item>Dewgong</item>
-        <item>Grimer</item>
-        <item>Muk</item>
-        <item>Shellder</item>
-        <item>Cloyster</item>
-        <item>Gastly</item>
-        <item>Haunter</item>
-        <item>Gengar</item>
-        <item>Onix</item>
-        <item>Drowzee</item>
-        <item>Hypno</item>
-        <item>Krabby</item>
-        <item>Kingler</item>
-        <item>Voltorb</item>
-        <item>Electrode</item>
-        <item>Exeggcute</item>
-        <item>Exeggutor</item>
-        <item>Cubone</item>
-        <item>Marowak</item>
-        <item>Hitmonlee</item>
-        <item>Hitmonchan</item>
-        <item>Lickitung</item>
-        <item>Koffing</item>
-        <item>Weezing</item>
-        <item>Rhyhorn</item>
-        <item>Rhydon</item>
-        <item>Chansey</item>
-        <item>Tangela</item>
-        <item>Kangaskhan</item>
-        <item>Horsea</item>
-        <item>Seadra</item>
-        <item>Goldeen</item>
-        <item>Seaking</item>
-        <item>Staryu</item>
-        <item>Starmie</item>
-        <item>Mr. Mime</item>
-        <item>Scyther</item>
-        <item>Jynx</item>
-        <item>Electabuzz</item>
-        <item>Magmar</item>
-        <item>Pinsir</item>
-        <item>Tauros</item>
-        <item>Magikarp</item>
-        <item>Gyarados</item>
-        <item>Lapras</item>
-        <item>Ditto</item>
-        <item>Eevee</item>
-        <item>Vaporeon</item>
-        <item>Jolteon</item>
-        <item>Flareon</item>
-        <item>Porygon</item>
-        <item>Omanyte</item>
-        <item>Omastar</item>
-        <item>Kabuto</item>
-        <item>Kabutops</item>
-        <item>Aerodactyl</item>
-        <item>Snorlax</item>
-        <item>Articuno</item>
-        <item>Zapdos</item>
-        <item>Moltres</item>
-        <item>Dratini</item>
-        <item>Dragonair</item>
-        <item>Dragonite</item>
-        <item>Mewtwo</item>
-        <item>Mew</item>
-    </string-array>
 </resources>
