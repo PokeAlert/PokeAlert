@@ -127,7 +127,7 @@
     <string name="import_spawn_points">從 JSON 格式檔匯入</string>
     <string name="comming_soon">即將開放</string>
     <string name="save_spawn_points_title">儲存重生點</string>
-    <string name="save_spawn_points_summary">當啟用此選項，所有找到的寶被將存到資料庫中</string>
+    <string name="save_spawn_points_summary">當啟用此選項，所有找到的精靈被將存到資料庫中</string>
     <string name="delete_all_spawn_points">刪除所有重生點</string>
     <string name="spawn_point_saved_sucessfully">重生點記錄檔已成功存到 %s</string>
     <string name="manage_spawn_point">管理重生點</string>
@@ -206,7 +206,7 @@
     <string name="filter_long_press_info">在精靈上長按，進去多選模式</string>
     <string name="account_stats">狀態</string>
     <string name="wrong_email">請確實輸入有效的 Email</string>
-    <string name="real_user_simulation_summary">當啟用此項，PokeAlert 會盡其可能地模擬真實玩家或動以避免遇到 Captcha 驗證</string>
+    <string name="real_user_simulation_summary">當啟用此項，PokeAlert 會盡其可能地模擬真實玩家的動作以避免遇到 Captcha 驗證</string>
     <string name="real_user_simulation_title">真實玩家</string>
 	
     <string-array name="pokemons">
