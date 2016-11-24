@@ -126,7 +126,7 @@
     <string name="import_spawn_points">从 JSON 格式档汇入</string>
     <string name="comming_soon">即将开放</string>
     <string name="save_spawn_points_title">储存重生点</string>
-    <string name="save_spawn_points_summary">当启用此选项，所有找到的宝被将存到资料库中</string>
+    <string name="save_spawn_points_summary">当启用此选项，所有找到的宝可梦被将存到资料库中</string>
     <string name="delete_all_spawn_points">删除所有重生点</string>
     <string name="spawn_point_saved_sucessfully">重生点记录档已成功存到 %s</string>
     <string name="manage_spawn_point">管理重生点</string>
@@ -205,7 +205,7 @@
     <string name="filter_long_press_info">在宝可梦上长按，进去多选模式</string>
     <string name="account_stats">状态</string>
     <string name="wrong_email">请确实输入有效的 Email</string>
-    <string name="real_user_simulation_summary">当启用此项，PokeAlert 会尽其可能地模拟真实玩家或动以避免遇到 Captcha 验证</string>
+    <string name="real_user_simulation_summary">当启用此项，PokeAlert 会尽其可能地模拟真实玩家动作以避免遇到 Captcha 验证</string>
 
 	
     <string-array name="pokemons">
