@@ -16,7 +16,7 @@
     <string name="help_summary">Znajdziesz mnie na Twitterze</string>
     <string name="scan_settings">Ustawienia skanowania</string>
     <string name="search_range">Promień skanowania</string>
-    <string name="background_scan_inerval">Przerwa między skanowaniami</string> 
+    <string name="background_scan_inerval">Przerwa między skanowaniem</string> 
     <string name="notification_description">PokeAlert jest aktualizowany !</string>
     <string name="auto_updating">PokeAlert jest automatycznie aktualizowany, proszę czekać aż pobieranie i instalacja zostaną zakończone</string>
 
@@ -33,7 +33,7 @@
     <string name="use_fast_scan_summary">Szybkie skanowanie używa danych z innych skanerów. Nie potrzebuje kont do działania. Pamiętaj że wyniki mogą nie być w 100% prawidłowe.</string>
     <string name="annoucement_title">Powiadomienia</string>
     <string name="background_service_settings">Ustawienia skanowania w tle</string>
-    <string name="save_log_file">Zapisz plik z logami (tylko debugowanie)</string>
+    <string name="save_log_file">Zapisz plik z logami</string>
     <string name="notification_sound">Dźwięk powiadomienia</string>
     <string name="use_default_notification_sound_title">Domyślny dźwięk powiadomienia</string>
     <string name="use_default_notification_sound_summary">Gdy aktywowane domyślny dźwięk powiadomienia będzie używany. W przeciwnym razie jeden z listy poniżej bedzie użyty</string> 
@@ -41,8 +41,8 @@
     <string name="vibration_summary">Włącz lub wyłącz wibracje gdy otrzymujesz powiadomienie</string>
     <string name="account_seems_banned">To konto może być zbanowane</string>
     <string name="account_alive">To konto działa (yay!)</string>
-    <string name="username_hint">PTC Login albo konto Gmail</string>
-    <string name="password_hint">PTC Hasło albo Gmail hasło</string>
+    <string name="username_hint">Login PTC lub Gmail</string>
+    <string name="password_hint">Hasło PTC lub Gmail</string>
     <string name="account_loaded">Konta załadowano pomyślnie</string>
     <string name="use_multi_area_scan_title">Skanowanie wielu obszarów</string> 
     <string name="use_multi_area_scan_summary">Wybierz różne obszary skanowania, skanowanie będzie się odbywać za pomocą różnych kont (Jest to zaawansowana funkcja)</string>
@@ -96,7 +96,7 @@
     <string name="accounts_save_to_file_success">Plik z kontami zapisano w: %s</string>
     <string name="accounts_save_to_file_error">Wystąpił błąd podczas zapisywania kont do pliku, sprawdź pozwolenia zapisu oraz odczytu</string>
     <string name="background_service_stopping">Zatrzymywanie skanowania w tle</string>
-    <string name="background_service_starting">Rozpoczynianie skanowania w tle, proszę czekać</string>
+    <string name="background_service_starting">Rozpoczynanie skanowania w tle, proszę czekać</string>
     <string name="select_all">Zaznacz wszystkie</string>
     <string name="filter_saved">Zapisano filtry</string>
     <string name="show_on_map_min_iv"><![CDATA[Pokaż na mapie gdy IV >=]]></string>
@@ -136,7 +136,7 @@
     <string name="show_gym_summary">Pokaż wszystkie Gymy oraz dane o nich (Uwaga może zwiększyć zużycie danych)</string>
     <string name="show_pokestops_summary">Pokaż wszystkie Pokestopy</string>
     <string name="has_lure">Posiada Lura</string>
-    <string name="has_no_lure">Normalny Pokestop</string>
+    <string name="has_no_lure">Pokestop</string>
     <string name="pokestop">Pokestop</string>
     <string name="overlaymap_not_available_for_device">Niestety nakładka nie jest kompatybilna z twoim urządzeniem:(</string>
     <string name="no_iv_for_fastscan">Brak IV dla pokemonów z szybkiego skanowania</string>
@@ -144,7 +144,7 @@
     <string name="captcha_resolve_intruction">Link do Captchy został zapisany w schowku. Otwórz przeglądarke i wklej go.</string>
     <string name="solve_captach">Rozwiąż Captcha</string>
     <string name="capctha_link_expired">Już probowałeś wypełnić Captcha dla tego konta i link wygasł. Musisz wykonać ponowny skan tym kontem aby otrzymać nowy link</string>
-    <string name="scan_before_solving">Captcha wygasła.Proszę wykonać ponowny skan tym kontem aby znowu ją aktywować. Nie zamykaj aplikacji w międzyczasie</string>
+    <string name="scan_before_solving">Captcha wygasła. Proszę wykonać ponowny skan tym kontem aby znowu ją aktywować. Nie zamykaj aplikacji w międzyczasie</string>
     <string name="cancel">Anuluj</string>
     <string name="captcha">Captcha</string>
     <string name="captcha_required">Wymagana Captcha</string>
@@ -152,7 +152,7 @@
     <string name="accounts">Konta</string>
     <string name="filters">Filtry</string>
     <string name="spawn_points">Punkty Spawnu</string>
-    <string name="general_settings">Główne ustawienia</string>
+    <string name="general_settings">Ustawienia Główne</string>
     <string name="scan">Skan</string>
     <string name="map_overlay">Nakładka</string>
     <string name="expire">Pozostały czas:</string>
@@ -168,7 +168,7 @@
     <string name="show_when_iv_fail">Pokaż gdy wystąpi błąd odczytania IV</string>
     <string name="notifiy_when_iv_fail">Powiadom gdy wystąpi błąd odczytania IV</string>
     <string name="ad_block">Ad Blocker</string>
-    <string name="ad_block_message">Nic nie płacisz za użwywanie PokeAlerta i nie chesz pomagać twórcy który dostarcza ja za darmo \ n \Proszę wyłaczyć Ad Blocka</string>
+    <string name="ad_block_message">Nic nie płacisz za użwywanie PokeAlerta i nie chesz pomagać twórcy który dostarcza ją za darmo \ n \Proszę wyłaczyć Ad Blocka</string>
     <string name="assign_group">Przypisz grupę</string>
     <string name="remove_from_group">Usuń z grupy</string>
     <string name="new_group">Nowa grupa</string>
@@ -206,7 +206,7 @@
     <string name="filter_long_press_info">Przytrzymaj na nazwie Pokemona aby wejść w tryb wielokrotnego zaznaczania</string>
     <string name="account_stats">Statystyki</string>
     <string name="wrong_email">Postaraj się wpisać prawidłowy email</string>
-    <string name="real_user_simulation_summary">Gdy zaznaczone PokeAlert będzie się starał symulować prawdziwego gracza tak jak to możliwe aby uniknąć bana oraz Captchy</string>
+    <string name="real_user_simulation_summary">PokeAlert będzie starał się symulować prawdziwego gracza, tak jak to możliwe aby uniknąć bana oraz Captchy</string>
     <string name="real_user_simulation_title">Tryb prawdziwego Gracza</string>
 
     <!-- NO NEED TO TRANSLATE THIS -->

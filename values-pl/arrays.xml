@@ -62,7 +62,7 @@
         <item>900m</item>
         <item>1000m</item>
         <item>1600m</item>
-        <item>2200m (Lepiej dodaj dużo kont)</item>
+        <item>2200m (Lepiej użyj wielu kont)</item>
     </string-array>
 
     <string-array name="pref_possible_steps_values">
