@@ -1,0 +1,366 @@
+<resources>
+    <string name="clear_map">マップのクリア</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
+    <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
+    <string name="trainer_login_description">!!DO NOT USE YOUR OFFICIAL ACCOUNT!!\n\nCreate a separate account at https://www.pokemon.com/us/pokemon-trainer-club/ just for this app and log-in with it.</string>
+    <string name="hint_trainer_username">ポケモントレーナークラブ ユーザー名</string>
+    <string name="hint_trainer_password">ポケモントレーナークラブ パスワード</string>
+    <string name="filter_management">フィルターの管理</string>
+    <string name="delete">削除</string>
+    <string name="creds_not_valid">ユーザー名またはパスワードが間違っています</string>
+    <string name="add_extra_account_title">アカウントの追加</string>
+    <string name="manage_accounts">アカウントの管理</string>
+    <string name="duplicate_account">このアカウントは既に追加されています</string>
+    <string name="account_added">アカウントを追加しました！</string>
+    <string name="help_title">ヘルプ</string>
+    <string name="help_summary">Twitterで作者を探す</string>
+    <string name="scan_settings">スキャン設定</string>
+    <string name="search_range">検索半径</string>
+    <string name="background_scan_inerval">バックグラウンドスキャン間隔 (秒)</string>
+    <string name="notification_description">PokeAlertの更新があります!</string>
+    <string name="auto_updating">PokeAlertを自動更新しています。ダウンロードとインストールが完了するまでしばらくお待ちください。</string>
+
+    <string name="pokemon_auto_despawn_title">期限切れのポケモンを自動で削除</string>
+    <string name="pokemon_time_display_title">ポケモン 残り時間形式</string>
+    <string name="load_from_file">ファイルから読み込み</string>
+    <string name="version_title">更新履歴を表示</string>
+    <string name="pokemon_name_title">ポケモン名の表示言語</string>
+    <string name="ptc_login">ポケモントレーナー ログイン</string>
+    <string name="google_login">Google ログイン</string>
+    <string name="caught_pokemon_management_title">捕獲したポケモンの管理</string>
+    <string name="use_fast_scan">高速スキャンを使用する</string>
+    <string name="delete_all">すべて削除</string>
+    <string name="use_fast_scan_summary">高速スキャンは、他のスキャナからの結果を要求することによって動作します。動作にアカウントを必要としません。結果は常に100％正確ではないかもしれないので注意してください。</string>
+    <string name="annoucement_title">アナウンス</string>
+    <string name="background_service_settings">バックグラウンドサービスの設定</string>
+    <string name="save_log_file">ログファイルに保存 (デバッグのみ)</string>
+    <string name="notification_sound">通知音</string>
+    <string name="use_default_notification_sound_title">標準の通知音を使用する</string>
+    <string name="use_default_notification_sound_summary">When activated your phone\'s default  sound will be used, otherwise one of the custom list bellow will be used</string>
+    <string name="vibration_title">振動</string>
+    <string name="vibration_summary">通知を受信したときの振動の有無の設定</string>
+    <string name="account_seems_banned">このアカウントはおそらくBANされています</string>
+    <string name="account_alive">このアカウントは有効です (yay!)</string>
+    <string name="username_hint">PTCユーザー名またはGmailアカウント</string>
+    <string name="password_hint">PTCパスワードまたはGmailパスワード</string>
+    <string name="account_loaded">アカウントの読み込みに成功しました</string>
+    <string name="use_multi_area_scan_title">マルチエリアスキャン</string>
+    <string name="use_multi_area_scan_summary">Select multiple area that will be scanned by different accounts (this is an advance user feature and might get your accounts by faster if incorrectly)</string>
+    <string name="select_account_assigne_area">このエリアに割り当てるアカウントを選択</string>
+    <string name="next">次へ</string>
+    <string name="close">閉じる</string>
+    <string name="map_type_title">マップ形式</string>
+    <string name="donate_title">寄付</string>
+    <string name="map_settings">マップの設定</string>
+    <string name="icon_type_title">ポケモン アイコン形式</string>
+    <string name="settings">設定</string>
+    <string name="filter_name_hint">フィルター名</string>
+    <string name="filter_management_title">フィルターの管理</string>
+    <string name="filter_cannot_delete_active">アクティブ中のフィルタは削除できません</string>
+    <string name="select_tone">Select Tone</string>
+    <string name="empty_filter_error">ポケモンを1匹以上選択してください</string>
+    <string name="duplicate_filter">このフィルターは既に存在します</string>
+    <string name="iv_title">IVs</string>
+    <string name="attack">Attack</string>
+    <string name="defense">Defense</string>
+    <string name="moves_title">Moves</string>
+    <string name="stamina">Stamina</string>
+    <string name="show_gyms">ジムを表示</string>
+    <string name="show_pokestops">ポケストップを表示</string>
+    <string name="read_write_no_permissions">アプリはSDカードの読み書きする権限を持っていません</string>
+    <string name="filter_saved_to_file">フィルターを保存しました: %s</string>
+    <string name="filter_saved_to_file_error">カード上のファイルにフィルターを保存中にエラーが発生しました</string>
+    <string name="filters_loaded">フィルターの読み込みに成功しました</string>
+    <string name="filters_loaded_error">ファイルからフィルタの読み込み中にエラーが発生しました</string>
+    <string name="support_title">PokeAlertをサポート</string>
+    <string name="support_us_summary">30スキャン毎にフルスクリーン広告を表示しアプリをサポートする</string>
+    <string name="support_us_title">アプリをサポート</string>
+    <string name="scan_unknown_error">スキャン中に起こったエラーは、開発者にお問い合わせください</string>
+    <string name="account_banned">アカウント = %s はBANされました</string>
+    <string name="generic_login_error">アカウント = %s のログイン例外が発生しました</string>
+    <string name="niantic_login_error">アカウント = %1$s : %2$s</string>
+    <string name="no_account_error">You don\'t have any active accounts, please add at least one</string>
+    <string name="stop_scan_before_editing">Please stop the current scan before starting the background service</string>
+    <string name="stop_scan_before_starting_manual">Please stop the background service before starting a manual scan</string>
+    <string name="scan_stoping">Be patient, scan is stopping</string>
+    <string name="enable_gps_error">スキャンを開始する前にGPSを有効にしてください</string>
+    <string name="stop_service_before_creating_area">新しいエリアを作成する前にサービスを停止してください</string>
+    <string name="stop_manual_scan_before_starting_background">バックグラウンドサービスを開始する前に現在のスキャンを停止してください</string>
+    <string name="auto_update_error">アプリの自動更新ができませんでした。手動で更新してください。</string>
+    <string name="save_log_to_file_success">Log successfully saved to: %s Please get in touch with the devs and send him this file</string>
+    <string name="save_log_to_file_error">Error while saving logfile, please verify you have given write and read permissions</string>
+    <string name="no_location_permission_error">It seems that you didn\'t give location permission for this app. Enable them in the settings and restart the app</string>
+    <string name="no_play_service_error">Google Play Service failed to connect. Please Make sure Google Play Service is up to date!!</string>
+    <string name="account_loaded_error">ファイルからアカウントのインポート中のエラー</string>
+    <string name="sd_no_writeable">SDカードが書き込み可能でなないと思われます</string>
+    <string name="accounts_save_to_file_success">アカウントをファイルに保存: %s</string>
+    <string name="accounts_save_to_file_error">アカウントのファイルに書き込み中のエラー、アプリに読み書き権限が与えられているか確認してください。</string>
+    <string name="background_service_stopping">バックグラウンドサービスの停止中</string>
+    <string name="background_service_starting">バックグラウンドサービスを開始しています。しばらくお待ちください。</string>
+    <string name="select_all">すべて選択</string>
+    <string name="filter_saved">フィルターを保存しました</string>
+    <string name="show_on_map_min_iv"><![CDATA[Show on map when IV >=]]></string>
+    <string name="notifify_min_iv"><![CDATA[Notify when IV >=]]></string>
+    <string name="iv_threshold_hint">0</string>
+    <string name="map">マップ</string>
+    <string name="notify">通知</string>
+    <string name="iv">IV</string>
+    <string name="advanced_filter_description_title">高度なフィルター</string>
+    <string name="advanced_filter_description">高度なフィルターを設定するにはポケモンの名前をタップしてください</string>
+    <string name="failed_iv">(IV Failed)</string>
+    <string name="background_scan">バックグラウンドスキャン</string>
+    <string name="background_scan_tuto">バックグラウンドスキャンを有効にしポケモンが見つかった場合に通知を送信します</string>
+    <string name="clear_map_tuto">マップからすべてのポケモンを削除します</string>
+    <string name="fixed_area">エリアを固定</string>
+    <string name="fix_area_tuto">バックグラウンドスキャンのための固定されたエリアを作成することができます。エリアの削除はサークルをタップすることで表示される設定から行うことができます。</string>
+    <string name="support_pokealert">PokeAlertをサポート</string>
+    <string name="supper_pokealert_tuto">これは素晴らしい広告です:) あなたがPokeAlertをサポートしたい場合はここをクリックしてください</string>
+    <string name="overlaymap">オーバーレイマップ</string>
+    <string name="overlaymap_tuto">ポケモンGoをプレイしながら使えるようにマップをオーバーレイで表示させます</string>
+
+
+    <!-- For the translaters that have already  translated their language, from here to bottom are the new strings -->
+    <string name="spawn_point_manager_title">出現ポイントの管理</string>
+    <string name="export_all_spawn_points">JSONにエクスポート</string>
+    <string name="spawn_point_count_title">出現ポイント:</string>
+    <string name="spawn_point_limit_description">Due to memory limitation on all the different phones, only a limited (3000) number of spawn can be saved</string>
+    <string name="import_spawn_points">JSONからインポート</string>
+    <string name="comming_soon">Comming soon</string>
+    <string name="save_spawn_points_title">出現ポイントの保存</string>
+    <string name="save_spawn_points_summary">有効にするとすべての見つけたポケモンをデータベースに保存します</string>
+    <string name="delete_all_spawn_points">すべての出現ポイントの削除</string>
+    <string name="spawn_point_saved_sucessfully">出現ポイントを保存しました: %s</string>
+    <string name="manage_spawn_point">出現ポイントの管理</string>
+    <string name="bitcoin_address_copied">The bitcoin address has been copied into your clip board</string>
+    <string name="gym_detail_failed">ジムデータがありませ燃</string>
+    <string name="show_gym_summary">すべてのジムとジムの詳細を表示する (警告  追加の呼び出しはデータ通信量を増加させます)</string>
+    <string name="show_pokestops_summary">すべてのポケストップを表示</string>
+    <string name="has_lure">ルアー実行中</string>
+    <string name="has_no_lure">通常ポケストップ</string>
+    <string name="pokestop">ポケストップ</string>
+    <string name="overlaymap_not_available_for_device">申し訳ありませんが、オーバーレイマップはお使いの端末と互換性がありません:(</string>
+    <string name="no_iv_for_fastscan">No IVs for FastScan Pokemon</string>
+    <string name="requires_captcha">キャプチャを要求</string>
+    <string name="captcha_resolve_intruction">キャプチャのURLをクリップボードに保存しました。 Chromeを開いてURLを貼り付けしてください。</string>
+    <string name="solve_captach">キャプチャを解答する</string>
+    <string name="capctha_link_expired">キャプチャの解答をしましたがリンクの有効期限が切れています。新しいキャプチャのリンクを取得するにはこのアカウントを使って再スキャンしてください</string>
+    <string name="scan_before_solving">キャプチャの有効期限が切れました。キャプチャを再実行するためにもう一度スキャンしてください。この間は絶対にアプリを終了させないでください。</string>
+    <string name="cancel">キャンセル</string>
+    <string name="captcha">キャプチャ</string>
+    <string name="captcha_required">キャプチャを要求</string>
+    <string name="captcha_required_for_account">キャプチャを要求するアカウント: %s</string>
+    <string name="accounts">アカウント</string>
+    <string name="filters">フィルター</string>
+    <string name="spawn_points">出現ポイント</string>
+    <string name="general_settings">一般設定</string>
+    <string name="scan">スキャン</string>
+    <string name="map_overlay">マップオーバーレイ</string>
+    <string name="expire">Expire</string>
+    <string name="move_one">Move 1</string>
+    <string name="move_two">Move 2</string>
+    <string name="expired">Expired</string>
+    <string name="quick_scan">クイックスキャン</string>
+    <string name="show_pokemon_timer_summary">各ポケモンの上に残り時間を表示します。 (メモリの少ない携帯では無効にしてください)</string>
+    <string name="show_pokemon_timer_title">残り時間の表示</string>
+    <string name="gym_points">ジムポイント:</string>
+    <string name="gym_level">事務レベル:</string>
+    <string name="guard_pokemon">Guard Pokemon:</string>
+    <string name="show_when_iv_fail">Show when IV fails</string>
+    <string name="notifiy_when_iv_fail">Notify when IV fails</string>
+    <string name="ad_block">Ad Blocker</string>
+    <string name="ad_block_message">We do not charge you anything for using PokeAlert and you are not supporting the awesome work we provide you for free \n\nPlease disable your blocker</string>
+    <string name="assign_group">Assign group</string>
+    <string name="remove_from_group">グループから削除</string>
+    <string name="new_group">新規グループ</string>
+    <string name="select_group">グループの選択</string>
+    <string name="group_name">グループ名</string>
+    <string name="create">作成</string>
+    <string name="area">エリア</string>
+    <string name="save">保存</string>
+    <string name="are_already_locked">このエリアは既にロックされています</string>
+    <string name="random_nb_accounts">Random number of accounts</string>
+    <string name="external_notification">Twitter notifications</string>
+    <string name="consumer_key">Consumer key</string>
+    <string name="consumer_secret_key">Consumer secret key</string>
+    <string name="access_token">Access token</string>
+    <string name="access_token_secret">Access Token Secret</string>
+    <string name="apply_filters">フィルターの適用</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="advance_filter">Advance filter</string>
+    <string name="multi_filter_select_comment">You are in multi-selection mode. These options will be set to all the Pokemon you have selected</string>
+    <string name="clone">Clone</string>
+    <string name="no_whatsapp">You do not have Whatsapp. You cannot share this Pokemon</string>
+    <string name="no_available_account">You don\'t have any available accounts. Either delete an area or remove some accounts from it</string>
+    <string name="quick_scan_tuto">This is the quick scan. Quick scan are often use when you just want to quickly scan an area and that you dont want the scan to continue in the background when it finishes. Quick scan area do not use fixed area. They scan where ever the \"preview\" circle is placed</string>
+    <string name="share_using">Share using</string>
+    <string name="creating_account">アカウントの作成</string>
+    <string name="account_created">アカウントを作成しました</string>
+    <string name="auto_ptc_username_hint">ユーザー名の選択</string>
+    <string name="auto_ptc_password_hint">パスワードの選択</string>
+    <string name="auto_ptc_email_hint">有効なEメールの選択</string>
+    <string name="auto_ptc_nb_account_hint">作成するアカウントの数</string>
+    <string name="auto_ptc_info">PokeAlert will chose for you a random username. Enter a valid email (please try using a GMAIL address) because you will need to activate the account otherwise it will expire after 3 days. PokeAlert will allow you to create maximum 10 accounts per batch.</string>
+    <string name="no_account_info">To work PokeAlert needs you to add some \"scanning\" accounts. To do this you can either let PokeAlert create the accounts for you (Robot icon on the next screen) or simply add them manually if you already have some.</string>
+    <string name="add_accounts">アカウントの追加</string>
+    <string name="account_long_press_info">Long press on an account to enter multi-select mode</string>
+    <string name="filter_long_press_info">Long press on a Pokemon to enter multi-select mode</string>
+    <string name="account_stats">状態</string>
+    <string name="wrong_email">Please make an effort and enter a valid email</string>
+    <string name="real_user_simulation_summary">When checked PokeAlert will try to simulate a real player as much as possible to avoid ban an captcha</string>
+    <string name="real_user_simulation_title">Real player</string>
+
+    <!-- NO NEED TO TRANSLATE THIS -->
+    <string-array name="pokemons">
+        <item>Bulbasaur</item>
+        <item>Ivysaur</item>
+        <item>Venusaur</item>
+        <item>Charmander</item>
+        <item>Charmeleon</item>
+        <item>Charizard</item>
+        <item>Squirtle</item>
+        <item>Wartortle</item>
+        <item>Blastoise</item>
+        <item>Caterpie</item>
+        <item>Metapod</item>
+        <item>Butterfree</item>
+        <item>Weedle</item>
+        <item>Kakuna</item>
+        <item>Beedrill</item>
+        <item>Pidgey</item>
+        <item>Pidgeotto</item>
+        <item>Pidgeot</item>
+        <item>Rattata</item>
+        <item>Raticate</item>
+        <item>Spearow</item>
+        <item>Fearow</item>
+        <item>Ekans</item>
+        <item>Arbok</item>
+        <item>Pikachu</item>
+        <item>Raichu</item>
+        <item>Sandshrew</item>
+        <item>Sandslash</item>
+        <item>Nidoran F</item>
+        <item>Nidorina</item>
+        <item>Nidoqueen</item>
+        <item>Nidoran M</item>
+        <item>Nidorino</item>
+        <item>Nidoking</item>
+        <item>Clefairy</item>
+        <item>Clefable</item>
+        <item>Vulpix</item>
+        <item>Ninetales</item>
+        <item>Jigglypuff</item>
+        <item>Wigglytuff</item>
+        <item>Zubat</item>
+        <item>Golbat</item>
+        <item>Oddish</item>
+        <item>Gloom</item>
+        <item>Vileplume</item>
+        <item>Paras</item>
+        <item>Parasect</item>
+        <item>Venonat</item>
+        <item>Venomoth</item>
+        <item>Diglett</item>
+        <item>Dugtrio</item>
+        <item>Meowth</item>
+        <item>Persian</item>
+        <item>Psyduck</item>
+        <item>Golduck</item>
+        <item>Mankey</item>
+        <item>Primeape</item>
+        <item>Growlithe</item>
+        <item>Arcanine</item>
+        <item>Poliwag</item>
+        <item>Poliwhirl</item>
+        <item>Poliwrath</item>
+        <item>Abra</item>
+        <item>Kadabra</item>
+        <item>Alakazam</item>
+        <item>Machop</item>
+        <item>Machoke</item>
+        <item>Machamp</item>
+        <item>Bellsprout</item>
+        <item>Weepinbell</item>
+        <item>Victreebel</item>
+        <item>Tentacool</item>
+        <item>Tentacruel</item>
+        <item>Geodude</item>
+        <item>Graveler</item>
+        <item>Golem</item>
+        <item>Ponyta</item>
+        <item>Rapidash</item>
+        <item>Slowpoke</item>
+        <item>Slowbro</item>
+        <item>Magnemite</item>
+        <item>Magneton</item>
+        <item>Farfetch\'d</item>
+        <item>Doduo</item>
+        <item>Dodrio</item>
+        <item>Seel</item>
+        <item>Dewgong</item>
+        <item>Grimer</item>
+        <item>Muk</item>
+        <item>Shellder</item>
+        <item>Cloyster</item>
+        <item>Gastly</item>
+        <item>Haunter</item>
+        <item>Gengar</item>
+        <item>Onix</item>
+        <item>Drowzee</item>
+        <item>Hypno</item>
+        <item>Krabby</item>
+        <item>Kingler</item>
+        <item>Voltorb</item>
+        <item>Electrode</item>
+        <item>Exeggcute</item>
+        <item>Exeggutor</item>
+        <item>Cubone</item>
+        <item>Marowak</item>
+        <item>Hitmonlee</item>
+        <item>Hitmonchan</item>
+        <item>Lickitung</item>
+        <item>Koffing</item>
+        <item>Weezing</item>
+        <item>Rhyhorn</item>
+        <item>Rhydon</item>
+        <item>Chansey</item>
+        <item>Tangela</item>
+        <item>Kangaskhan</item>
+        <item>Horsea</item>
+        <item>Seadra</item>
+        <item>Goldeen</item>
+        <item>Seaking</item>
+        <item>Staryu</item>
+        <item>Starmie</item>
+        <item>Mr. Mime</item>
+        <item>Scyther</item>
+        <item>Jynx</item>
+        <item>Electabuzz</item>
+        <item>Magmar</item>
+        <item>Pinsir</item>
+        <item>Tauros</item>
+        <item>Magikarp</item>
+        <item>Gyarados</item>
+        <item>Lapras</item>
+        <item>Ditto</item>
+        <item>Eevee</item>
+        <item>Vaporeon</item>
+        <item>Jolteon</item>
+        <item>Flareon</item>
+        <item>Porygon</item>
+        <item>Omanyte</item>
+        <item>Omastar</item>
+        <item>Kabuto</item>
+        <item>Kabutops</item>
+        <item>Aerodactyl</item>
+        <item>Snorlax</item>
+        <item>Articuno</item>
+        <item>Zapdos</item>
+        <item>Moltres</item>
+        <item>Dratini</item>
+        <item>Dragonair</item>
+        <item>Dragonite</item>
+        <item>Mewtwo</item>
+        <item>Mew</item>
+    </string-array>
+</resources>

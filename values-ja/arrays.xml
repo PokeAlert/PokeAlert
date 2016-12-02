@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="icon_type">
+        <item>低解像度</item>
+        <item>高解像度 (ベータ)</item>
+    </string-array>
+
+    <!-- Translaters DO NOT translate this -->
+    <string-array name="icon_type_values">
+        <item>OLD_SCHOOL</item>
+        <item>HD</item>
+    </string-array>
+
+    <string-array name="map_type">
+        <item>通常</item>
+        <item>航空写真</item>
+        <item>地形図</item>
+        <item>ハイブリッド</item>
+    </string-array>
+
+    <string-array name="map_type_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="pref_languages">
+        <item>English</item>
+        <item>German</item>
+        <item>French</item>
+        <item>Russian</item>
+        <item>Japanese</item>
+        <item>Chinese (PRC)</item>
+        <item>Chinese (Taiwan)</item>
+        <item>Chinese (Hong Kong)</item>
+    </string-array>
+
+    <!-- Translaters DO NOT translate this -->
+    <string-array name="pref_languages_values">
+        <item>en</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>ru</item>
+        <item>jp</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>zh_HK</item>
+    </string-array>
+
+    <string-array name="pref_possible_steps">
+        <item>70m</item>
+        <item>120m</item>
+        <item>210m</item>
+        <item>310m</item>
+        <item>430m</item>
+        <item>550m</item>
+        <item>670m</item>
+        <item>790m</item>
+        <item>900m</item>
+        <item>1000m</item>
+        <item>1600m</item>
+        <item>2200m (Better have loaded lots of accounts :))</item>
+    </string-array>
+
+    <string-array name="pref_possible_steps_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="scan_delay">
+        <item>10 秒</item>
+        <item>20 秒</item>
+        <item>40 秒</item>
+        <item>1 分</item>
+        <item>2 分</item>
+        <item>3 分</item>
+        <item>4 分</item>
+        <item>5 分</item>
+        <item>6 分</item>
+        <item>7 分</item>
+        <item>8 分</item>
+        <item>9 分</item>
+        <item>10 分</item>
+        <item>20 分</item>
+        <item>30 分</item>
+    </string-array>
+
+    <!-- Translaters DO NOT translate this -->
+    <string-array name="scan_delay_values">
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+        <item>300</item>
+        <item>360</item>
+        <item>420</item>
+        <item>480</item>
+        <item>540</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>1800</item>
+    </string-array>
+
+    <string-array name="pokemon_display_time">
+        <item>出現期限 (24H)</item>
+        <item>出現期限 (12H)</item>
+        <item>残り時間</item>
+    </string-array>
+
+    <!-- Translaters DO NOT translate this -->
+    <string-array name="pokemon_display_time_values">
+        <item>EXPIRE_TIME_24</item>
+        <item>EXPIRE_TIME_12</item>
+        <item>COUNTDOWN</item>
+    </string-array>
+
+    <!-- Translaters DO NOT translate this -->
+    <string-array name="accepted_languages">
+        <item>fr-FR,en-US;q=0.8</item>
+        <item>fr-FR</item>
+        <item>en-US</item>
+        <item>it-IT</item>
+        <item>de-DE</item>
+    </string-array>
+</resources>
