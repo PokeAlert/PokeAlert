@@ -2,7 +2,7 @@
     <string name="clear_map">マップのクリア</string>
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
-    <string name="trainer_login_description">!!DO NOT USE YOUR OFFICIAL ACCOUNT!!\n\nCreate a separate account at https://www.pokemon.com/us/pokemon-trainer-club/ just for this app and log-in with it.</string>
+    <string name="trainer_login_description">!!あなたの公式アカウントを使用しないでください！!\n\nhttps://www.pokemon.com/us/pokemon-trainer-club/で別のアカウントを作成し、このアプリだけでログインしてください。</string>
     <string name="hint_trainer_username">ポケモントレーナークラブ ユーザー名</string>
     <string name="hint_trainer_password">ポケモントレーナークラブ パスワード</string>
     <string name="filter_management">フィルターの管理</string>
@@ -36,7 +36,7 @@
     <string name="save_log_file">ログファイルに保存 (デバッグのみ)</string>
     <string name="notification_sound">通知音</string>
     <string name="use_default_notification_sound_title">標準の通知音を使用する</string>
-    <string name="use_default_notification_sound_summary">When activated your phone\'s default  sound will be used, otherwise one of the custom list bellow will be used</string>
+    <string name="use_default_notification_sound_summary">有効にするとリストから選択したサウンドではなく、携帯電話の標準のサウンドが使用されます。</string>
     <string name="vibration_title">振動</string>
     <string name="vibration_summary">通知を受信したときの振動の有無の設定</string>
     <string name="account_seems_banned">このアカウントはおそらくBANされています</string>
@@ -45,7 +45,7 @@
     <string name="password_hint">PTCパスワードまたはGmailパスワード</string>
     <string name="account_loaded">アカウントの読み込みに成功しました</string>
     <string name="use_multi_area_scan_title">マルチエリアスキャン</string>
-    <string name="use_multi_area_scan_summary">Select multiple area that will be scanned by different accounts (this is an advance user feature and might get your accounts by faster if incorrectly)</string>
+    <string name="use_multi_area_scan_summary">異なるアカウントでスキャンさせるエリアを選択します（これは高度なユーザー向けの機能であり、むやみに使用すると早くアカウントを凍結させられる可能性があります）</string>
     <string name="select_account_assigne_area">このエリアに割り当てるアカウントを選択</string>
     <string name="next">次へ</string>
     <string name="close">閉じる</string>
@@ -67,7 +67,7 @@
     <string name="stamina">Stamina</string>
     <string name="show_gyms">ジムを表示</string>
     <string name="show_pokestops">ポケストップを表示</string>
-    <string name="read_write_no_permissions">アプリはSDカードの読み書きする権限を持っていません</string>
+    <string name="read_write_no_permissions">アプリはSDカードを読み書きする権限を持っていません</string>
     <string name="filter_saved_to_file">フィルターを保存しました: %s</string>
     <string name="filter_saved_to_file_error">カード上のファイルにフィルターを保存中にエラーが発生しました</string>
     <string name="filters_loaded">フィルターの読み込みに成功しました</string>
@@ -79,18 +79,18 @@
     <string name="account_banned">アカウント = %s はBANされました</string>
     <string name="generic_login_error">アカウント = %s のログイン例外が発生しました</string>
     <string name="niantic_login_error">アカウント = %1$s : %2$s</string>
-    <string name="no_account_error">You don\'t have any active accounts, please add at least one</string>
-    <string name="stop_scan_before_editing">Please stop the current scan before starting the background service</string>
-    <string name="stop_scan_before_starting_manual">Please stop the background service before starting a manual scan</string>
-    <string name="scan_stoping">Be patient, scan is stopping</string>
+    <string name="no_account_error">有効なアカウントがありません。少なくとも1つは追加してください。</string>
+    <string name="stop_scan_before_editing">バックグラウンドサービスを開始する前に現在のスキャンを停止してください</string>
+    <string name="stop_scan_before_starting_manual">手動スキャンを開始する前にバックグラウンドサービスを停止してください</string>
+    <string name="scan_stoping">スキャンを停止しています</string>
     <string name="enable_gps_error">スキャンを開始する前にGPSを有効にしてください</string>
     <string name="stop_service_before_creating_area">新しいエリアを作成する前にサービスを停止してください</string>
     <string name="stop_manual_scan_before_starting_background">バックグラウンドサービスを開始する前に現在のスキャンを停止してください</string>
     <string name="auto_update_error">アプリの自動更新ができませんでした。手動で更新してください。</string>
-    <string name="save_log_to_file_success">Log successfully saved to: %s Please get in touch with the devs and send him this file</string>
-    <string name="save_log_to_file_error">Error while saving logfile, please verify you have given write and read permissions</string>
-    <string name="no_location_permission_error">It seems that you didn\'t give location permission for this app. Enable them in the settings and restart the app</string>
-    <string name="no_play_service_error">Google Play Service failed to connect. Please Make sure Google Play Service is up to date!!</string>
+    <string name="save_log_to_file_success">ログの保存に成功しました: %s 開発者に連絡を取りファイルを送ってください。</string>
+    <string name="save_log_to_file_error">ログファイルの保存中にエラーが発生しました。アプリに読み書きの権限が与えられているか確認してください</string>
+    <string name="no_location_permission_error">このアプリに位置情報の権限を与えていないようです。設定で有効にしてアプリを再起動してください。</string>
+    <string name="no_play_service_error">Google Playサービスの接続に失敗しました。 Google Playサービスが最新のものであるか確認してください。</string>
     <string name="account_loaded_error">ファイルからアカウントのインポート中のエラー</string>
     <string name="sd_no_writeable">SDカードが書き込み可能でなないと思われます</string>
     <string name="accounts_save_to_file_success">アカウントをファイルに保存: %s</string>
@@ -123,7 +123,7 @@
     <string name="spawn_point_manager_title">出現ポイントの管理</string>
     <string name="export_all_spawn_points">JSONにエクスポート</string>
     <string name="spawn_point_count_title">出現ポイント:</string>
-    <string name="spawn_point_limit_description">Due to memory limitation on all the different phones, only a limited (3000) number of spawn can be saved</string>
+    <string name="spawn_point_limit_description">形態の機種によってメモリの制限が違うため、限られた数(3000)出現ポイントしか保存できません。</string>
     <string name="import_spawn_points">JSONからインポート</string>
     <string name="comming_soon">Comming soon</string>
     <string name="save_spawn_points_title">出現ポイントの保存</string>
@@ -168,8 +168,8 @@
     <string name="show_when_iv_fail">Show when IV fails</string>
     <string name="notifiy_when_iv_fail">Notify when IV fails</string>
     <string name="ad_block">Ad Blocker</string>
-    <string name="ad_block_message">We do not charge you anything for using PokeAlert and you are not supporting the awesome work we provide you for free \n\nPlease disable your blocker</string>
-    <string name="assign_group">Assign group</string>
+    <string name="ad_block_message">私達はPokeAlertを使用するためにあなたに何も請求しないにもかかわらず、あなたは無料で提供するすばらしい作業をサポートしていません。\n\n広告ブロッカーを無効にしてください</string>
+    <string name="assign_group">割り当てるグループ</string>
     <string name="remove_from_group">グループから削除</string>
     <string name="new_group">新規グループ</string>
     <string name="select_group">グループの選択</string>
@@ -178,20 +178,20 @@
     <string name="area">エリア</string>
     <string name="save">保存</string>
     <string name="are_already_locked">このエリアは既にロックされています</string>
-    <string name="random_nb_accounts">Random number of accounts</string>
-    <string name="external_notification">Twitter notifications</string>
+    <string name="random_nb_accounts">使用するアカウントの数</string>
+    <string name="external_notification">Twitterの通知</string>
     <string name="consumer_key">Consumer key</string>
     <string name="consumer_secret_key">Consumer secret key</string>
     <string name="access_token">Access token</string>
     <string name="access_token_secret">Access Token Secret</string>
     <string name="apply_filters">フィルターの適用</string>
     <string name="fill_all_fields">Please fill all fields</string>
-    <string name="advance_filter">Advance filter</string>
-    <string name="multi_filter_select_comment">You are in multi-selection mode. These options will be set to all the Pokemon you have selected</string>
+    <string name="advance_filter">高度なフィルター</string>
+    <string name="multi_filter_select_comment">複数選択モードになっています。 これらのオプションはあなたが選択したすべてのポケモンに設定されます。</string>
     <string name="clone">Clone</string>
-    <string name="no_whatsapp">You do not have Whatsapp. You cannot share this Pokemon</string>
-    <string name="no_available_account">You don\'t have any available accounts. Either delete an area or remove some accounts from it</string>
-    <string name="quick_scan_tuto">This is the quick scan. Quick scan are often use when you just want to quickly scan an area and that you dont want the scan to continue in the background when it finishes. Quick scan area do not use fixed area. They scan where ever the \"preview\" circle is placed</string>
+    <string name="no_whatsapp">あなたはWhatsappを持っていません。このポケモンを共有することはできません</string>
+    <string name="no_available_account">有効なアカウントがありません。エリアを削除するか、アカウントを削除してください。</string>
+    <string name="quick_scan_tuto">これはクイックスキャンです。クイックスキャンは、エリアをすばやくスキャンしたいだけでなく、バックグラウンドでスキャンを続行したくない場合によく使用されます。クイックスキャンは固定されたエリアではなく、\"プレビュー\"のサークルの範囲をスキャンします。</string>
     <string name="share_using">Share using</string>
     <string name="creating_account">アカウントの作成</string>
     <string name="account_created">アカウントを作成しました</string>
@@ -199,15 +199,15 @@
     <string name="auto_ptc_password_hint">パスワードの選択</string>
     <string name="auto_ptc_email_hint">有効なEメールの選択</string>
     <string name="auto_ptc_nb_account_hint">作成するアカウントの数</string>
-    <string name="auto_ptc_info">PokeAlert will chose for you a random username. Enter a valid email (please try using a GMAIL address) because you will need to activate the account otherwise it will expire after 3 days. PokeAlert will allow you to create maximum 10 accounts per batch.</string>
-    <string name="no_account_info">To work PokeAlert needs you to add some \"scanning\" accounts. To do this you can either let PokeAlert create the accounts for you (Robot icon on the next screen) or simply add them manually if you already have some.</string>
+    <string name="auto_ptc_info">PokeAlertで取得するランダムなユーザー名を選択します。アカウントを有効にする必要があるため有効なメールアドレスを入力してください（GMAILアドレスをお試しください）。確認メールは3日後に期限が切れてしまいます。バッチごとに最大10個のアカウントを取得できます。</string>
+    <string name="no_account_info">PokeAlertを動作させるには、\"スキャン\"アカウントを追加する必要があります。これを行うには、PokeAlertにあなたのアカウントを作成させるか(次の画面のロボットのアイコン)、取得済みの場合は手動で追加することができます。</string>
     <string name="add_accounts">アカウントの追加</string>
-    <string name="account_long_press_info">Long press on an account to enter multi-select mode</string>
-    <string name="filter_long_press_info">Long press on a Pokemon to enter multi-select mode</string>
+    <string name="account_long_press_info">アカウントを長押しすると複数選択モードに入ります</string>
+    <string name="filter_long_press_info">ポケモンを長押しすると複数選択モードに入ります</string>
     <string name="account_stats">状態</string>
-    <string name="wrong_email">Please make an effort and enter a valid email</string>
-    <string name="real_user_simulation_summary">When checked PokeAlert will try to simulate a real player as much as possible to avoid ban an captcha</string>
-    <string name="real_user_simulation_title">Real player</string>
+    <string name="wrong_email">有効なメールアドレスを入力してください</string>
+    <string name="real_user_simulation_summary">チェックした場合、PokeAlertはキャプチャによるBANを避けるためにできるだけリアルプレーヤーをシミュレートしようとします</string>
+    <string name="real_user_simulation_title">リアルプレーヤー</string>
 
     <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
