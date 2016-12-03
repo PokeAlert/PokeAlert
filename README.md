@@ -14,7 +14,9 @@ PokeAlert has been developed by a handsome (:)) and enthusiast Pokemon trainer. 
 ####DO NOT USE YOUR OFFICIAL ACCOUNT. Please create a separate Pokemon Trainer or Gmail account JUST for this app
 
 # Features
-
+- Ditto mode, special mode that allows PokeAlert to find Ditto **(Warning!!! This mode is interfering with your account! Pokemons and items are being transfered in order to makes space for new ones!!)**
+- Real Player tries to simulate 'natural behavior of player' (Pokestop spinnning, Pokemon catching, Item transfers) **(Warning!!! Real Player is interfering with your account! Pokemons and items are being transfered in order to make space for new ones!!)**
+- IP ban and Speed Cap detection- Scanning circles are turning red if one of these happens.
 - Stealth mode, scans are controlled and do not spam PokemonGO servers to avoid bans
 - Login with Google or Pokemon Trainer Account
 - Multi-Account (Add one or more accounts for faster scan)
