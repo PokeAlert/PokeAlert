@@ -1,4 +1,5 @@
 <resources>
+     
     <string name="clear_map">Clear map</string>
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
@@ -19,7 +20,6 @@
     <string name="background_scan_inerval">Background scan interval (seconds)</string>
     <string name="notification_description">PokeAlert is being updated !</string>
     <string name="auto_updating">PokeAlert is being automatically updated, please wait until the download and install are completed</string>
-
     <string name="pokemon_auto_despawn_title">Auto remove expired pokemon</string>
     <string name="pokemon_time_display_title">Pokemon expiration type</string>
     <string name="load_from_file">Load from file</string>
@@ -84,7 +84,6 @@
     <string name="stop_scan_before_starting_manual">Please stop the background service before starting a manual scan</string>
     <string name="scan_stoping">Be patient, scan is stopping</string>
     <string name="enable_gps_error">Please enable your GPS to start a scan</string>
-    <string name="stop_service_before_creating_area">Stop the service before creating a new area</string>
     <string name="stop_manual_scan_before_starting_background">Please stop the current scan before starting the background service</string>
     <string name="auto_update_error">Unable to automatically update the app, Please update manually</string>
     <string name="save_log_to_file_success">Log successfully saved to: %s Please get in touch with the devs and send him this file</string>
@@ -117,9 +116,6 @@
     <string name="supper_pokealert_tuto">This is nice an advert :) Click on it if you wish to support PokeAlert</string>
     <string name="overlaymap">OverlayMap</string>
     <string name="overlaymap_tuto">This opens an overlay map which can be used at the same time you play PokemonGO</string>
-
-
-    <!-- For the translaters that have already  translated their language, from here to bottom are the new strings -->
     <string name="spawn_point_manager_title">Spawn Points Manager</string>
     <string name="export_all_spawn_points">Export to JSON</string>
     <string name="spawn_point_count_title">Spawn points:</string>
@@ -164,7 +160,7 @@
     <string name="show_pokemon_timer_title">Show timer</string>
     <string name="gym_points">Gym points:</string>
     <string name="gym_level">Gym level:</string>
-    <string name="guard_pokemon">Guard Pokemon:</string>
+    <string name="guard_pokemon">Guard Pokemon </string>
     <string name="show_when_iv_fail">Show when IV fails</string>
     <string name="notifiy_when_iv_fail">Notify when IV fails</string>
     <string name="ad_block">Ad Blocker</string>
@@ -179,7 +175,7 @@
     <string name="save">Save</string>
     <string name="are_already_locked">You already have locked this area</string>
     <string name="random_nb_accounts">Random number of accounts</string>
-    <string name="external_notification">Twitter notifications</string>
+    <string name="external_notification">External notifications</string>
     <string name="consumer_key">Consumer key</string>
     <string name="consumer_secret_key">Consumer secret key</string>
     <string name="access_token">Access token</string>
@@ -193,13 +189,13 @@
     <string name="no_available_account">You don\'t have any available accounts. Either delete an area or remove some accounts from it</string>
     <string name="quick_scan_tuto">This is the quick scan. Quick scan are often use when you just want to quickly scan an area and that you dont want the scan to continue in the background when it finishes. Quick scan area do not use fixed area. They scan where ever the \"preview\" circle is placed</string>
     <string name="share_using">Share using</string>
-    <string name="creating_account">Creating account</string>
+    <string name="creating_account">Creating account (%1$d left)</string>
     <string name="account_created">Account created</string>
     <string name="auto_ptc_username_hint">Choose a username</string>
     <string name="auto_ptc_password_hint">Chose a password</string>
     <string name="auto_ptc_email_hint">Chose a valid email</string>
     <string name="auto_ptc_nb_account_hint">Number of accounts to create</string>
-    <string name="auto_ptc_info">PokeAlert will chose for you a random username. Enter a valid email (please try using a GMAIL address) because you will need to activate the account otherwise it will expire after 3 days. PokeAlert will allow you to create maximum 10 accounts per batch.</string>
+    <string name="auto_ptc_info">PokeAlert will chose for you a random username. Enter a valid email (you NEED to use @Hotmail or @outlook address) because you will need to activate the account otherwise it will expire after 3 days. PokeAlert will allow you to create maximum 10 accounts per batch.</string>
     <string name="no_account_info">To work PokeAlert needs you to add some \"scanning\" accounts. To do this you can either let PokeAlert create the accounts for you (Robot icon on the next screen) or simply add them manually if you already have some.</string>
     <string name="add_accounts">Add accounts</string>
     <string name="account_long_press_info">Long press on an account to enter multi-select mode</string>
@@ -208,7 +204,60 @@
     <string name="wrong_email">Please make an effort and enter a valid email</string>
     <string name="real_user_simulation_summary">When checked PokeAlert will try to simulate a real player as much as possible to avoid ban an captcha</string>
     <string name="real_user_simulation_title">Real player</string>
-
+    <string name="requires_email_activation">Requires email verification</string>
+    <string name="marke_active">Mark as alive</string>
+    <string name="dont_show_again">Please don\'t show again</string>
+    <string name="hint_distance_filter">Distance in meter</string>
+    <string name="notifify_min_distance"><![CDATA[Only apply this filter when distance less than]]></string>
+    <string name="ditto_mode_summary">When enabled all your accounts will catch common to uncloak Ditto</string>
+    <string name="ditto_mode_title">Ditto mode</string>
+    <string name="ditto_mode_tuto_title">Ditto finder mode</string>
+    <string name="ditto_mode_tuto_content">PokeAlert is now able to uncloack Ditto. To achieve this the host Pokemon needs to be caught first (which PokeAlert will do automatically). I advise you to create extra new accounts with PokeAlert accounts generator and use this group of accounts to hunt Ditto. If they start getting to much Captcha simply re-create a new batch :)</string>
+    <string name="app_language_title">App language</string>
+    <string name="language">Language</string>
+    <string name="language_change_warning">You have changed the app language. By clicking OK the app will restart</string>
+    <string name="notify_captcha_title">Notify on Captcha</string>
+    <string name="notify_captcha_summary">Triggers a notification when an account has a captcha</string>
+    <string name="notify_captcha_sound_title">Use sound</string>
+    <string name="notify_captcha_sound_summary">When enabled captcha notification will use the default sound when disabled it will be silent</string>
+    <string name="retry_when_speedcapped_title">Retry when speedcapped</string>
+    <string name="retry_when_speedcapped_summary">When PA \'think\' you are speedcapped it will try rescan the same failed point up to 3 times. You should enable this only if you live in area where you know there is a lot of pokemon around you</string>
+    <string name="rotate_screen">Rotate screen</string>
+    <string name="rotate_screen_warning">You are about to rotate the screen. The current scans will stop. Do you still want to rotate the screen? (Note that the user interface for landscape is not yet optimized)</string>
+    <string name="twitter">Twitter</string>
+    <string name="discord">Discord</string>
+    <string name="telegram">Telegram</string>
+    <string name="webhook_url">Your bot\'s webhook url</string>
+    <string name="bot_token">Your bot\'s token</string>
+    <string name="channel_id_hint">Your channel ID</string>
+    <string name="verification_sent">Test notification sent. Check if you have received it</string>
+    <string name="send_test_notification">Send test notification</string>
+    <string name="enable">Enable</string>
+    <string name="ext">Ext</string>
+    <string name="tap_for_more_info">Tap on this dialog for more info</string>
+    <string name="alive">Alive</string>
+    <string name="banned">Banned</string>
+    <string name="email_no_verified">Email not verified</string>
+    <string name="no_alive">Not alive</string>
+    <string name="cannot_edit_area">Area cannot be edited while scan is running</string>
+    <string name="auto_added">Auto added</string>
+    <string name="captcha_solved">Captcha solved</string>
+    <string name="password_rules"><![CDATA[Your password must include upper and lower case letters, numbers and symbols (such as ?!@$%&#]) and be 8 letters long]]></string>
+    <string name="wrong_pasword_format">Password doesn\'t match the bellow description</string>
+    <string name="no_account_with_lure_module">Looks like none of your accounts has a lure module. Be sure to have scanned at least once with your account(s)</string>
+    <string name="place_lure_module">Place lure module</string>
+    <string name="account_place_lure_module">Do you want to place a lure module on this Pokestop?</string>
+    <string name="place_lure_module_success">Lure module has been placed</string>
+    <string name="place_lure_module_error">Error. Lure module has not been placed</string>
+    <string name="pogo_into_message">Esta funcionalidade só pode ser usada a cada 60 segundos. Para ver mais Pokémon na região, clique em OK e acesse o mapa.</string>
+    <string name="place_lure_info">To be able to place a lure you need to have at least scanned with an account having a lure module. If possible place a module to the pokestop closest to the last account position...</string>
+    <string name="placing_lure_module">Attempting to place a lure module, please wait</string>
+    <string name="place_lure_module_too_fare">Pokestop is too fare away. Do a 70m scan on this Pokestop</string>
+    <string name="place_lure_module_already_lure">This pokestop has already a lure module</string>
+    <string name="stop_service_before_editing_area">Stop the service before editing area</string>
+    <string name="backup">Backup</string>
+   
+    
     <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
         <item>Bulbasaur</item>
