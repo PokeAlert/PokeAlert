@@ -195,7 +195,6 @@
     <string name="auto_ptc_password_hint">Chose a password</string>
     <string name="auto_ptc_email_hint">Chose a valid email</string>
     <string name="auto_ptc_nb_account_hint">Number of accounts to create</string>
-    <string name="auto_ptc_info">PokeAlert will chose for you a random username. Enter a valid email (you NEED to use @Hotmail or @outlook address) because you will need to activate the account otherwise it will expire after 3 days. PokeAlert will allow you to create maximum 10 accounts per batch.</string>
     <string name="no_account_info">To work PokeAlert needs you to add some \"scanning\" accounts. To do this you can either let PokeAlert create the accounts for you (Robot icon on the next screen) or simply add them manually if you already have some.</string>
     <string name="add_accounts">Add accounts</string>
     <string name="account_long_press_info">Long press on an account to enter multi-select mode</string>
@@ -256,7 +255,8 @@
     <string name="place_lure_module_already_lure">This pokestop has already a lure module</string>
     <string name="stop_service_before_editing_area">Stop the service before editing area</string>
     <string name="backup">Backup</string>
-   
+    <string name="auto_ptc_info">PokeAlert will chose for you a random username. Enter a valid email (you NEED to use @Hotmail or @outlook address) because you will need to activate the account otherwise it will expire after 3 days. PokeAlert will allow you to create maximum 10 accounts per batch.</string>
+
     
     <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
