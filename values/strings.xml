@@ -6,7 +6,7 @@
     <string name="trainer_login_description">!!DO NOT USE YOUR OFFICIAL ACCOUNT!!\n\nCreate a separate account at https://www.pokemon.com/us/pokemon-trainer-club/ just for this app and log-in with it.</string>
     <string name="hint_trainer_username">Pokemon Trainer Club username</string>
     <string name="hint_trainer_password">Pokemon Trainer Club Password</string>
-    <string name="filter_management">Filters Management</string>
+    <string name="filter_management">Filter Management</string>
     <string name="delete">Delete</string>
     <string name="creds_not_valid">Wrong username or password</string>
     <string name="add_extra_account_title">Add extra accounts</string>
