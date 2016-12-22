@@ -37,7 +37,7 @@
     <string name="use_default_notification_sound_title">標準の通知音を使用する</string>
     <string name="use_default_notification_sound_summary">有効にするとリストから選択したサウンドではなく、携帯電話の標準のサウンドが使用されます。</string>
     <string name="vibration_title">振動</string>
-    <string name="vibration_summary">通知を受信したときに振動の有無を設定できます</string>
+    <string name="vibration_summary">通知を受信したときの振動の有無を設定できます</string>
     <string name="account_seems_banned">このアカウントはおそらくBANされています</string>
     <string name="account_alive">このアカウントは有効です (yay!)</string>
     <string name="username_hint">PTCユーザー名またはGmailアカウント</string>
@@ -126,7 +126,7 @@
     <string name="delete_all_spawn_points">すべての出現ポイントの削除</string>
     <string name="spawn_point_saved_sucessfully">出現ポイントを保存しました: %s</string>
     <string name="manage_spawn_point">出現ポイントの管理</string>
-    <string name="bitcoin_address_copied">ビットコインアドレスクリップボードにコピーしました</string>
+    <string name="bitcoin_address_copied">ビットコインアドレスをクリップボードにコピーしました</string>
     <string name="gym_detail_failed">ジムデータがありません</string>
     <string name="show_gym_summary">すべてのジムとジムの詳細を表示する(注意: 追加の呼び出しはデータ通信量を増加させます)</string>
     <string name="show_pokestops_summary">すべてのポケストップを表示</string>
@@ -240,7 +240,7 @@
     <string name="cannot_edit_area">スキャンの実行中にエリアを編集することはできません</string>
     <string name="auto_added">Auto added</string>
     <string name="captcha_solved">キャプチャ回答済み</string>
-    <string name="password_rules"><![CDATA[パスワードは、大文字と小文字、数字と記号(?!@$%&#]など)を含む必要があり、8文字以上ある必要があります。]]></string>
+    <string name="password_rules"><![CDATA[パスワードは、半角英数の大文字と小文字、記号(?!@$%&#]など)を含み、8文字以上である必要があります。]]></string>
     <string name="wrong_pasword_format">パスワードは以下の条件を満たしている必要があります</string>
     <string name="no_account_with_lure_module">どのアカウントもルアーモジュールを持っていないようです。 あなたのアカウントで少なくとも1回スキャンしてください。</string>
     <string name="place_lure_module">ルアーモジュールを設置</string>
