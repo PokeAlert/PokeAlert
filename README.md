@@ -2,7 +2,7 @@
 
 Download links (latest version at the top) 
 ###[Download Section](https://github.com/PokeAlert/PokeAlert/releases)
-##Join us on Discord: <a href="https://discord.gg/JdFdPw3"> <img src="http://i.imgur.com/sXlKZUB.png"> </a>
+##Join us on: <a href="https://discord.gg/JdFdPw3"> <img src="http://i.imgur.com/5qd7qB8.png"> </a>
 
 # PokeAlert - Pokemon Notification for PokemonGO 
 PokeAlert has been developed by a handsome (:)) and enthusiast Pokemon trainer. Basically it is an nice alternative to PokeVision, an app to help you scan for Pokemon around you AND that triggers notifications when you are not using the app.

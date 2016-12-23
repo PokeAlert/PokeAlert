@@ -1,4 +1,5 @@
 <resources>
+     
     <string name="clear_map">Wyczyść mapę</string>
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
@@ -19,7 +20,6 @@
     <string name="background_scan_inerval">Przerwa między skanowaniem</string> 
     <string name="notification_description">PokeAlert jest aktualizowany !</string>
     <string name="auto_updating">PokeAlert jest automatycznie aktualizowany, proszę czekać aż pobieranie i instalacja zostaną zakończone</string>
-
     <string name="pokemon_auto_despawn_title">Automatyczne usuwanie Pokemonów</string>
     <string name="pokemon_time_display_title">Typ wygaśnięcia pokemona</string> 
     <string name="load_from_file">Załaduj z pliku</string>
@@ -84,7 +84,6 @@
     <string name="stop_scan_before_starting_manual">Proszę zatrzymać skanowanie w tle zanim zaczniesz ręczne skanowanie</string>
     <string name="scan_stoping">Proszę czekać, skanowanie jest zatrzymywane</string>
     <string name="enable_gps_error">Proszę włączyć GPS aby rozpocząć skanowanie</string>
-    <string name="stop_service_before_creating_area">Proszę zatrzymać skanowanie przed utworzeniem nowego pola</string>
     <string name="stop_manual_scan_before_starting_background">Proszę zatrzymać aktualne skanowanie przed rozpoczęciem skanowania w tle</string>
     <string name="auto_update_error">Nie można zaktualizować automatycznie, proszę zaktualizować ręcznie</string>
     <string name="save_log_to_file_success">Log pomyślnie zapisano w: %s Proszę skontaktować się z developerem i wysłać mu ten plik</string>
@@ -117,9 +116,6 @@
     <string name="supper_pokealert_tuto">To jest reklama :) Kliknij w nią aby wspomóc PokeAlert</string>
     <string name="overlaymap">Nakładka</string> 
     <string name="overlaymap_tuto">Tym otworzysz nakładkę, dzięki niej będziesz mógł widzieć ekran PokeAlert podczas grania w PokemonGo</string> 
-
-
-    <!-- For the translaters that have already  translated their language, from here to bottom are the new strings -->
     <string name="spawn_point_manager_title">Zarządzanie punktami spawnów</string>
     <string name="export_all_spawn_points">Eksportuj do JSON</string>
     <string name="spawn_point_count_title">Spawny:</string>
@@ -164,7 +160,7 @@
     <string name="show_pokemon_timer_title">Pokaż czas</string>
     <string name="gym_points">Punkty prestiżu:</string>
     <string name="gym_level">Poziom Gymu:</string>
-    <string name="guard_pokemon">Broniący pokemon:</string>
+    <string name="guard_pokemon">Broniący pokemon </string>
     <string name="show_when_iv_fail">Pokaż gdy wystąpi błąd odczytania IV</string>
     <string name="notifiy_when_iv_fail">Powiadom gdy wystąpi błąd odczytania IV</string>
     <string name="ad_block">Ad Blocker</string>
@@ -179,7 +175,7 @@
     <string name="save">Zapisz</string>
     <string name="are_already_locked">Już zablokowałeś to pole</string>
     <string name="random_nb_accounts">Losowa ilość kont</string>
-    <string name="external_notification">Powiadomienia na Twittera</string>
+    <string name="external_notification">Powiadomienia zewnętrzne</string>
     <string name="consumer_key">Consumer key</string>
     <string name="consumer_secret_key">Consumer secret key</string>
     <string name="access_token">Access token</string>
@@ -193,13 +189,12 @@
     <string name="no_available_account">Nie masz żadnych dostępnych kont. Usuń polę lub konta przypisane do niego</string>
     <string name="quick_scan_tuto">To jest szybki skan. Szybki skan używany jest gdy chcesz szybko przeskanować dany teren oraz nie chcesz kontynuować skanu w tle gdy się on skończy. Szybki skan nie używa przypisanych pól. Skanowany jest obszar który jest w okręgu</string>
     <string name="share_using">Share using</string>
-    <string name="creating_account">Stwórz konto</string>
+    <string name="creating_account">Stwórz konto (%1$d left)</string>
     <string name="account_created">Konto stworzone</string>
     <string name="auto_ptc_username_hint">Wybierz login</string>
     <string name="auto_ptc_password_hint">Wybierz hasło</string>
     <string name="auto_ptc_email_hint">Wybierz działający email</string>
     <string name="auto_ptc_nb_account_hint">Liczba kont do stworzenia</string>
-    <string name="auto_ptc_info">PokeAlert stworzy losowy login. Proszę wybrać działający adres email (najlepiej Gmail) ponieważ później będziesz musiał zatwierdzic aktywację konta. W przeciwnym razie przestanie ono działać po 3 dniach. PokeAlert pozwala stworzyć maksymalnie 10 kont za jednym razem.</string>
     <string name="no_account_info">Do działania pokeAlert musisz dodać parę kont do skanowania. Aby to zrobić Aplikacja może stworzyć konta dla ciebie (ikona robota na następnym ekranie) albo dodaj je ręcznie jeśli posiadasz już parę</string>
     <string name="add_accounts">Dodaj konta</string>
     <string name="account_long_press_info">Przytrzymaj na koncie aby wejść w tryb wielokrotnego zaznaczania</string>
@@ -208,8 +203,62 @@
     <string name="wrong_email">Postaraj się wpisać prawidłowy email</string>
     <string name="real_user_simulation_summary">PokeAlert będzie starał się symulować prawdziwego gracza, tak jak to możliwe aby uniknąć bana oraz Captchy</string>
     <string name="real_user_simulation_title">Tryb prawdziwego Gracza</string>
+  <string name="requires_email_activation">Wymaga weryfikacji emaila</string>
+    <string name="marke_active">Oznacz jako działające</string>
+    <string name="dont_show_again">Nie pokazuj więcej</string>
+    <string name="hint_distance_filter">Odległość w metrach</string>
+    <string name="notifify_min_distance"><![CDATA[Zastosuj filtr tylko gdy odległość jest mniejsza niż]]></string>
+    <string name="ditto_mode_summary">Wszystkie pokemony które mogą zamienić się w Ditto będą łapane</string>
+    <string name="ditto_mode_title">Tryb Ditto</string>
+    <string name="ditto_mode_tuto_title">Tryb poszukiwania Ditto</string>
+    <string name="ditto_mode_tuto_content">PokeAlert może szukać Ditto. Aby to zrobić Pokemon w którego zamienił się Ditto musi być najpierw złapany, (PokeAlert zrobi to za ciebie). Zalecam stworzenie dodatkowych kont używająć Generatora Kont PokeALert i używanie ich w osobnej grupie aby znaleźć Ditto. Gdy konta zacznął otrzymywać dużą ilość Captch stwórz nowe :) </string>
+    <string name="app_language_title">Język aplikacji</string>
+    <string name="language">Język</string>
+    <string name="language_change_warning">Zmieniłeś język aplikacji. Po kliknięciu OK aplikacja zostanie uruchomiona ponownie</string>
+    <string name="notify_captcha_title">Powiaodm gdy otrzymasz Captcha</string>
+    <string name="notify_captcha_summary">Włącza powiadomienie gdy konto otrzyma Captcha</string>
+    <string name="notify_captcha_sound_title">Użyj dźwięku</string>
+    <string name="notify_captcha_sound_summary">Gdy włączone powiadomienie o Captcha będzie używało dźwięku domyślnego. W przeciwnym razie powiadomienia o Captcha będą wyciszone</string>
+    <string name="retry_when_speedcapped_title">Spróbuj ponownie gdy nastąpi blokada prędkości</string>
+    <string name="retry_when_speedcapped_summary">Gdy PokeAlert wykryje że konto przekroczyło dozwoloną prędkość, spróbuje ponownie przeskanować dany punkt 3 razy. Tej funkcji powinieneś używać tyko gdy skanujesz w miejscu gdzie jest dużo Pokemonów</string>
+    <string name="rotate_screen">Obróć ekran</string>
+    <string name="rotate_screen_warning">Zaraz obrócisz ekran. Obecny skan zostanie zatrzymany. Czy nadal chcesz obrócić ekran (Uwaga! interfejs nie jest przystosowany do trybu horyzontalnego)</string>
+    <string name="twitter">Twitter</string>
+    <string name="discord">Discord</string>
+    <string name="telegram">Telegram</string>
+    <string name="webhook_url">Your bot\'s webhook url</string>
+    <string name="bot_token">Your bot\'s token</string>
+    <string name="channel_id_hint">Your channel ID</string>
+    <string name="verification_sent">Testowe powiadomienie zostało wysłane. Zobacz czy je otrzymałeś</string>
+    <string name="send_test_notification">Wyślij powiadomienie testowe</string>
+    <string name="enable">Włącz</string>
+    <string name="ext">Ext</string>
+    <string name="tap_for_more_info">Kliknit aby zobaczyć więcej informacji</string>
+    <string name="alive">Działa</string>
+    <string name="banned">Zbanowane</string>
+    <string name="email_no_verified">Email niezweryfikowany</string>
+    <string name="no_alive">Nie działa</string>
+    <string name="cannot_edit_area">Pole nie może być modyfikowane gdy trwa skanowanie</string>
+    <string name="auto_added">Automatycznie dodane</string>
+    <string name="captcha_solved">Captcha rozwiązana</string>
+    <string name="password_rules"><![CDATA[Twoje hasło musi zawierać małe oraz duże litery, cyfry oraz symbole(?!@$%&#]) i musi mieć 8 znaków]]></string>
+    <string name="wrong_pasword_format">Hasło nie spełnia wymagań</string>
+    <string name="no_account_with_lure_module">Żadne z twoich kont nie posiada Lure module. Sprawdź czy na pewno skanowałeś przynajmniej raz swoimi kontami</string>
+    <string name="place_lure_module">Użyj lura</string>
+    <string name="account_place_lure_module">Czy chcesz umieścić lura na tym Pokestopie?</string>
+    <string name="place_lure_module_success">Lur został włączony</string>
+    <string name="place_lure_module_error">Błąd. Lur nie został umieszczony</string>
+    <string name="pogo_into_message">Esta funcionalidade só pode ser usada a cada 60 segundos. Para ver mais Pokémon na região, clique em OK e acesse o mapa.</string>
+    <string name="place_lure_info">Aby móc umieścić lura musisz wykonać skan kontem które go posiada, jeśli to możliwe umieść lura najbliżej ostatniej pozycji tego konta</string>
+    <string name="placing_lure_module">Umieszczanie lura, proszę czekać!</string>
+    <string name="place_lure_module_too_fare">Pokestop jest za daleko</string>
+    <string name="place_lure_module_already_lure">Ten Pokestop ma już lura</string>
+    <string name="stop_service_before_editing_area">Zatrzymaj skanowanie przed edycją pola</string>
+    <string name="backup">Kopia zapasowa</string>
+    <string name="auto_ptc_info">Pokealert wybierze losowy nick za ciebie. Podaj działający adres email (musisz użyć adresu @Hotmail albo @outlook) ponieważ będziesz musiał aktywować stworzone konta. W przeciwnym razie przestaną one działać po 3 dniach. Możesz stworzyć maksymalnie 10 kont za jednym razem</string>
+   
 
-    <!-- NO NEED TO TRANSLATE THIS -->
+   <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
         <item>Bulbasaur</item>
         <item>Ivysaur</item>
