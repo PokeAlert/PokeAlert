@@ -3,7 +3,7 @@
 
 
     <string-array name="icon_type">
-        <item>Old school low res</item>
+        <item>Resolução Baixa</item>
         <item>HD (beta)</item>
     </string-array>
 
@@ -15,9 +15,9 @@
 
     <string-array name="map_type">
         <item>Normal</item>
-        <item>Satellite</item>
-        <item>Terrain</item>
-        <item>Hybrid</item>
+        <item>Satélite</item>
+        <item>Terreno</item>
+        <item>Híbrido</item>
     </string-array>
 
     <string-array name="map_type_values">
@@ -36,6 +36,7 @@
         <item>Chinese (PRC)</item>
         <item>Chinese (Taiwan)</item>
         <item>Chinese (Hong Kong)</item>
+        <item>Português</item>
     </string-array>
 
     <!-- Translaters DO NOT translate this -->
@@ -48,6 +49,7 @@
         <item>zh_CN</item>
         <item>zh_TW</item>
         <item>zh_HK</item>
+        <item>pt_BR</item>
     </string-array>
 
     <string-array name="pref_possible_steps">
@@ -62,7 +64,7 @@
         <item>900m</item>
         <item>1000m</item>
         <item>1600m</item>
-        <item>2200m (Better have loaded lots of accounts :))</item>
+        <item>2200m (Recomendável ter muitas contas :))</item>
     </string-array>
 
     <string-array name="pref_possible_steps_values">
@@ -81,21 +83,21 @@
     </string-array>
 
     <string-array name="scan_delay">
-        <item>10 seconds</item>
-        <item>20 seconds</item>
-        <item>40 seconds</item>
-        <item>1 minutes</item>
-        <item>2 minutes</item>
-        <item>3 minutes</item>
-        <item>4 minutes</item>
-        <item>5 minutes</item>
-        <item>6 minutes</item>
-        <item>7 minutes</item>
-        <item>8 minutes</item>
-        <item>9 minutes</item>
-        <item>10 minutes</item>
-        <item>20 minutes</item>
-        <item>30 minutes</item>
+        <item>10 segundos</item>
+        <item>20 segundos</item>
+        <item>40 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>3 minutos</item>
+        <item>4 minutos</item>
+        <item>5 minutos</item>
+        <item>6 minutos</item>
+        <item>7 minutos</item>
+        <item>8 minutos</item>
+        <item>9 minutos</item>
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
     </string-array>
 
     <!-- Translaters DO NOT translate this -->
@@ -118,9 +120,9 @@
     </string-array>
 
     <string-array name="pokemon_display_time">
-        <item>Expired time (24H)</item>
-        <item>Expired time (12H)</item>
-        <item>Countdown</item>
+        <item>Tempo expirado (24H)</item>
+        <item>Tempo expirado (12H)</item>
+        <item>Contagem Regressiva</item>
     </string-array>
 
     <!-- Translaters DO NOT translate this -->
@@ -137,5 +139,6 @@
         <item>en-US</item>
         <item>it-IT</item>
         <item>de-DE</item>
+        <item>pt-BR</item>
     </string-array>
 </resources>

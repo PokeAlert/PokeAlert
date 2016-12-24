@@ -217,8 +217,4 @@ PokeAlert tries to be as stealthy as possible but it might happens of course tha
 
 
 # Twitter
-https://twitter.com/PokemonGORadar1
-
-# Credits
-All the people on https://www.reddit.com/r/pokemongodev/
-All the people at https://github.com/Grover-c13/PokeGOAPI-Java/issues
+https://twitter.com/ThePokeAlertApp
