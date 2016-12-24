@@ -260,7 +260,7 @@
     <string name="other_options_header">Więcej opcji:</string>
     <string name="enable_smartlock">Włącz SmartLock dla haseł</string>
     <string name="rational_image_perm">This sample will read an image from local storage to upload to Firebase Storage.</string>
-    <string name="anonymous_auth_failed_toast"> Uwierzytelnianie nie powiodł się, wysyłanie i pobieranie nie będzie działać.</string>
+    <string name="anonymous_auth_failed_toast"> Uwierzytelnianie nie powiodło się, wysyłanie i pobieranie nie będzie działać.</string>
     <string name="anonymous_auth_failed_msg">Anonimowie uwierzytelnienie nie powiodło się. Sprawdź czy urządzenie ma połaczenie z internetem oraz czy Anonimowe uwierzytelnianie jest skonfigurowane w Firebase project(https://console.firebase.google.com/project/_/authentication/providers)</string>
     <string name="extra_google_scopes">Przykładowe Google scopes</string>
     <string name="games">Gry</string>
