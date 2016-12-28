@@ -3,7 +3,7 @@
     <string name="clear_map">Wyczyść mapę</string>
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
-    <string name="trainer_login_description">!!NIE UŻYWAJ GŁÓWNEGO KONTA!! \ n \ Stwórz osobne konto na https://www.pokemon.com/us/pokemon-trainer-club/ tylko dla tej aplikacji i zaloguj się nim.</string>
+    <string name="trainer_login_description">!!NIE UŻYWAJ GŁÓWNEGO KONTA!!\n\nStwórz osobne konto na https://www.pokemon.com/us/pokemon-trainer-club/ tylko dla tej aplikacji i zaloguj się nim.</string>
     <string name="delete">Usuń</string>
     <string name="creds_not_valid">Nieprawidłowy login lub hasło</string>
     <string name="add_extra_account_title">Dodaj konto</string>
