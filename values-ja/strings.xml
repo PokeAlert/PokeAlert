@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="clear_map">マップのクリア</string>
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
@@ -7,7 +8,6 @@
     <string name="creds_not_valid">ユーザー名またはパスワードが間違っています</string>
     <string name="duplicate_account">このアカウントは既に追加されています</string>
     <string name="account_added">アカウントを追加しました！</string>
-    <string name="help_title">ヘルプ</string>
     <string name="help_summary">Twitterで作者を探す</string>
     <string name="scan_settings">スキャン設定</string>
     <string name="search_range">検索半径</string>
@@ -16,11 +16,8 @@
     <string name="auto_updating">PokeAlertを自動更新しています。ダウンロードとインストールが完了するまでしばらくお待ちください。</string>
     <string name="pokemon_auto_despawn_title">期限切れのポケモンを自動で削除</string>
     <string name="pokemon_time_display_title">ポケモン 残り時間形式</string>
-    <string name="load_from_file">ファイルから読み込み</string>
     <string name="version_title">更新履歴を表示</string>
     <string name="pokemon_name_title">ポケモン名の表示言語</string>
-    <string name="caught_pokemon_management_title">捕獲したポケモンの管理</string>
-    <string name="delete_all">すべて削除</string>    <string name="annoucement_title">アナウンス</string>
     <string name="background_service_settings">バックグラウンドサービスの設定</string>
     <string name="save_log_file">ログファイル保存(デバッグ用)</string>
     <string name="notification_sound">通知音</string>
@@ -60,7 +57,6 @@
     <string name="filters_loaded">フィルターの読み込みに成功しました</string>
     <string name="filters_loaded_error">ファイルからフィルタの読み込み中にエラーが発生しました</string>
     <string name="support_title">PokeAlertをサポート</string>
-    <string name="support_us_title">アプリをサポート</string>
     <string name="scan_unknown_error">スキャン中に起こったエラーは、開発者にお問い合わせください</string>
     <string name="no_account_error">有効なアカウントがありません。少なくとも1つは追加してください。</string>
     <string name="stop_scan_before_editing">バックグラウンドサービスを開始する前に現在のスキャンを停止してください</string>
@@ -225,48 +221,10 @@
     <string name="auto_ptc_info">ユーザー名はPokeAlertによってランダムに生成されます。3日以内にアカウントを有効にする必要があるため、有効なメールアドレス(@gmail、@outlookまたは@hotmailアドレスを使用してください)を入力してください。 1バッチごとに最大10個のアカウントを作成できます。</string>
     <string name="stop_scan_before_editing_accounts">現在のスキャンを終了するにはアカウントを編集してください。</string>
 
-    <string name="dark_theme">Dark Theme</string>
-    <string name="use_theme_header">テーマを使用する:</string>
-    <string name="logo_header">ロゴ:</string>
-    <string name="firebase_logo_label">Firebase Auth</string>
-    <string name="google_logo_label">Google</string>
-    <string name="no_logo_label">なし</string>
-    <string name="auth_providers_header">認証プロバイダを使用する:</string>
-    <string name="email_label">Email</string>
-    <string name="facebook_label">Facebook</string>
-    <string name="facebook_label_missing_config">Facebook - 設定されていません</string>
-    <string name="twitter_label">Twitter</string>
-    <string name="twitter_label_missing_config">Twitter - 設定されていません</string>
-    <string name="google_label">Google</string>
-    <string name="google_label_missing_config">Google - 設定されていません</string>
-    <string name="google_tos_label">Google TOS</string>
-    <string name="firebase_tos_label">Firebase TOS</string>
-    <string name="tos_header">利用規約のURL:</string>
     <string name="unknown_response">予期しないonActivityResultレスポンスコード</string>
-    <string name="unknown_sign_in_response">AuthUIログインの不明な応答</string>
     <string name="sign_in_cancelled">ログインがキャンセルされました</string>
     <string name="no_internet_connection">インターネット接続がありません</string>
-    <string name="signed_in_header">サインインしました</string>
     <string name="sign_out">サインアウト</string>
-    <string name="delete_account_label">アカウントの削除</string>
-    <string name="sign_out_failed">サインアウトに失敗</string>
-    <string name="delete_account_failed">アカウントの削除に失敗</string>
-    <string name="user_profile_header">ユーザー情報:</string>
-    <string name="profile_picture_content_desc">Profile picture</string>
-    <string name="default_theme">標準テーマ</string>
-    <string name="configuration_required">設定が必要です - README.mdを参照</string>
-    <string name="other_options_header">その他の設定:</string>
-    <string name="enable_smartlock">パスワードのスマートロックを有効にする</string>
-    <string name="rational_image_perm">このサンプルはFirebase Storageにアップロードするためにローカルストレージからイメージを読み込みます。</string>
-    <string name="anonymous_auth_failed_toast">認証に失敗しました。アップロードとダウンロードは機能しません。</string>
-    <string name="anonymous_auth_failed_msg">匿名認証に失敗しました。 あなたのデバイスがオンラインで、Firebaseプロジェクト（https://console.firebase.google.com/project/_/authentication/providers）にAnonymous Authが設定されていることを確認してください。</string>
-    <string name="extra_google_scopes">Googleスコープの例</string>
-    <string name="games">Games</string>
-    <string name="extra_facebook_scopes">Facebookスコープの例</string>
-    <string name="friends">フレンド</string>
-    <string name="photos">フォト</string>
-    <string name="idp_token">IDP Token</string>
-    <string name="idp_secret">IDP Secret</string>
     <string name="sign_out_success">あなたは正常にログアウトしました</string>
     <string name="sign_in_success">あなたは正常にサインインしました</string>
     <string name="remove_ads">広告の削除</string>
@@ -274,165 +232,8 @@
     <string name="send_payment_error">支払いエラーです。もう一度お試しいただくか、開発者にお問い合わせください。</string>
     <string name="success">成功</string>
     <string name="payment_no_ads_success">ありがとうございました！ お支払いを受け取りました。\\n\\n広告なしでPokeAlertを楽しむには、アプリを再起動してください！ 再起動しても広告が表示される場合は、最大5分待たなければならない場合があります。 5分後に広告が表示される場合は、Twitter、Facebook、Discordで開発者にお問い合わせください。</string>
-    <string name="payments_not_logged_in_error">支払いを行うにはログインする必要があります</string>
     <string name="pay">支払</string>
     <string name="processing_payment">支払い処理中...</string>
     <string name="price">価格:</string>
     <string name="payment_success_with_error">お支払いはOKですが、商品は追加されませんでした。 開発者に連絡してください。</string>
-
-
-    <!-- NO NEED TO TRANSLATE THIS -->
-    <string-array name="pokemons">
-        <item>Bulbasaur</item>
-        <item>Ivysaur</item>
-        <item>Venusaur</item>
-        <item>Charmander</item>
-        <item>Charmeleon</item>
-        <item>Charizard</item>
-        <item>Squirtle</item>
-        <item>Wartortle</item>
-        <item>Blastoise</item>
-        <item>Caterpie</item>
-        <item>Metapod</item>
-        <item>Butterfree</item>
-        <item>Weedle</item>
-        <item>Kakuna</item>
-        <item>Beedrill</item>
-        <item>Pidgey</item>
-        <item>Pidgeotto</item>
-        <item>Pidgeot</item>
-        <item>Rattata</item>
-        <item>Raticate</item>
-        <item>Spearow</item>
-        <item>Fearow</item>
-        <item>Ekans</item>
-        <item>Arbok</item>
-        <item>Pikachu</item>
-        <item>Raichu</item>
-        <item>Sandshrew</item>
-        <item>Sandslash</item>
-        <item>Nidoran F</item>
-        <item>Nidorina</item>
-        <item>Nidoqueen</item>
-        <item>Nidoran M</item>
-        <item>Nidorino</item>
-        <item>Nidoking</item>
-        <item>Clefairy</item>
-        <item>Clefable</item>
-        <item>Vulpix</item>
-        <item>Ninetales</item>
-        <item>Jigglypuff</item>
-        <item>Wigglytuff</item>
-        <item>Zubat</item>
-        <item>Golbat</item>
-        <item>Oddish</item>
-        <item>Gloom</item>
-        <item>Vileplume</item>
-        <item>Paras</item>
-        <item>Parasect</item>
-        <item>Venonat</item>
-        <item>Venomoth</item>
-        <item>Diglett</item>
-        <item>Dugtrio</item>
-        <item>Meowth</item>
-        <item>Persian</item>
-        <item>Psyduck</item>
-        <item>Golduck</item>
-        <item>Mankey</item>
-        <item>Primeape</item>
-        <item>Growlithe</item>
-        <item>Arcanine</item>
-        <item>Poliwag</item>
-        <item>Poliwhirl</item>
-        <item>Poliwrath</item>
-        <item>Abra</item>
-        <item>Kadabra</item>
-        <item>Alakazam</item>
-        <item>Machop</item>
-        <item>Machoke</item>
-        <item>Machamp</item>
-        <item>Bellsprout</item>
-        <item>Weepinbell</item>
-        <item>Victreebel</item>
-        <item>Tentacool</item>
-        <item>Tentacruel</item>
-        <item>Geodude</item>
-        <item>Graveler</item>
-        <item>Golem</item>
-        <item>Ponyta</item>
-        <item>Rapidash</item>
-        <item>Slowpoke</item>
-        <item>Slowbro</item>
-        <item>Magnemite</item>
-        <item>Magneton</item>
-        <item>Farfetch\'d</item>
-        <item>Doduo</item>
-        <item>Dodrio</item>
-        <item>Seel</item>
-        <item>Dewgong</item>
-        <item>Grimer</item>
-        <item>Muk</item>
-        <item>Shellder</item>
-        <item>Cloyster</item>
-        <item>Gastly</item>
-        <item>Haunter</item>
-        <item>Gengar</item>
-        <item>Onix</item>
-        <item>Drowzee</item>
-        <item>Hypno</item>
-        <item>Krabby</item>
-        <item>Kingler</item>
-        <item>Voltorb</item>
-        <item>Electrode</item>
-        <item>Exeggcute</item>
-        <item>Exeggutor</item>
-        <item>Cubone</item>
-        <item>Marowak</item>
-        <item>Hitmonlee</item>
-        <item>Hitmonchan</item>
-        <item>Lickitung</item>
-        <item>Koffing</item>
-        <item>Weezing</item>
-        <item>Rhyhorn</item>
-        <item>Rhydon</item>
-        <item>Chansey</item>
-        <item>Tangela</item>
-        <item>Kangaskhan</item>
-        <item>Horsea</item>
-        <item>Seadra</item>
-        <item>Goldeen</item>
-        <item>Seaking</item>
-        <item>Staryu</item>
-        <item>Starmie</item>
-        <item>Mr. Mime</item>
-        <item>Scyther</item>
-        <item>Jynx</item>
-        <item>Electabuzz</item>
-        <item>Magmar</item>
-        <item>Pinsir</item>
-        <item>Tauros</item>
-        <item>Magikarp</item>
-        <item>Gyarados</item>
-        <item>Lapras</item>
-        <item>Ditto</item>
-        <item>Eevee</item>
-        <item>Vaporeon</item>
-        <item>Jolteon</item>
-        <item>Flareon</item>
-        <item>Porygon</item>
-        <item>Omanyte</item>
-        <item>Omastar</item>
-        <item>Kabuto</item>
-        <item>Kabutops</item>
-        <item>Aerodactyl</item>
-        <item>Snorlax</item>
-        <item>Articuno</item>
-        <item>Zapdos</item>
-        <item>Moltres</item>
-        <item>Dratini</item>
-        <item>Dragonair</item>
-        <item>Dragonite</item>
-        <item>Mewtwo</item>
-        <item>Mew</item>
-    </string-array>
 </resources>

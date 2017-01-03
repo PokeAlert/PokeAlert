@@ -3,34 +3,21 @@
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
     <string name="trainer_login_description">!!N\'UTILISEZ PAS VOTRE COMPTE OFFICIEL!!\n\nCréez un compte de scan sur https://www.pokemon.com/us/pokemon-trainer-club/ juste pour cette application.</string>
-    <string name="hint_trainer_username">Nom d\'utilisateur Pokemon Trainer Club</string>
-    <string name="hint_trainer_password">Mot de passe Pokemon Trainer Club</string>
-    <string name="filter_management">Gestion des filtres</string>
     <string name="delete">Supprimer</string>
     <string name="creds_not_valid">Mauvais nom d\'utilisateur ou mot de passe</string>
-    <string name="add_extra_account_title">Ajouter des comptes supplémentaires</string>
-    <string name="manage_accounts">Gérer les comptes</string>
     <string name="duplicate_account">Vous avez déjà ajouté ce compte</string>
     <string name="account_added">Compte ajouté !</string>
-    <string name="help_title">Aide</string>
     <string name="help_summary">Vous pouvez me retrouver sur Twitter</string>
     <string name="scan_settings">Paramètres de scan</string>
     <string name="search_range">Rayon de recherche</string>
-    <string name="background_scan_inerval">Intervalle de scan d'arrière-plan (secondes)</string>
+    <string name="background_scan_inerval">Intervalle de scan d\'arrière-plan (secondes)</string>
     <string name="notification_description">PokeAlert se met à jour !</string>
     <string name="auto_updating">PokeAlert se met automatiquement à jour, veuillez patienter jusqu\'à que le téléchargement et l\'installation soient finis</string>
 
     <string name="pokemon_auto_despawn_title">Enlever automatiquement les Pokémons expirés</string>
     <string name="pokemon_time_display_title">Type d\'expiration des Pokémons</string>
-    <string name="load_from_file">Charger depuis le fichier</string>
     <string name="version_title">Appuyer pour voir les nouveautés</string>
     <string name="pokemon_name_title">Langue des noms des Pokémons</string>
-    <string name="ptc_login">Authentification Pokemon Trainer Club</string>
-    <string name="google_login">Authentification Google</string>
-    <string name="caught_pokemon_management_title">Gestion des Pokémons attrapés</string>
-    <string name="use_fast_scan">Utiliser le scan rapide</string>
-    <string name="delete_all">Effacer tout</string>
-    <string name="use_fast_scan_summary">Le scan rapide marche en effectuant des requêtes sur les résultats d\'autres scanners. Il n\'a pas besoin de comptes pour marcher. Gardez en tête que les résultats peuvent ne pas être exacts à 100 %.</string>
     <string name="annoucement_title">Annonces</string>
     <string name="background_service_settings">Paramètres du service d\'arrière-plan</string>
     <string name="save_log_file">Enregistrer le fichier log (pour débug uniquement)</string>
@@ -40,7 +27,7 @@
     <string name="vibration_title">Vibration</string>
     <string name="vibration_summary">Activer ou désactiver la vibration à la réception d\'une notification</string>
     <string name="account_seems_banned">Ce compte semble banni</string>
-    <string name="account_alive">Ce compte est en vie (youpi !)</string>
+    <string name="account_alive">Ce compte est en vie</string>
     <string name="username_hint">Compte PTC ou compte Gmail</string>
     <string name="password_hint">Mot de passe PTC ou mot de passe Gmail</string>
     <string name="account_loaded">Compte chargé correctement</string>
@@ -60,10 +47,8 @@
     <string name="select_tone">Selectionner le ton</string>
     <string name="empty_filter_error">Vous devez sélectionner au moins 1 Pokémon</string>
     <string name="duplicate_filter">Ce filtre existe déjà</string>
-    <string name="iv_title">IVs</string>
     <string name="attack">Attaque</string>
     <string name="defense">Défense</string>
-    <string name="moves_title">Attaques</string>
     <string name="stamina">Stamina</string>
     <string name="show_gyms">Montrer les arènes</string>
     <string name="show_pokestops">Montrer les Pokéstops</string>
@@ -73,19 +58,13 @@
     <string name="filters_loaded">Les filtres ont été correctement chargés</string>
     <string name="filters_loaded_error">Une erreur est survenue pendant la lecture des filtres depuis le fichier</string>
     <string name="support_title">Supporter PokeAlert</string>
-    <string name="support_us_summary">Supportez-nous en affichant une publicité plein écran tous les 30 scans</string>
-    <string name="support_us_title">Supportez-nous</string>
     <string name="scan_unknown_error">Une erreur est survenue durant le scan, veuillez contacter les développeurs</string>
-    <string name="account_banned">Le compte = %s semble être banni</string>
-    <string name="generic_login_error">Le compte = %s a reçu une exception d\'authentification</string>
-    <string name="niantic_login_error">Le compte = %1$s : %2$s</string>
     <string name="no_account_error">Vous n\'avez pas de comptes actifs, veuillez en ajouter au moins un</string>
     <string name="stop_scan_before_editing">Veuillez stopper le scan en cours avant de lancer le service d\'arrière-plan</string>
     <string name="stop_scan_before_starting_manual">Veuillez stopper le service d\'arrière-plan avant de lancer un scan manuel</string>
     <string name="scan_stoping">Soyez patient, le scan s\'arrête</string>
     <string name="enable_gps_error">Veuillez activer votre GPS pour lancer le scan</string>
-    <string name="stop_service_before_creating_area">Arrêtez le service avant de créer une nouvelle zone</string>
-    <string name="stop_manual_scan_before_starting_background">Veuillez stooper le scan actuel avant de débuter le service d\'arrière-plan</string>
+    <string name="stop_service_before_editing_area">Arrêtez le service avant d\'editer une nouvelle zone</string>
     <string name="auto_update_error">Impossible de mettre à jour automatiquement l\'application, veuillez la mettre à jour manuellement</string>
     <string name="save_log_to_file_success">Log sauvergardé dans : %s Veuillez prendre contact avec les développeurs et leur envoyer ce fichier</string>
     <string name="save_log_to_file_error">Erreur lors de l\'enregistrement du fichier log, veuillez vérifier que vous avez donné les permissions d\'écriture et de lecture</string>
@@ -130,18 +109,14 @@
     <string name="save_spawn_points_summary">Si activé, TOUS les Pokémons trouvés seront sauvegardés dans la base de données</string>
     <string name="delete_all_spawn_points">Supprimer tous les spots</string>
     <string name="spawn_point_saved_sucessfully">Spots sauvegardés à l\'emplacement %s</string>
-    <string name="manage_spawn_point">Gestion des spots</string>
     <string name="bitcoin_address_copied">L\'adresse bitcoin a été copié dans votre presse-papier</string>
     <string name="gym_detail_failed">Aucune donnée d\'arènes</string>
     <string name="show_gym_summary">Afficher toutes les arènes et les détails d\'arènes (attention : les requêtes supplémentaires augmentent la consommation de données Internet !)</string>
     <string name="show_pokestops_summary">Afficher tous les Pokéstops</string>
-    <string name="has_lure">A un leurre</string>
-    <string name="has_no_lure">Pokéstop normal</string>
     <string name="pokestop">Pokéstop</string>
     <string name="overlaymap_not_available_for_device">Désolé mais la carte superposable n\'est pas compatible avec votre appareil :(</string>
     <string name="no_iv_for_fastscan">Pas d\'IVs pour le scan rapide</string>
     <string name="requires_captcha">Requiert un captcha</string>
-    <string name="captcha_resolve_intruction">Le lien captcha a été sauvegardé dans votre presse-papier. Ouvrez votre navigateur et collez le lien</string>
     <string name="solve_captach">Résoudre le captcha</string>
     <string name="capctha_link_expired">Vous avez déjà tenté de résoudre le captcha et le lien est maintenant expiré. Vous devez rescanner avec ce compte pour recevoir un NOUVEAU lien captcha</string>
     <string name="scan_before_solving">Le captcha a expiré. Veuillez scanner à nouveau avec ce compte pour réactiver un captcha. Ne fermez pas l\'application pendant ce temps</string>
@@ -154,7 +129,6 @@
     <string name="spawn_points">Spots</string>
     <string name="general_settings">Paramètres généraux</string>
     <string name="scan">Scan</string>
-    <string name="map_overlay">Carte superposable</string>
     <string name="expire">Expirer</string>
     <string name="move_one">Attaque 1</string>
     <string name="move_two">Attaque 2</string>
@@ -167,8 +141,6 @@
     <string name="guard_pokemon">Pokémon défenseur :</string>
     <string name="show_when_iv_fail">Afficher quand l\'IV échoue</string>
     <string name="notifiy_when_iv_fail">Notifier quand l\'IV échoue</string>
-    <string name="ad_block">Bloqueur de publicités</string>
-    <string name="ad_block_message">Nous ne vous demandons riens pour utiliser PokeAlert et vous ne supportez pas l\'incroyable travail que nous vous fournissons gratuitement \n\nVeuillez désactiver votre bloqueur de publicités</string>
     <string name="assign_group">Assigner à un groupe</string>
     <string name="remove_from_group">Retirer du groupe</string>
     <string name="new_group">Nouveau groupe</string>
@@ -179,13 +151,11 @@
     <string name="save">Sauvegarder</string>
     <string name="are_already_locked">Vous avez déjà bloqué cette zone</string>
     <string name="random_nb_accounts">Nombre aléatoire de comptes</string>
-    <string name="external_notification">Notifications Twitter</string>
+    <string name="external_notification">Notifications extern</string>
     <string name="consumer_key">Clé consommateur</string>
     <string name="consumer_secret_key">Clé secrète consommateur</string>
     <string name="access_token">Jeton d\'accès</string>
     <string name="access_token_secret">Jeton secret d\'accès</string>
-    <string name="apply_filters">Appliquer les filtres</string>
-    <string name="fill_all_fields">Veuillez remplir tous les champs</string>
     <string name="advance_filter">Filtre avancé</string>
     <string name="multi_filter_select_comment">Vous êtes dans le mode multi-sélection. Ces options s\'appliqueront à tous les Pokémons sélectionnés</string>
     <string name="clone">Cloner</string>
@@ -193,13 +163,11 @@
     <string name="no_available_account">Vous n\'avez aucun compte disponible. Supprimez une zone ou enlevez des comptes de celle-ci</string>
     <string name="quick_scan_tuto">Ceci est le scan rapide. Le scan rapide est souvent utilisé quand vous souhaitez simplement scanner rapidement une zone et que vous ne souhitez pas que le scan continue en arrière-plan quand il se termine. Le scan rapide n\'est pas disponible pour des zones fixes. Le scan s\'effectue où le cercle de \"prévisualisation\" est placé</string>
     <string name="share_using">Partager en utilisant</string>
-    <string name="creating_account">Création de compte</string>
-    <string name="account_created">Compte créé</string>
-    <string name="auto_ptc_username_hint">Choisissez un nom d\'utilisateur</string>
+    <string name="creating_account">Création de compte (%1$d restant)</string>
     <string name="auto_ptc_password_hint">Choisissez un mot de passe</string>
     <string name="auto_ptc_email_hint">Choisissez un mail valide</string>
     <string name="auto_ptc_nb_account_hint">Nombre de comptes à créer</string>
-    <string name="auto_ptc_info">PokeAlert choisira pour vous un nom d\'utilisateur aléatoire. Entrez un mail valide (essayez d\'utiliser une adresse GMAIL) car vous devrez activer le compte, autrement il expirera après 3 jours. PokeAlert vous autorise à créer 10 comptes maximum par lot.</string>
+    <string name="auto_ptc_info">PokeAlert choisira pour vous un nom d\'utilisateur aléatoire. Entrez un mail valide (voud devez utiliser une adresse Gmail ou Hotmail) car vous devrez activer le compte, autrement il expirera après 3 jours. PokeAlert vous autorise à créer 10 comptes maximum par lot.</string>
     <string name="no_account_info">Pour marcher, PokeAlert a besoin d\'ajouter des comptes \"scan\". Pour cela, vous pouvez laisser PokeAlert créer les comptes pour vous (icône Robot sur le prochain écran) ou simplement les ajouter manuellement si vous les possédez déjà.</string>
     <string name="add_accounts">Ajouter des comptes</string>
     <string name="account_long_press_info">Longue pression sur un compte pour entrer dans le mode multi-sélection</string>
@@ -208,159 +176,4 @@
     <string name="wrong_email">Veuillez faire un effort et entrer un mail valide</string>
     <string name="real_user_simulation_summary">Si activé, PokeAlert essaiera de simuler un joueur réel autant que possible pour éviter les bans et captchas</string>
     <string name="real_user_simulation_title">Joueur réel</string>
-
-    <!-- NO NEED TO TRANSLATE THIS -->
-    <string-array name="pokemons">
-        <item>Bulbasaur</item>
-        <item>Ivysaur</item>
-        <item>Venusaur</item>
-        <item>Charmander</item>
-        <item>Charmeleon</item>
-        <item>Charizard</item>
-        <item>Squirtle</item>
-        <item>Wartortle</item>
-        <item>Blastoise</item>
-        <item>Caterpie</item>
-        <item>Metapod</item>
-        <item>Butterfree</item>
-        <item>Weedle</item>
-        <item>Kakuna</item>
-        <item>Beedrill</item>
-        <item>Pidgey</item>
-        <item>Pidgeotto</item>
-        <item>Pidgeot</item>
-        <item>Rattata</item>
-        <item>Raticate</item>
-        <item>Spearow</item>
-        <item>Fearow</item>
-        <item>Ekans</item>
-        <item>Arbok</item>
-        <item>Pikachu</item>
-        <item>Raichu</item>
-        <item>Sandshrew</item>
-        <item>Sandslash</item>
-        <item>Nidoran F</item>
-        <item>Nidorina</item>
-        <item>Nidoqueen</item>
-        <item>Nidoran M</item>
-        <item>Nidorino</item>
-        <item>Nidoking</item>
-        <item>Clefairy</item>
-        <item>Clefable</item>
-        <item>Vulpix</item>
-        <item>Ninetales</item>
-        <item>Jigglypuff</item>
-        <item>Wigglytuff</item>
-        <item>Zubat</item>
-        <item>Golbat</item>
-        <item>Oddish</item>
-        <item>Gloom</item>
-        <item>Vileplume</item>
-        <item>Paras</item>
-        <item>Parasect</item>
-        <item>Venonat</item>
-        <item>Venomoth</item>
-        <item>Diglett</item>
-        <item>Dugtrio</item>
-        <item>Meowth</item>
-        <item>Persian</item>
-        <item>Psyduck</item>
-        <item>Golduck</item>
-        <item>Mankey</item>
-        <item>Primeape</item>
-        <item>Growlithe</item>
-        <item>Arcanine</item>
-        <item>Poliwag</item>
-        <item>Poliwhirl</item>
-        <item>Poliwrath</item>
-        <item>Abra</item>
-        <item>Kadabra</item>
-        <item>Alakazam</item>
-        <item>Machop</item>
-        <item>Machoke</item>
-        <item>Machamp</item>
-        <item>Bellsprout</item>
-        <item>Weepinbell</item>
-        <item>Victreebel</item>
-        <item>Tentacool</item>
-        <item>Tentacruel</item>
-        <item>Geodude</item>
-        <item>Graveler</item>
-        <item>Golem</item>
-        <item>Ponyta</item>
-        <item>Rapidash</item>
-        <item>Slowpoke</item>
-        <item>Slowbro</item>
-        <item>Magnemite</item>
-        <item>Magneton</item>
-        <item>Farfetch\'d</item>
-        <item>Doduo</item>
-        <item>Dodrio</item>
-        <item>Seel</item>
-        <item>Dewgong</item>
-        <item>Grimer</item>
-        <item>Muk</item>
-        <item>Shellder</item>
-        <item>Cloyster</item>
-        <item>Gastly</item>
-        <item>Haunter</item>
-        <item>Gengar</item>
-        <item>Onix</item>
-        <item>Drowzee</item>
-        <item>Hypno</item>
-        <item>Krabby</item>
-        <item>Kingler</item>
-        <item>Voltorb</item>
-        <item>Electrode</item>
-        <item>Exeggcute</item>
-        <item>Exeggutor</item>
-        <item>Cubone</item>
-        <item>Marowak</item>
-        <item>Hitmonlee</item>
-        <item>Hitmonchan</item>
-        <item>Lickitung</item>
-        <item>Koffing</item>
-        <item>Weezing</item>
-        <item>Rhyhorn</item>
-        <item>Rhydon</item>
-        <item>Chansey</item>
-        <item>Tangela</item>
-        <item>Kangaskhan</item>
-        <item>Horsea</item>
-        <item>Seadra</item>
-        <item>Goldeen</item>
-        <item>Seaking</item>
-        <item>Staryu</item>
-        <item>Starmie</item>
-        <item>Mr. Mime</item>
-        <item>Scyther</item>
-        <item>Jynx</item>
-        <item>Electabuzz</item>
-        <item>Magmar</item>
-        <item>Pinsir</item>
-        <item>Tauros</item>
-        <item>Magikarp</item>
-        <item>Gyarados</item>
-        <item>Lapras</item>
-        <item>Ditto</item>
-        <item>Eevee</item>
-        <item>Vaporeon</item>
-        <item>Jolteon</item>
-        <item>Flareon</item>
-        <item>Porygon</item>
-        <item>Omanyte</item>
-        <item>Omastar</item>
-        <item>Kabuto</item>
-        <item>Kabutops</item>
-        <item>Aerodactyl</item>
-        <item>Snorlax</item>
-        <item>Articuno</item>
-        <item>Zapdos</item>
-        <item>Moltres</item>
-        <item>Dratini</item>
-        <item>Dragonair</item>
-        <item>Dragonite</item>
-        <item>Mewtwo</item>
-        <item>Mew</item>
-    </string-array>
 </resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/pokealert_blue</color>
+    <color name="colorPrimaryDark">#80000000</color>
+    <color name="colorAccent">@color/pokealert_blue</color>
+    <color name="green">@android:color/holo_green_dark</color>
+    <color name="red">@android:color/holo_red_dark</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">@android:color/holo_orange_dark</color>
+    <color name="grey">@android:color/darker_gray</color>
+    <color name="pokealert_blue">#16B1FE</color>
+
+    <color name="pokealert_grey_light">#7A7A7A</color>
+    <color name="pokealert_grey_medium">#595959</color>
+    <color name="pokealert_grey_dark">#363636</color>
+
+    <color name="pokealert_grey_medium2">#7A7A7A</color>
+
+    <color name="white">#ffffff</color>
+    <color name="dark_grey">#404040</color>
+    <color name="dark_grey_2">#595959</color>
+    <color name="black_40_transparent">#99000000</color>
+    <color name="half_black">#808080</color>
+    <color name="pink">#e91e63</color>
+    <color name="pokealert_blue_25_transparent">#b4448aff</color>
+    <color name="pokealert_grey_50_transparent">#40595959</color>
+
+
+    <color name="material_green_50">#E8F5E9</color>
+    <color name="material_green_500">#4CAF50</color>
+    <color name="material_green_700">#388E3C</color>
+    <color name="material_green_a200">#69F0AE</color>
+    <color name="material_lime_a700">#AEEA00</color>
+    <color name="material_purple_a700">#AA00FF</color>
+</resources>

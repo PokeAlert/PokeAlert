@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="icon_type">
+        <item>復古低解析</item>
+        <item>高畫質 (beta)</item>
+    </string-array>
+
+    <string-array name="map_type">
+        <item>一般</item>
+        <item>衛星</item>
+        <item>地形</item>
+        <item>混合</item>
+    </string-array>
+
+    <string-array name="pref_languages">
+        <item>英文</item>
+        <item>德文</item>
+        <item>法文</item>
+        <item>Spanish</item>
+        <item>俄文</item>
+        <item>Czech</item>
+        <item>日文</item>
+        <item>中文 (中國)</item>
+        <item>中文 (台灣)</item>
+        <item>中文 (香港)</item>
+        <item>Thai</item>
+        <item>Portugues</item>
+        <item>Polish</item>
+    </string-array>
+
+    <string-array name="pref_possible_steps">
+        <item>70公尺</item>
+        <item>120公尺</item>
+        <item>210公尺</item>
+        <item>310公尺</item>
+        <item>430公尺</item>
+        <item>550公尺</item>
+        <item>670公尺</item>
+        <item>790公尺</item>
+        <item>900公尺</item>
+        <item>1000公尺</item>
+        <item>1100公尺</item>
+        <item>1200公尺</item>
+        <item>1300公尺</item>
+        <item>1400公尺</item>
+        <item>1500公尺</item>
+        <item>1600公尺</item>
+        <item>1700公尺</item>
+        <item>1850公尺</item>
+        <item>2000公尺</item>
+        <item>2200公尺</item>
+        <item>2400公尺</item>
+        <item>2500公尺</item>
+        <item>2600公尺</item>
+        <item>2700公尺</item>
+        <item>2800公尺</item>
+        <item>3000公尺</item>
+        <item>3100公尺</item>
+        <item>3200公尺</item>
+        <item>3300公尺</item>
+        <item>3400公尺</item>
+        <item>3600公尺</item>
+        <item>3700公尺</item>
+        <item>3800公尺</item>
+        <item>3900公尺</item>
+        <item>4000公尺</item>
+        <item>4200公尺</item>
+        <item>4300公尺</item>
+        <item>4400公尺</item>
+        <item>4500公尺</item>
+        <item>4600公尺</item>
+    </string-array>
+
+    <string-array name="scan_delay">
+        <item>10 秒</item>
+        <item>20 秒</item>
+        <item>40 秒</item>
+        <item>1 分</item>
+        <item>2 分</item>
+        <item>3 分</item>
+        <item>4 分</item>
+        <item>5 分</item>
+        <item>6 分</item>
+        <item>7 分</item>
+        <item>8 分</item>
+        <item>9 分</item>
+        <item>10 分</item>
+        <item>20 分</item>
+        <item>30 分</item>
+    </string-array>
+
+    <string-array name="pokemon_display_time">
+        <item>過期時間 (24H)</item>
+        <item>過期時間 (12H)</item>
+        <item>倒數計時</item>
+    </string-array>
+
+</resources>

@@ -1,5 +1,4 @@
-﻿<resources>
-     
+<resources>
     <string name="clear_map">Clear map</string>
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
@@ -8,7 +7,6 @@
     <string name="creds_not_valid">Wrong username or password</string>
     <string name="duplicate_account">You have already added this account</string>
     <string name="account_added">Account Added !</string>
-    <string name="help_title">Help</string>
     <string name="help_summary">You can find me on Twitter</string>
     <string name="scan_settings">Scan settings</string>
     <string name="search_range">Search radius</string>
@@ -17,11 +15,8 @@
     <string name="auto_updating">PokeAlert is being automatically updated, please wait until the download and install are completed</string>
     <string name="pokemon_auto_despawn_title">Auto remove expired Pokemon</string>
     <string name="pokemon_time_display_title">Pokemon expiration type</string>
-    <string name="load_from_file">Load from file</string>
     <string name="version_title">Tap to see what\'s new</string>
     <string name="pokemon_name_title">Pokemon name language</string>
-    <string name="caught_pokemon_management_title">Caught Pokemon Management</string>
-    <string name="delete_all">Delete all</string>
     <string name="annoucement_title">Announcement</string>
     <string name="background_service_settings">Background service settings</string>
     <string name="save_log_file">Save log file (debug only)</string>
@@ -62,7 +57,6 @@
     <string name="filters_loaded">Filters have been successfully loaded</string>
     <string name="filters_loaded_error">An error occurred while loading the filters from file</string>
     <string name="support_title">Support PokeAlert</string>
-    <string name="support_us_title">Support us</string>
     <string name="scan_unknown_error">An error happened during the scan, please contact the developers</string>
     <string name="no_account_error">You don\'t have any active accounts, please add at least one</string>
     <string name="stop_scan_before_editing">Please stop the current scan before starting the background service</string>
@@ -227,61 +221,47 @@
     <string name="auto_ptc_info">PokeAlert will choose for you a random username. Enter a valid email (you NEED to use @gmail, @outlook or @hotmail) because you will need to activate the account otherwise it will expire after 3 days. PokeAlert will allow you to create maximum 10 accounts per batch.</string>
     <string name="stop_scan_before_editing_accounts">Stop the current scan before editing accounts</string>
 
-    <string name="dark_theme">Dark Theme</string>
-    <string name="use_theme_header">Use theme:</string>
-    <string name="logo_header">Logo:</string>
-    <string name="firebase_logo_label">Firebase Auth</string>
-    <string name="google_logo_label">Google</string>
-    <string name="no_logo_label">None</string>
-    <string name="auth_providers_header">Use auth providers:</string>
-    <string name="email_label">Email</string>
-    <string name="facebook_label">Facebook</string>
-    <string name="facebook_label_missing_config">Facebook - configuration missing</string>
-    <string name="twitter_label">Twitter</string>
-    <string name="twitter_label_missing_config">Twitter - configuration missing</string>
-    <string name="google_label">Google</string>
-    <string name="google_label_missing_config">Google - configuration missing</string>
-    <string name="google_tos_label">Google TOS</string>
-    <string name="firebase_tos_label">Firebase TOS</string>
-    <string name="tos_header">Terms of Service URL:</string>
     <string name="unknown_response">Unexpected onActivityResult response code</string>
-    <string name="unknown_sign_in_response">Unknown response from AuthUI sign-in</string>
     <string name="sign_in_cancelled">Sign in cancelled</string>
     <string name="no_internet_connection">No internet connection</string>
-    <string name="signed_in_header">You are signed in!</string>
     <string name="sign_out">Sign out</string>
-    <string name="delete_account_label">Delete account</string>
-    <string name="sign_out_failed">Sign out failed</string>
-    <string name="delete_account_failed">Delete account failed</string>
-    <string name="user_profile_header">User profile:</string>
-    <string name="profile_picture_content_desc">Profile picture</string>
-    <string name="default_theme">Default theme</string>
-    <string name="configuration_required">Configuration is required - see README.md</string>
-    <string name="other_options_header">Other Options:</string>
-    <string name="enable_smartlock">Enable SmartLock for Passwords</string>
-    <string name="rational_image_perm">This sample will read an image from local storage to upload to Firebase Storage.</string>
-    <string name="anonymous_auth_failed_toast">Authentication failed, uploads and downloads will not work.</string>
-    <string name="anonymous_auth_failed_msg">Anonymous authentication failed. Make sure your device is online and that Anonymous Auth is configured in your Firebase project(https://console.firebase.google.com/project/_/authentication/providers)</string>
-    <string name="extra_google_scopes">Example extra Google scopes</string>
-    <string name="games">Games</string>
-    <string name="extra_facebook_scopes">Example extra Facebook scopes</string>
-    <string name="friends">Friends</string>
-    <string name="photos">Photos</string>
-    <string name="idp_token">IDP Token</string>
-    <string name="idp_secret">IDP Secret</string>
+
     <string name="sign_out_success">You have been successfully signed out</string>
     <string name="sign_in_success">You signed in successfully</string>
     <string name="remove_ads">Remove ads</string>
     <string name="payment_server_down_error">Looks like payment server is down. Try again later</string>
     <string name="send_payment_error">Payment error, please try again or contact the developers</string>
     <string name="success">Success</string>
-    <string name="payment_no_ads_success">Thank you! We have received your payment.\\n\\nPlease restart the app to start enjoying PokeAlert without adverts! If you still see adverts after restarting you might have to wait up to 5 min. If you still see adverts after 5 min please contact the developer on Twitter, Facebook or Discord.</string>
-    <string name="payments_not_logged_in_error">You need to be logged-in to make a payment</string>
+    <string name="payment_no_ads_success">Thank you! We have received your payment.\n\nPlease restart the app to start enjoying PokeAlert without adverts! If you still see adverts after restarting you might have to wait up to 5 min. If you still see adverts after 5 min please contact the developer on Twitter, Facebook or Discord.</string>
     <string name="pay">Pay</string>
     <string name="processing_payment">Processing payment...</string>
     <string name="price">Price:</string>
     <string name="payment_success_with_error">Payment OK but item not added. Please contact the developer.</string>
-      
+    <string name="follow_mode_summary">Make the map automatically follow your position</string>
+    <string name="follow_mode_title">Follow mode</string>
+    <string name="two_captcha_title">2Captcha</string>
+    <string name="two_captcha_summary">Use 2Captcha to automatically solve all your Captcha</string>
+    <string name="two_captcha_key">2 Captcha API Key</string>
+    <string name="two_captcha_buy_key">To be able to use 2captcha you will need a valid 2captcha API key. You can afford one on their website (1000 captcha for ~4$). Tap ok to be redirected on their website</string>
+    <string name="hint_hash_server_key">Hash server key</string>
+    <string name="hash_server_config">New API config</string>
+    <string name="rate_limitted">You are rate limitted, reduce your number of accounts!</string>
+    <string name="show_rpm_tittle">Show RPM</string>
+    <string name="show_rpm_summary">Show how much request per-minute the app sends to Niantic</string>
+    <string name="add_key">Add key</string>
+    <string name="hash_server_key_valid">Hash server key valid</string>
+    <string name="hash_server_key_invalid">Hash server key invalid</string>
+    <string name="feature_needs_authentication">You need to be logged-in to use this</string>
+    <string name="stop_current_scan">Please stop the current scan</string>
+    <string name="server_down">Server seems down</string>
+    <string name="need_to_validate_key">Please validate you key</string>
+    <string name="key_deletion_confirmation">Are you sure you want to delete this key?</string>
+    <string name="twitter_help_title">Twitter help</string>
+    <string name="setup_guide_summary">Installation and setup guide</string>
+    <string name="guide_tittle">Setup guide</string>
+    <string name="general_payment_error">Payment didn\'t go through. Please contact the developer</string>
+    <string name="hash_server_down">Looks like the hash server is down</string>
+
     <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
         <item>Bulbasaur</item>

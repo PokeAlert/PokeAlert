@@ -3,16 +3,10 @@
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
     <string name="trainer_login_description">¡¡ NO USAR SU CUENTA OFICIAL !! \ n \ nCree una cuenta diferente en https://www.pokemon.com/us/pokemon-trainer-club/ sólo para esta aplicación y logéate con ella.</string>
-    <string name="hint_trainer_username">Usuario del Club de Entrenadores Pokémon</string>
-    <string name="hint_trainer_password">Contraseña del Club de Entrenadores Pokémon</string>
-    <string name="filter_management">Gestión de filtros</string>
     <string name="delete">Borrar</string>
     <string name="creds_not_valid">Nombre de usuario o contraseña incorrecto</string>
-    <string name="add_extra_account_title">Añadir cuentas extra</string>
-    <string name="manage_accounts">Administrar cuentas</string>
     <string name="duplicate_account">Ya has añadido esta cuenta</string>
     <string name="account_added">¡Cuenta añadida!</string>
-    <string name="help_title">Ayuda</string>
     <string name="help_summary">Puedes seguirme en Twitter</string>
     <string name="scan_settings">Opciones de búsqueda</string>
     <string name="search_range">Radio de búsqueda</string>
@@ -22,15 +16,8 @@
 
     <string name="pokemon_auto_despawn_title">Quitar automáticamente Pokémon caducado</string>
     <string name="pokemon_time_display_title">Tipo de caducidad pokemon</string>
-    <string name="load_from_file">Cargar desde archivo</string>
     <string name="version_title">Clicar para ver lo nuevo</string>
     <string name="pokemon_name_title">Nombre del Pokémon e</string>
-    <string name="ptc_login">Acceder con Club de Entrenadores Pokémon</string>
-    <string name="google_login">Acceder con Google</string>
-    <string name="caught_pokemon_management_title">Gestión de Pokemon capturado</string>
-    <string name="use_fast_scan">Usar búsqueda rápida</string>
-    <string name="delete_all">Borrar todo</string>
-    <string name="use_fast_scan_summary">La búsqueda rápida funciona mediante la solicitud de los resultados de otros escáneres. No necesita cuentas para trabajar. Tenga en cuenta que los resultados podrían no ser siempre fiable al 100%.</string>
     <string name="annoucement_title">Anuncio</string>
     <string name="background_service_settings">Opciones del servicio en segundo plano</string>
     <string name="save_log_file">Guardar archivo de registro (solo debug)</string>
@@ -40,7 +27,7 @@
     <string name="vibration_title">Vibrar</string>
     <string name="vibration_summary">Activar o desactivar la vibración cuando se recibe una notificación</string>
     <string name="account_seems_banned">Esta cuenta parece estar prohibido</string>
-    <string name="account_alive">Esta cuenta está viva (yupi!)</string>
+    <string name="account_alive">Esta cuenta está viva</string>
     <string name="username_hint">Nombre de usuario o PTC cuenta de Gmail</string>
     <string name="password_hint">Contraseña de PTC o contraseña de Gmail</string>
     <string name="account_loaded">Cuenta cargada correctamentey</string>
@@ -60,10 +47,8 @@
     <string name="select_tone">Seleccionar tono</string>
     <string name="empty_filter_error">Es necesario seleccionar al menos 1 Pokémon</string>
     <string name="duplicate_filter">Este filtro ya existe</string>
-    <string name="iv_title">IVs</string>
     <string name="attack">Ataque</string>
     <string name="defense">Defensa</string>
-    <string name="moves_title">Movimientos</string>
     <string name="stamina">Stamina</string>
     <string name="show_gyms">Mostrar gimnasios</string>
     <string name="show_pokestops">Mostrar pokeparadas</string>
@@ -73,19 +58,12 @@
     <string name="filters_loaded">Los filtros se han cargado con éxito</string>
     <string name="filters_loaded_error">Se ha producido un error al cargar los filtros del archivo</string>
     <string name="support_title">Apoya a PokeAlert</string>
-    <string name="support_us_summary">Por apoyarnos usted podrá disfrutar de características adicionales, mostrando un anuncio de pantalla completa cada 30 exploraciones</string>
-    <string name="support_us_title">Ayúdanos</string>
     <string name="scan_unknown_error">Se ha producido un error durante la exploración, póngase en contacto con los desarrolladores</string>
-    <string name="account_banned">La cuenta = %s parece baneada</string>
-    <string name="generic_login_error">La cuenta = %s dió una excepción de acceso</string>
-    <string name="niantic_login_error">Cuenta  = %1$s : %2$s</string>
     <string name="no_account_error">Usted no tiene ninguna cuenta activa, por favor añada al menos una</string>
     <string name="stop_scan_before_editing">Por favor, detenga la búsqueda actual antes de iniciar el servicio en segundo plano</string>
     <string name="stop_scan_before_starting_manual">Por favor, detener el servicio en segundo plano antes de iniciar un búsqueda manual</string>
     <string name="scan_stoping">Sea paciente, la búsqueda se está deteniendo</string>
     <string name="enable_gps_error">Por favor, activa el GPS para iniciar una búsqueda</string>
-    <string name="stop_service_before_creating_area">Detenga el servicio antes de crear una nueva zona</string>
-    <string name="stop_manual_scan_before_starting_background">Por favor, detenga la búsqueda actual antes de iniciar el servicio en segundo plano</string>
     <string name="auto_update_error">No se puede actualizar automáticamente la aplicación, por favor, actualice manualmente</string>
     <string name="save_log_to_file_success">Registro guardado con éxito en: %s Por favor póngase en contacto con los desarrolladores y lo envía este archivo</string>
     <string name="save_log_to_file_error">Error al guardar archivo de registro, por favor verifique que ha dado permisos de lectura y escritura </string>
