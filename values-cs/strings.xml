@@ -1,0 +1,478 @@
+﻿<resources>
+    <string name="clear_map">Vyčisti mapu</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
+
+    <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
+
+    <string name="trainer_login_description">!!NEPOUŽÍVEJ SVŮJ OFICIÁLNÍ ÚČET!!\n\nVytvoř si další účet na https://www.pokemon.com/us/pokemon-trainer-club/ a přihlaš se do něj.</string>
+
+    <string name="delete">Smaž</string>
+
+    <string name="creds_not_valid">Špatné uživatelské jméno nebo heslo</string>
+
+    <string name="duplicate_account">Tento účet jsi již vložil</string>
+
+    <string name="account_added">Účet přidán!</string>
+
+
+    <string name="help_summary">Najdeš mě na Twitteru</string>
+
+    <string name="scan_settings">Nastavení skenování</string>
+
+    <string name="search_range">Rádius skenování</string>
+
+    <string name="background_scan_inerval">Interval skenu na pozadí (sekundy)</string>
+
+    <string name="notification_description">PokeAlert bude aktualizován !</string>
+
+    <string name="auto_updating">PokeAlert bude automaticky aktualizován, počkej dokud nebude dokončeno stažení a instalace</string>
+
+    <string name="pokemon_auto_despawn_title">Automaticky odstranit vypršelé pokemony</string>
+
+    <string name="pokemon_time_display_title">Způsob vypršení Pokemona</string>
+
+
+    <string name="version_title">Klikni a podívej se co je nového</string>
+
+    <string name="pokemon_name_title">Jazyk pro pojmenování Pokemonů</string>
+
+    <string name="annoucement_title">Oznámení</string>
+
+    <string name="background_service_settings">Nastavení služeb na pozadí</string>
+
+    <string name="save_log_file">Ulož log soubor (jen pro odlaďování)</string>
+
+    <string name="notification_sound">Zvuk upozornění</string>
+
+    <string name="use_default_notification_sound_title">Použije se výchozí zvuk upozornění</string>
+
+    <string name="use_default_notification_sound_summary">>Pokud není na tvém telefonu aktivován výchozí zvuk, použije se jeden z dalšího výběru</string>
+
+    <string name="vibration_title">Vibrace</string>
+
+    <string name="vibration_summary">Povol nebo zakaž vibrace u upozornění</string>
+
+    <string name="account_seems_banned">Tento účet je nejspíš zabanovaný</string>
+
+    <string name="account_alive">Tento účet je aktivní</string>
+
+    <string name="username_hint">PTC uživatel nebo Gmail účet</string>
+
+    <string name="password_hint">PTC heslo nebo Gmail heslo</string>
+
+    <string name="account_loaded">Účet úspěšně nahrán</string>
+
+    <string name="use_multi_area_scan_title">Více-oblastní sken</string>
+
+    <string name="use_multi_area_scan_summary">Výběr více oblastí, které budou skenovány různými účty (to je záložní uživatelská funkce, kdy může být použito rychleji více účtů v případě problémů)</string>
+
+    <string name="select_account_assigne_area">Vyber účty k přiřazení této oblasti</string>
+
+    <string name="next">Další</string>
+
+    <string name="close">Zavři</string>
+
+    <string name="map_type_title">Typ mapy</string>
+
+    <string name="donate_title">Donate</string>
+
+    <string name="map_settings">Nastavení mapy</string>
+
+    <string name="icon_type_title">Typ Pokemon ikon</string>
+
+    <string name="settings">Nastavení</string>
+
+    <string name="filter_name_hint">Název filtru</string>
+
+    <string name="filter_management_title">Správa filtrů</string>
+
+    <string name="filter_cannot_delete_active">Nemůžeš smazat aktivní filtr</string>
+
+    <string name="select_tone">Vyber zvuk</string>
+
+    <string name="empty_filter_error">Musíš vybrat nejméně jednoho Pokemona</string>
+
+    <string name="duplicate_filter">Tento filtr již existuje</string>
+
+    <string name="attack">Útok</string>
+
+    <string name="defense">Obrana</string>
+
+    <string name="stamina">Stamina</string>
+
+    <string name="show_gyms">Ukaž gymy</string>
+
+    <string name="show_pokestops">Ukaž pokestopy</string>
+
+    <string name="read_write_no_permissions">Aplikace nemá práva ke čtení a zápisu na SD kartu</string>
+
+    <string name="filter_saved_to_file">Filtry byly úspěšně uloženy do: %s</string>
+
+    <string name="filter_saved_to_file_error">Chyba při ukládání filtrů do souboru na SD</string>
+
+    <string name="filters_loaded">Filtry byly úspěšně nahrány</string>
+
+    <string name="filters_loaded_error">Chyba při nahrávání filtrů ze souboru</string>
+
+    <string name="support_title">Podpoř PokeAlert</string>
+
+    <string name="scan_unknown_error">Chyba během skenování, prosím, kontaktuj vývojáře</string>
+
+    <string name="no_account_error">Nemáš aktivní účty, prosím, vlož nějaký další</string>
+
+    <string name="stop_scan_before_editing">Prosím, zastav současný sken před spuštěním služby na pozadí</string>
+
+    <string name="stop_scan_before_starting_manual">Prosím, zastav službu na pozadí před spuštěním ručního skenu</string>
+
+    <string name="scan_stoping">Vydrž, skenování se zastavuje</string>
+
+    <string name="enable_gps_error">Prosím, povol GPS, aby mohlo být spuštěno skenování</string>
+
+    <string name="auto_update_error">Nemohu automaticky aktualizovat aplikaci, prosím, zaktualizuj ji ručně</string>
+
+    <string name="save_log_to_file_success">Log úspěšně uložen do: %s Prosím, kontaktuj vývojáře a zašli mu tento soubor</string>
+
+    <string name="save_log_to_file_error">Chyba během ukládání log souboru, prosím, zkontroluj, zda jsi povolil práva pro čtení a zápis</string>
+
+    <string name="no_location_permission_error">Vypadá to, že nemáš povolen přístup k poloze pro tuto aplikaci. Povol jej v nastavení a poté restartuj aplikaci</string>
+
+    <string name="no_play_service_error">Google Play Service nelze připojit. Zkontroluj, zda je Google Play Service aktuální!!</string>
+
+    <string name="account_loaded_error">Chyba během importu účtů ze souboru</string>
+
+    <string name="sd_no_writeable">Vypadá to, že SD karta není zapisovatelná</string>
+
+    <string name="accounts_save_to_file_success">Soubor s účty uložen do %s</string>
+
+    <string name="accounts_save_to_file_error">Chyba při zápisu účtů do souboru, zkontroluj, zda máš povolen zápis a čtení</string>
+
+    <string name="background_service_stopping">Zastavuje se služba na pozadí</string>
+
+    <string name="background_service_starting">Spouští se služba na pozadí, prosím, počkej</string>
+
+    <string name="select_all">Vyber vše</string>
+
+    <string name="filter_saved">Filtr uložen</string>
+
+    <string name="show_on_map_min_iv"><![CDATA[Ukaž na mapě když IV >=]]></string>
+
+    <string name="notifify_min_iv"><![CDATA[Upozorňi mě když IV >=]]></string>
+
+    <string name="iv_threshold_hint">0</string>
+
+    <string name="map">Mapa</string>
+
+    <string name="notify">Upozornění</string>
+
+    <string name="iv">IV</string>
+
+    <string name="advanced_filter_description_title">Rozšířený filtr</string>
+
+    <string name="advanced_filter_description">Ke konfiguraci rozšířeného filtru jednoho Pokemnona jednoduše klikni na jeho jméno</string>
+
+    <string name="failed_iv">(IV chyba)</string>
+
+    <string name="background_scan">Sken na pozadí</string>
+
+    <string name="background_scan_tuto">Tohle bude aktivovat sken na pozadí a zasílat upozornění, když bude nalezen Pokemon</string>
+
+    <string name="clear_map_tuto">Tohle vyčistí mapu od všech Pokemonů</string>
+
+    <string name="fixed_area">Fixní oblast</string>
+
+    <string name="fix_area_tuto">Toto ti umožní vytvořit \"fixní\" oblast pro skenování na pozadí. K odstranění oblasti jednoduše jednou klikni na kruh, kdy se ti otevře nastavení pro fixní oblast</string>
+
+    <string name="support_pokealert">Podpoř PokeAlert</string>
+
+    <string name="supper_pokealert_tuto">To je pěkná reklama :) Klikni, pokud chceš podpořit PokeAlert</string>
+
+    <string name="overlaymap">Pokrytí mapy</string>
+
+    <string name="overlaymap_tuto">Toto otevře pokrytí mapy, které může být použito, zatímco hraješ PokemonGO</string>
+
+    <string name="spawn_point_manager_title">Správa Spawn Pointů</string>
+
+    <string name="export_all_spawn_points">Export do JSON</string>
+
+    <string name="spawn_point_count_title">Spawn pointy:</string>
+
+    <string name="spawn_point_limit_description">Z důvodu omezené paměti různých telefonů, může být uložen jen omezený počet (3000) spawnů</string>
+
+    <string name="import_spawn_points">Import z JSON</string>
+
+    <string name="comming_soon">Již brzy</string>
+
+    <string name="save_spawn_points_title">Ulož Spawn Pointy</string>
+
+    <string name="save_spawn_points_summary">Když bude povoleno, všichni nalezení pokemoni budou uloženi do databáze</string>
+
+    <string name="delete_all_spawn_points">Vymaž všechny spawn pointy</string>
+
+    <string name="spawn_point_saved_sucessfully">Spawn pointy úspěšně uloženy do %s</string>
+
+    <string name="bitcoin_address_copied">Bitcoinová adresa byla zkopírována do tvé schránky</string>
+
+    <string name="gym_detail_failed">Žádna data gymu</string>
+
+    <string name="show_gym_summary">Ukaž všechny gymy a jejich údaje (varování: extra volání zvyšuje spotřebu internetových dat!)</string>
+
+    <string name="show_pokestops_summary">Ukaž všechny Pokestopy</string>
+
+    <string name="pokestop">Pokestop</string>
+
+    <string name="overlaymap_not_available_for_device">Promiň, ale pokrytí mapy není kompatibilní s tvým zařízením :(</string>
+
+    <string name="no_iv_for_fastscan">Žádné IV pro rychlý sken Pokemonů</string>
+
+    <string name="requires_captcha">Požadována Captcha</string>
+
+    <string name="solve_captach">Ověř Captcha</string>
+
+    <string name="capctha_link_expired">Již jsi zkoušel ověřit captcha a odkaz vypršel. Musíš provést nový sken s tímto účtem pro nový captcha link</string>
+
+    <string name="scan_before_solving">Captcha vypršela. Prosím, oskenuj znovu s tímto účtem k obnově captcha. Nevypínej mezi tím aplikaci</string>
+
+    <string name="cancel">Zruš</string>
+
+    <string name="captcha">Captcha</string>
+
+    <string name="captcha_required">Požadována Captcha</string>
+
+    <string name="captcha_required_for_account">Captcha požadována pro účet: %s</string>
+
+    <string name="accounts">Účty</string>
+
+    <string name="filters">Filtry</string>
+
+    <string name="spawn_points">Spawn Pointy</string>
+
+    <string name="general_settings">Hlavní nastavení</string>
+
+    <string name="scan">Skenuj</string>
+
+    <string name="expire">Vyprší</string>
+
+    <string name="move_one">Útok 1</string>
+
+    <string name="move_two">Útok 2</string>
+
+    <string name="expired">Prošlý</string>
+
+    <string name="quick_scan">Rychlý sken</string>
+
+    <string name="show_pokemon_timer_summary">Zobrazení časovače nad každým Pokemonem. (Zruš pro telefony s malou pamětí)</string>
+
+    <string name="show_pokemon_timer_title">Zobrazení časovače</string>
+
+    <string name="gym_points">Gym pointy:</string>
+
+    <string name="gym_level">Gym level:</string>
+
+    <string name="guard_pokemon">Gym Pokemon:</string>
+
+    <string name="show_when_iv_fail">Zobraz když je chybné IV</string>
+
+    <string name="notifiy_when_iv_fail">Upozorňi mě, když je chybné IV</string>
+
+    <string name="assign_group">Přidat do skupiny</string>
+
+    <string name="remove_from_group">Odebrat ze skupiny</string>
+
+    <string name="new_group">Nová skupina</string>
+
+    <string name="select_group">Vyber skupinu</string>
+
+    <string name="group_name">Název skupiny</string>
+
+    <string name="create">Vytvoř</string>
+
+    <string name="area">Oblast</string>
+
+    <string name="save">Ulož</string>
+
+    <string name="are_already_locked">Tuto oblast již máš uzamčenou</string>
+
+    <string name="random_nb_accounts">Náhodný počet účtů</string>
+
+    <string name="external_notification">Externí upozornění</string>
+
+    <string name="consumer_key">Uživatelský klíč</string>
+
+    <string name="consumer_secret_key">Uživatelský tajný klíč</string>
+
+    <string name="access_token">Přístupový Token</string>
+
+    <string name="access_token_secret">Tajný přístupový Token</string>
+
+    <string name="advance_filter">Rozšířený filtr</string>
+
+    <string name="multi_filter_select_comment">Jsi v módu rozšířeného výběru. Tato nastavení budou uložena u všech vybraných Pokemonů</string>
+
+    <string name="clone">Klonuj</string>
+
+    <string name="no_whatsapp">Nemáš Whatsapp. Nemůžeš sdílet tohoto Pokemona</string>
+
+    <string name="no_available_account">Nemáš dostupné žádné účty. Buď odstraň oblast nebo z ní odeber nějaké účty</string>
+
+    <string name="quick_scan_tuto">Toto je rychlý sken. Rychlý sken se používá, pokod chceš rychle proskenovat oblast a nechceš pokračovat na pozadí po jeho dokončení. Rychlý sken nepoužívá fixní oblast. Skenuje pouze místo, kde je \"vyznačený\" kruh</string>
+
+    <string name="share_using">Sdílení</string>
+
+    <string name="creating_account">Vytváření účtu (%1$d zbývá)</string>
+
+    <string name="auto_ptc_password_hint">Zvol heslo</string>
+
+    <string name="auto_ptc_email_hint">Zadej existující email</string>
+
+    <string name="auto_ptc_nb_account_hint">Počet účtů k vytvoření</string>
+
+    <string name="no_account_info">Abys mohl používat PokeAlert, musíš vložit nějaké \"skenovací\" účty. Buď můžeš nechat vytvořit účty přímo PokeAlert (Ikona robota na další obrazovce) nebo si je ručně vložit sám, pokud již nějaké máš.</string>
+
+    <string name="add_accounts">Vlož účty</string>
+
+    <string name="account_long_press_info">Krátkým poklikem na účet se dostaneš k dalšímu výběru</string>
+
+    <string name="filter_long_press_info">Krátkým poklikem na Pokemona se dostaneš k dalšímu výběru</string>
+
+    <string name="account_stats">Statistiky</string>
+
+    <string name="wrong_email">Prosím, zadej existující email</string>
+
+    <string name="real_user_simulation_summary">Po zatrhnutí se PokeAlert pokusí maximálně simulovat skutečného hráče, aby nedošlo k zabanování nebo captcha testu</string>
+
+    <string name="real_user_simulation_title">Skutečný hráč</string>
+
+    <string name="requires_email_activation">Požadováno ověření e-mailu</string>
+
+    <string name="marke_active">Označ jako aktivní</string>
+
+    <string name="dont_show_again">Prosím, neukazuj znovu</string>
+
+    <string name="hint_distance_filter">Vzdálenost v metrech</string>
+
+    <string name="notifify_min_distance"><![CDATA[Použij tento filtr jen, když je vzdálenost menší než]]></string>
+
+    <string name="ditto_mode_summary">Když je povoleno, tvé účty budou chytat Pokemony, aby odhalily Ditto</string>
+
+    <string name="ditto_mode_title">Ditto mód</string>
+
+    <string name="ditto_mode_tuto_title">Mód hledání Ditto</string>
+
+    <string name="ditto_mode_tuto_content">PokeAlert je momentálně schopen odhalit Ditto. Aby to bylo možné, Pokemon musí být nejprve chycen (což udělá PokeAlert automaticky). Doporučuji vytvořit extra účty PokeAlert generátorem účtů a použít tuto skupinu k odhalení Ditto. Pokud se začnou objevovat požadavky CAPTCHA nebo budeš zabanován, jednoduše spustíš nové generování :)</string>
+
+    <string name="app_language_title">Jazyk aplikace</string>
+
+    <string name="language">Jazyk</string>
+
+    <string name="language_change_warning">Změnils jazyk aplikace. Kliknutím na OK bude aplikace restartována</string>
+
+    <string name="notify_captcha_title">Upozornění na Captcha</string>
+
+    <string name="notify_captcha_summary">Spínače a upozornění, když má účet požadavek na captcha</string>
+
+    <string name="notify_captcha_sound_title">Použij zvuk</string>
+
+    <string name="notify_captcha_sound_summary">Když je povoleno, pro CAPTCHA upozornění bude použit výchozí zvuk. Když zakázáno, nebude žádné zvukové upozornění</string>
+
+    <string name="retry_when_speedcapped_title">Opakuj při rychlostním limitu</string>
+
+    <string name="retry_when_speedcapped_summary">Když si PokeAlert bude \'myslet\' že jsi dosáhl rychlostního limitu, bude zkoušet provádět opětovné skenování na stejném bodu až 3 krát. Měl bys toto povolit pouze pokud jsi v oblasti, kde je mnoho Pokemonů</string>
+
+    <string name="rotate_screen">Otoč obraz</string>
+
+    <string name="rotate_screen_warning">Dojde k otočení obrazu. Současné skenování bude ukončeno. Stále chceš otočit obraz? (Všimněte si, že uživatelské rozhraní pro toto ještě není optimalizováno)</string>
+
+    <string name="twitter">Twitter</string>
+
+    <string name="discord">Discord</string>
+
+    <string name="telegram">Telegram</string>
+
+    <string name="webhook_url">Tvůj bot\'s webhook url</string>
+
+    <string name="bot_token">Tvůj bot\'s token</string>
+
+    <string name="channel_id_hint">ID tvého kanálu</string>
+
+    <string name="verification_sent">Testovací upozornění odesláno. Zkontroluj, jestli jsi jej obdržel</string>
+
+    <string name="send_test_notification">Pošli testovací upozornění</string>
+
+    <string name="enable">Povol</string>
+
+    <string name="tap_for_more_info">Klikni pro více informací</string>
+
+    <string name="alive">Aktivní</string>
+
+    <string name="banned">Zabanovaný</string>
+
+    <string name="email_no_verified">Email není ověřen</string>
+
+    <string name="cannot_edit_area">Oblast nemůže být editována, když probíhá skenování</string>
+
+    <string name="auto_added">Automaticky vloženo</string>
+
+    <string name="captcha_solved">Captcha ověřena</string>
+
+    <string name="password_rules"><![CDATA[Heslo musí obsahovat velká a malá písmena, čísla a symboly (třeba jako ?!@$%&) a musí být nejméně 8 znaků dlouhé]]></string>
+
+    <string name="wrong_pasword_format">Heslo nesplňuje požadavky</string>
+
+    <string name="no_account_with_lure_module">Vypadá to, že žádný z tvých účtů nemá lure modul. Ujisti se, že skenuješ nejméně jedním svým účtem</string>
+
+    <string name="place_lure_module">Vlož lure modul</string>
+
+    <string name="account_place_lure_module">Chceš vložit lure modul do tohoto pokestopu?</string>
+
+    <string name="place_lure_module_success">Lure modul vložen!</string>
+
+    <string name="place_lure_module_error">Chyba. Lure modul nebyl vložen</string>
+
+    <string name="pogo_into_message">Esta funcionalidade só pode ser usada a cada 60 segundos. Para ver mais Pokémon na região, clique em OK e acesse o mapa.</string>
+
+    <string name="placing_lure_module">Pokouším se vložit lure modul, prosím, počkej</string>
+
+    <string name="place_lure_module_too_fare">Pokestop je příliš daleko. Prosím, oskenuj blíž k tomuto pokestopu (do 70 metrů)</string>
+
+    <string name="place_lure_module_already_lure">Tento pokestop již má aktivní lure modul</string>
+
+    <string name="stop_service_before_editing_area">Zastav službu před editací oblasti</string>
+
+
+    <string name="stop_scan_before_editing_accounts">Zastav skenování před editací účtů</string>
+
+    <string name="unknown_response">Unexpected onActivityResult response code</string>
+
+
+    <string name="sign_in_cancelled">Přihlášení bylo zrušeno</string>
+
+    <string name="no_internet_connection">Žádné internetové připojení</string>
+
+
+    <string name="sign_out">Odhlášení</string>
+
+    <string name="sign_out_success">Byl jsi úspěšně odhlášen</string>
+
+    <string name="sign_in_success">Byl jsi úspěšně přihlášen</string>
+
+    <string name="remove_ads">Odstraň reklamy</string>
+
+    <string name="payment_server_down_error">Platební server je asi mimo provoz. Zkus to později</string>
+
+    <string name="send_payment_error">Chyba platby, zkus znovu nebo kontaktuj vývojáře</string>
+
+    <string name="success">Úspěšně</string>
+
+    <string name="payment_no_ads_success">Děkuji! Přijali jsme tvou platbu.\\n\\nProsím, restartuj aplikaci a užij si PokeAlert bez reklam! Pokud se ti i po restartu zobrazují reklamy, počkej 5 minut. Pokud vidíš reklamy i po 5 minutách, kontaktuj vývojáře na Twitteru, Facebooku nebo Discordu.</string>
+
+    <string name="pay">Platba</string>
+
+    <string name="processing_payment">Probíhá platba...</string>
+
+    <string name="price">Cena:</string>
+
+    <string name="payment_success_with_error">Platba OK, ale položka nebyla vložena. Prosím, kontaktuj vývojáře.</string>
+
+
+</resources>

@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string-array name="hash_server_key_list">
+        <item>150 Request Per Minute (PP &amp; CC, Sofort)</item>
+        <item>150 Request Per Minute (RU, CN, SA)</item>
+        <item>500 Request Per Minute (PP &amp; CC, Sofort)</item>
+        <item>500 Request Per Minute (RU, CN, SA)</item>
+        <item>1000 Request Per Minute (PP &amp; CC, Sofort)</item>
+        <item>1000 Request Per Minute (RU, CN, SA)</item>
+    </string-array>
+
+    <string-array name="hash_server_key_list_values">
+        <item><![CDATA[https://honorbuddy.myshopify.com/cart/28905270546:{quantity}?attributes[resellerId]=90]]></item>
+        <item><![CDATA[http://shop.buddyauth.com/api/payssion/payment?productId=8643519698&quantity={quantity}&resellerId=90]]></item>
+        <item><![CDATA[https://honorbuddy.myshopify.com/cart/28933488914:{quantity}?attributes[resellerId]=90]]></item>
+        <item><![CDATA[http://shop.buddyauth.com/api/payssion/payment?productId=8651665426&quantity={quantity}&resellerId=90]]></item>
+        <item><![CDATA[https://honorbuddy.myshopify.com/cart/28933504530:{quantity}?attributes[resellerId]=90]]></item>
+        <item><![CDATA[http://shop.buddyauth.com/api/payssion/payment?productId=8651672466&quantity={quantity}&resellerId=90]]></item>
+    </string-array>
 
     <string-array name="icon_type">
         <item>Old school low res</item>
@@ -30,12 +47,17 @@
     <string-array name="pref_languages">
         <item>English</item>
         <item>German</item>
-        <item>French</item>
+        <item>Français</item>
+        <item>Spanish</item>
         <item>Russian</item>
+        <item>Czech</item>
         <item>Japanese</item>
         <item>Chinese (PRC)</item>
         <item>Chinese (Taiwan)</item>
         <item>Chinese (Hong Kong)</item>
+        <item>Thai</item>
+        <item>Português</item>
+        <item>Polish</item>
     </string-array>
 
     <!-- Translaters DO NOT translate this -->
@@ -43,11 +65,45 @@
         <item>en</item>
         <item>de</item>
         <item>fr</item>
+        <item>es</item>
         <item>ru</item>
+        <item>cz</item>
         <item>jp</item>
         <item>zh_CN</item>
         <item>zh_TW</item>
         <item>zh_HK</item>
+        <item>th</item>
+        <item>pt</item>
+        <item>pl</item>
+    </string-array>
+
+    <string-array name="app_languages">
+        <item>English</item>
+        <item>German</item>
+        <item>Français</item>
+        <item>Spanish</item>
+        <item>Czech</item>
+        <item>Japanese</item>
+        <item>Chinese (PRC)</item>
+        <item>Chinese (Taiwan)</item>
+        <item>Chinese (Hong Kong)</item>
+        <item>Português (Brazil)</item>
+        <item>Polish</item>
+    </string-array>
+
+    <!-- Translaters DO NOT translate this -->
+    <string-array name="app_languages_values">
+        <item>en</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>es</item>
+        <item>cz</item>
+        <item>jp</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>zh_HK</item>
+        <item>pt_BR</item>
+        <item>pl</item>
     </string-array>
 
     <string-array name="pref_possible_steps">
@@ -61,8 +117,36 @@
         <item>790m</item>
         <item>900m</item>
         <item>1000m</item>
+        <item>1100m</item>
+        <item>1200m</item>
+        <item>1300m</item>
+        <item>1400m</item>
+        <item>1500m</item>
         <item>1600m</item>
-        <item>2200m (Better have loaded lots of accounts :))</item>
+        <item>1700m</item>
+        <item>1850m</item>
+        <item>2000m</item>
+        <item>2200m</item>
+        <item>2400m</item>
+        <item>2500m</item>
+        <item>2600m</item>
+        <item>2700m</item>
+        <item>2800m</item>
+        <item>3000m</item>
+        <item>3100m</item>
+        <item>3200m</item>
+        <item>3300m</item>
+        <item>3400m</item>
+        <item>3600m</item>
+        <item>3700m</item>
+        <item>3800m</item>
+        <item>3900m</item>
+        <item>4000m</item>
+        <item>4200m</item>
+        <item>4300m</item>
+        <item>4400m</item>
+        <item>4500m</item>
+        <item>4600m</item>
     </string-array>
 
     <string-array name="pref_possible_steps_values">
@@ -76,8 +160,36 @@
         <item>8</item>
         <item>9</item>
         <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
         <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
         <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
     </string-array>
 
     <string-array name="scan_delay">
@@ -138,4 +250,20 @@
         <item>it-IT</item>
         <item>de-DE</item>
     </string-array>
+
+    <string-array name="donate_options">
+        <item>PayPal (€)</item>
+        <item>PayPal (£)</item>
+        <item>PayPal ($)</item>
+        <item>Bitcoin</item>
+    </string-array>
+
+    <string-array name="donate_options_values">
+        <item>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3H9Z7ZW4BED38</item>
+        <item>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HB6789HPNUXFA</item>
+        <item>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MAAGABDBWK8YG</item>
+        <item>bitcoin:1PY4Jk6Cv7B426AvGvZ7Q9e1UM6uh4K1eq</item>
+    </string-array>
+
+
 </resources>

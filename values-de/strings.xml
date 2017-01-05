@@ -3,16 +3,10 @@
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
     <string name="trainer_login_description">!!BENUTZE NICHT DEINEN OFFIZIELLEN ACCOUNT!!\n\nErstell hier einen neuen Account: https://www.pokemon.com/us/pokemon-trainer-club/ nur für diese App und log dich damit ein.</string>
-    <string name="hint_trainer_username">Pokemon Trainer Club Benutzername</string>
-    <string name="hint_trainer_password">Pokemon Trainer Club Passwort</string>
-    <string name="filter_management">Filter Management</string>
     <string name="delete">Löschen</string>
     <string name="creds_not_valid">Falscher Benutzername oder Passwort</string>
-    <string name="add_extra_account_title">Füge mehr Accounts hinzu</string>
-    <string name="manage_accounts">Verwalte Accounts</string>
     <string name="duplicate_account">Dieser Account existiert bereits</string>
     <string name="account_added">Account hinzugefügt!</string>
-    <string name="help_title">Hilfe</string>
     <string name="help_summary">Frag mich bei Twitter</string>
     <string name="scan_settings">Scan Optionen</string>
     <string name="search_range">Suchradius</string>
@@ -22,15 +16,8 @@
 
     <string name="pokemon_auto_despawn_title">Auto-Löschen von abgelaufenen Pokémon</string>
     <string name="pokemon_time_display_title">Ablaufzeit Anzeige</string>
-    <string name="load_from_file">Aus Datei laden</string>
     <string name="version_title">Was ist neu?</string>
     <string name="pokemon_name_title">Sprache der Pokémon-Namen</string>
-    <string name="ptc_login">Pokémon Trainer Login</string>
-    <string name="google_login">Google Login</string>
-    <string name="caught_pokemon_management_title">Gefangene Pokémon Management</string>
-    <string name="use_fast_scan">Fast Scan benutzen</string>
-    <string name="delete_all">Alles löschen</string>
-    <string name="use_fast_scan_summary">Fast Scan fragt die Ergebnisse anderen Scanner ab. Du brauchst also keine Accounts, damit es funktioniert. Die Ergebnisse sind aber nicht immer 100% genau.</string>
     <string name="annoucement_title">Ankündigung</string>
     <string name="background_service_settings">Hintergrund-Dienst Optionen</string>
     <string name="save_log_file">Speicher log-Datei (nur im Debug-Modus)</string>
@@ -40,7 +27,7 @@
     <string name="vibration_title">Vibration</string>
     <string name="vibration_summary">Ein- oder Ausschalten der Vibration bei einer Benachrichtigung.</string>
     <string name="account_seems_banned">Dieser Account scheint gebannt worden zu sein.</string>
-    <string name="account_alive">Dieser Account lebt (yay!)</string>
+    <string name="account_alive">Dieser Account lebt</string>
     <string name="username_hint">PTC Benutzername oder Gmail Account</string>
     <string name="password_hint">PTC Passwort oder Gmail Passwort</string>
     <string name="account_loaded">Account erfolgreich geladen</string>
@@ -60,10 +47,8 @@
     <string name="select_tone">Wähle den Ton</string>
     <string name="empty_filter_error">Du musst mindestens ein Pokémon auswählen</string>
     <string name="duplicate_filter">Dieser Filter existiert bereits</string>
-    <string name="iv_title">IVs</string>
     <string name="attack">Angriff</string>
     <string name="defense">Verteidigung</string>
-    <string name="moves_title">Attacken</string>
     <string name="stamina">Ausdauer</string>
     <string name="show_gyms">Zeige Arenen</string>
     <string name="show_pokestops">Zeige Pokéstops</string>
@@ -73,19 +58,12 @@
     <string name="filters_loaded">Filter erfolgreich geladen</string>
     <string name="filters_loaded_error">Beim Laden der Filter ist ein Fehler aufgetreten</string>
     <string name="support_title">Unterstütze PokeAlert</string>
-    <string name="support_us_summary">Wenn du uns unterstützt, erhältst du Zugriff auf besondere Features. Dafür wird dir alle 30 Scans eine Vollbild-Werbung angezeigt.</string>
-    <string name="support_us_title">Unterstütze uns</string>
     <string name="scan_unknown_error">Beim Scan ist ein Fehler aufgetreten. Bitte kontaktiere die Entwickler</string>
-    <string name="account_banned">Account = %s scheint gebannt zu sein</string>
-    <string name="generic_login_error">Account = %s konnte sich nicht einloggen</string>
-    <string name="niantic_login_error">Account = %1$s : %2$s</string>
     <string name="no_account_error">Du hast keine aktiven Accounts. Bitte füge mindestens einen hinzu</string>
     <string name="stop_scan_before_editing">Bitte stopp den laufenden Scan, bevor du den Hintergrund-Dienst aktivierst</string>
     <string name="stop_scan_before_starting_manual">Bitte stopp den Hintergrund-Dienst, bevor du einen manuellen Scan startest</string>
     <string name="scan_stoping">Hab Geduld, der Scan stoppt</string>
     <string name="enable_gps_error">Bitte aktiviere dein GPS um den Scan zu starten</string>
-    <string name="stop_service_before_creating_area">Stoppe den Scanner bevor du einen neue Bereich hinzufügst</string>
-    <string name="stop_manual_scan_before_starting_background">Bitte stopp den laufenden Scan, bevor du den Hintergrund-Dienst aktivierst</string>
     <string name="auto_update_error">Kann nicht automatisch aktualisieren. Bitte aktualisiere PokeAlert manuell</string>
     <string name="save_log_to_file_success">Log-Datei erfolgreich hierhin gespeichert: %s Bitte nimm Kontakt mit dem Entwickler auf und sende ihm diese Datei</string>
     <string name="save_log_to_file_error">Ein Fehler ist während des Speichervorgangs aufgetreten. Bitte stelle sicher, dass PokeAlert Lese- und Schreibberechtigungen hat</string>

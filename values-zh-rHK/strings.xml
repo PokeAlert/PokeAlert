@@ -3,16 +3,10 @@
     <string name="banner_ad_unit_id">ca-app-pub-9879577400303327/4668582694</string>
     <string name="banner_ad_unit_id_overlay_screen">ca-app-pub-9879577400303327/4274532691</string>
     <string name="trainer_login_description">！！請勿使用遊戲帳號！！\n\n請至 https://www.pokemon.com/us/pokemon-trainer-club/ 創建掃瞄專用帳號</string>
-    <string name="hint_trainer_username">PTC 帳號</string>
-    <string name="hint_trainer_password">PTC 密碼</string>
-    <string name="filter_management">過濾器管理</string>
     <string name="delete">刪除</string>
     <string name="creds_not_valid">錯誤的用戶名稱或密碼</string>
-    <string name="add_extra_account_title">加入額外帳號</string>
-    <string name="manage_accounts">管理帳號</string>
     <string name="duplicate_account">您已經加入此帳號</string>
     <string name="account_added">帳號已經新增了！</string>
-    <string name="help_title">求助</string>
     <string name="help_summary">到推特找我</string>
     <string name="scan_settings">掃瞄設定</string>
     <string name="search_range">搜尋半徑</string>
@@ -22,15 +16,8 @@
 
     <string name="pokemon_auto_despawn_title">自動移除過期寶貝</string>
     <string name="pokemon_time_display_title">寶貝過期類型</string>
-    <string name="load_from_file">從檔案讀取</string>
     <string name="version_title">點此看版本說明</string>
     <string name="pokemon_name_title">寶貝名字顯示語系</string>
-    <string name="ptc_login">訓練師登入</string>
-    <string name="google_login">Google 登入</string>
-    <string name="caught_pokemon_management_title">已收服寶貝管理</string>
-    <string name="use_fast_scan">使用快速掃瞄</string>
-    <string name="delete_all">刪除全部</string>
-    <string name="use_fast_scan_summary">快速掃瞄使用其它用戶的掃瞄成果，所以不需要帳號。請注意結果不一定百分百準確。</string>
     <string name="annoucement_title">公告</string>
     <string name="background_service_settings">背景掃瞄設定</string>
     <string name="save_log_file">儲存日誌檔 (除錯用)</string>
@@ -39,7 +26,6 @@
     <string name="use_default_notification_sound_summary">當啟用時您的手機預設鈴聲會被使用，或者使用以下自訂列表中的鈴聲</string>
     <string name="vibration_title">振動</string>
     <string name="vibration_summary">通知時開啟或關閉振動</string>
-    <string name="account_deletion_confirmation">您是否確定要刪除此帳號</string>
     <string name="account_seems_banned">此帳號似乎已被禁用</string>
     <string name="account_alive">帳號仍然有效</string>
     <string name="username_hint">PTC 帳號或 Gmail 帳號</string>
@@ -61,10 +47,8 @@
     <string name="select_tone">選擇音效</string>
     <string name="empty_filter_error">您必須至少選擇一個寶貝</string>
     <string name="duplicate_filter">此過濾器已經存在</string>
-    <string name="iv_title">IVs</string>
     <string name="attack">攻擊</string>
     <string name="defense">防禦</string>
-    <string name="moves_title">技能</string>
     <string name="stamina">耐力</string>
     <string name="show_gyms">顯示道館</string>
     <string name="show_pokestops">顯示補給點</string>
@@ -74,19 +58,12 @@
     <string name="filters_loaded">過濾器已讀取成功</string>
     <string name="filters_loaded_error">在從檔案中讀取過濾器設定時出現錯誤</string>
     <string name="support_title">支持 PokeAlert</string>
-    <string name="support_us_summary">藉由啟用每30次掃瞄出現的全屏廣告，您將可以享用更多功能</string>
-    <string name="support_us_title">支持我們</string>
     <string name="scan_unknown_error">在掃瞄時發生錯誤，請聯絡開發人員</string>
-    <string name="account_banned">帳號 = %s 似乎已被禁用</string>
-    <string name="generic_login_error">帳號 = %s 發生登入異常</string>
-    <string name="niantic_login_error">帳號 = %1$s : %2$s</string>
     <string name="no_account_error">您沒有任何可使用的帳號，請至少加入一個</string>
     <string name="stop_scan_before_editing">在開啟背景掃瞄前，請先停止目前的掃瞄</string>
     <string name="stop_scan_before_starting_manual">開始手動掃瞄前，請先停止背景掃瞄</string>
     <string name="scan_stoping">掃瞄正停止中，有耐心點</string>
     <string name="enable_gps_error">請啟用 GPS 再開始掃瞄</string>
-    <string name="stop_service_before_creating_area">建立新區域前請先停止服務</string>
-    <string name="stop_manual_scan_before_starting_background">在開啟背景掃瞄前，請先停止目前的掃瞄服務</string>
     <string name="auto_update_error">無法自動更新App，請手動更新</string>
     <string name="save_log_to_file_success">系統日誌已成功存放在: %s 請把此檔案傳給開發者</string>
     <string name="save_log_to_file_error">存放日誌檔案時發生錯誤，請確認是否有授權給App讀寫的權限</string>
@@ -118,8 +95,8 @@
     <string name="supper_pokealert_tuto">這是一個好廣告，如果您想支持 PokeAlert，請點擊</string>
     <string name="overlaymap">浮動式地圖</string>
     <string name="overlaymap_tuto">這會打開一個浮動式地圖，可在玩 PokemonGO 時同時使用</string>
-	
-	<!-- For the translaters that have already  translated their language, from here to bottom are the new strings -->
+
+    <!-- For the translaters that have already  translated their language, from here to bottom are the new strings -->
     <string name="spawn_point_manager_title">重生點管理員</string>
     <string name="export_all_spawn_points">匯出為 JSON 格式檔</string>
     <string name="spawn_point_count_title">重生點:</string>
@@ -130,18 +107,14 @@
     <string name="save_spawn_points_summary">當啟用此選項，所有找到的寶被將存到資料庫中</string>
     <string name="delete_all_spawn_points">刪除所有重生點</string>
     <string name="spawn_point_saved_sucessfully">重生點記錄檔已成功存到 %s</string>
-    <string name="manage_spawn_point">管理重生點</string>
     <string name="bitcoin_address_copied">比特幣的地址已成功複製到您的剪貼簿裡</string>
     <string name="gym_detail_failed">沒有道館資料</string>
     <string name="show_gym_summary">顯示所有道館和其細節 (警告！額外的請求會增加您的網路傳輸量)</string>
     <string name="show_pokestops_summary">顯示所有補給點</string>
-    <string name="has_lure">有櫻花</string>
-    <string name="has_no_lure">一般補給點</string>
     <string name="pokestop">補給點</string>
     <string name="overlaymap_not_available_for_device">不好意思！您的裝置不支援浮動式地圖 :(</string>
     <string name="no_iv_for_fastscan">無 IV 資訊給快速掃描的寶貝</string>
     <string name="requires_captcha">要求 Captcha 驗證</string>
-    <string name="captcha_resolve_intruction">Captcha 驗證的網址已經存到您的剪貼簿。打開 Chrome 瀏覽器並貼上網址</string>
     <string name="solve_captach">解決 Captcha 驗證</string>
     <string name="capctha_link_expired">您已經試過解決此 Captcha 驗證且連結已過期。您需要用此帳號重新掃描來取得新的 Captcha 驗證連結</string>
     <string name="scan_before_solving">Captcha 驗證已經過期。請用此帳號再掃描一次重新讀取 Captcha 驗證。在進行此動作時別關掉 App。</string>
@@ -154,7 +127,6 @@
     <string name="spawn_points">重生點</string>
     <string name="general_settings">一般設定</string>
     <string name="scan">掃描</string>
-    <string name="map_overlay">浮動式地圖</string>
     <string name="expire">過期</string>
     <string name="move_one">招式 1</string>
     <string name="move_two">招式 2</string>
@@ -167,8 +139,6 @@
     <string name="guard_pokemon">駐守的寶貝:</string>
     <string name="show_when_iv_fail">當 IV fails 時顯示</string>
     <string name="notifiy_when_iv_fail">當 IV fails 時通知</string>
-    <string name="ad_block">擋廣告程式</string>
-    <string name="ad_block_message">我們不向您收取任何費用讓您使用 PokeAlert，而您卻不支持我們為您免費提供如此棒的作品。請關掉擋廣告程式</string>
     <string name="assign_group">分派群組</string>
     <string name="remove_from_group">從群組移除</string>
     <string name="new_group">新的群組</string>
@@ -184,8 +154,6 @@
     <string name="consumer_secret_key">Consumer secret key</string>
     <string name="access_token">Access token</string>
     <string name="access_token_secret">Access Token Secret</string>
-    <string name="apply_filters">應用過濾器</string>
-    <string name="fill_all_fields">請輸入所有欄位</string>
     <string name="advance_filter">進階過濾器</string>
     <string name="multi_filter_select_comment">您在多選模式。這些選項將會套用設定到全部您已圈選的寶貝</string>
     <string name="clone">複製</string>
@@ -194,12 +162,10 @@
     <string name="quick_scan_tuto">這是一個立即掃描 (Quick scan)。立即掃描用在您只是想立即掃描一個區域，但掃完之後就停止，不繼續在背景執行。立即掃描不用在固定區域，視藍色的「預覽」圈圈在那裡而定</string>
     <string name="share_using">分享到</string>
     <string name="creating_account">創建帳號</string>
-    <string name="account_created">帳號已建立</string>
-    <string name="auto_ptc_username_hint">挑選一個帳號名稱</string>
     <string name="auto_ptc_password_hint">挑選一個密碼</string>
     <string name="auto_ptc_email_hint">挑選一個有效的 Email</string>
     <string name="auto_ptc_nb_account_hint">要創建的帳號數量</string>
-    <string name="auto_ptc_info">PokeAlert 將會為您挑選隨機的帳號名稱。輸入一個有效的 Email (請使用 Gmail) 您必須登入 Email 收信激活帳號，因為不激活的話 3 天後帳號就會失效。PokeAlert 最多能讓您在一個批次裡建立10筆帳號</string>
+
     <string name="no_account_info">要讓 PokeAlert 動起來需要您新增一些「掃描用」帳號。您也可以讓 PokeAlert 幫您創建帳號 (在下一個畫面點選最上方的機器人圖示按紐) 或者您可以手動新增一些已經有的帳號</string>
     <string name="add_accounts">新增帳號</string>
     <string name="account_long_press_info">在帳號上長按，進去多選模式</string>
@@ -209,157 +175,69 @@
     <string name="real_user_simulation_summary">當啟用此項，PokeAlert 會盡其可能地模擬真實玩家或動以避免遇到 Captcha 驗證</string>
     <string name="real_user_simulation_title">真實玩家</string>
 
-    <string-array name="pokemons">
-        <item>妙蛙種子</item>
-        <item>妙蛙草</item>
-        <item>妙蛙花</item>
-        <item>小火龍</item>
-        <item>火恐龍</item>
-        <item>噴火龍</item>
-        <item>傑尼龜</item>
-        <item>卡咪龜</item>
-        <item>水箭龜</item>
-        <item>綠毛蟲</item>
-        <item>鐵甲蛹</item>
-        <item>巴大蝶</item>
-        <item>獨角蟲</item>
-        <item>鐵殼昆</item>
-        <item>大針蜂</item>
-        <item>波波</item>
-        <item>比比鳥</item>
-        <item>比雕</item>
-        <item>小拉達</item>
-        <item>拉達</item>
-        <item>烈雀</item>
-        <item>大嘴雀</item>
-        <item>阿柏蛇</item>
-        <item>阿柏怪</item>
-        <item>皮卡丘</item>
-        <item>雷丘</item>
-        <item>穿山鼠</item>
-        <item>穿山王</item>
-        <item>尼多蘭</item>
-        <item>尼多娜</item>
-        <item>尼多后</item>
-        <item>尼多朗</item>
-        <item>尼多力諾</item>
-        <item>尼多王</item>
-        <item>皮皮</item>
-        <item>皮可西</item>
-        <item>六尾</item>
-        <item>九尾</item>
-        <item>胖丁</item>
-        <item>胖可丁</item>
-        <item>超音蝠</item>
-        <item>大嘴蝠</item>
-        <item>走路草</item>
-        <item>臭臭花</item>
-        <item>霸王花</item>
-        <item>派拉斯</item>
-        <item>派拉斯特</item>
-        <item>毛球</item>
-        <item>末入蛾</item>
-        <item>地鼠</item>
-        <item>三地鼠</item>
-        <item>喵喵</item>
-        <item>貓老大</item>
-        <item>可達鴨</item>
-        <item>哥達鴨</item>
-        <item>猴怪</item>
-        <item>火爆猴</item>
-        <item>卡蒂狗</item>
-        <item>風速狗</item>
-        <item>蚊香蝌蚪</item>
-        <item>蚊香蛙</item>
-        <item>快泳蛙</item>
-        <item>凱西</item>
-        <item>勇吉拉</item>
-        <item>胡地</item>
-        <item>腕力</item>
-        <item>豪力</item>
-        <item>怪力</item>
-        <item>喇叭芽</item>
-        <item>口呆花</item>
-        <item>大食花</item>
-        <item>瑪瑙水母</item>
-        <item>毒刺水母</item>
-        <item>小拳石</item>
-        <item>隆隆石</item>
-        <item>隆隆岩</item>
-        <item>小火馬</item>
-        <item>烈燄馬</item>
-        <item>呆呆獸</item>
-        <item>呆殼獸</item>
-        <item>小磁怪</item>
-        <item>三合一磁怪</item>
-        <item>大蔥鴨</item>
-        <item>嘟嘟</item>
-        <item>嘟嘟利</item>
-        <item>小海獅</item>
-        <item>白海獅</item>
-        <item>臭泥</item>
-        <item>臭臭泥</item>
-        <item>大舌貝</item>
-        <item>鐵甲貝</item>
-        <item>鬼斯</item>
-        <item>鬼斯通</item>
-        <item>耿鬼</item>
-        <item>大岩蛇</item>
-        <item>素利普</item>
-        <item>素利拍</item>
-        <item>大鉗蟹</item>
-        <item>巨鉗蟹</item>
-        <item>雷電球</item>
-        <item>頑皮彈</item>
-        <item>蛋蛋</item>
-        <item>椰蛋樹</item>
-        <item>卡拉卡拉</item>
-        <item>嘎拉嘎拉</item>
-        <item>沙瓦郎</item>
-        <item>艾比郎</item>
-        <item>大舌頭</item>
-        <item>瓦斯彈</item>
-        <item>雙彈瓦斯</item>
-        <item>鐵甲犀牛</item>
-        <item>鐵甲暴龍</item>
-        <item>吉利蛋</item>
-        <item>蔓藤怪</item>
-        <item>袋龍</item>
-        <item>墨海馬</item>
-        <item>海刺龍</item>
-        <item>角金魚</item>
-        <item>金魚王</item>
-        <item>海星星</item>
-        <item>寶石海星</item>
-        <item>吸盤魔偶</item>
-        <item>飛天螳螂</item>
-        <item>迷唇姐</item>
-        <item>電擊獸</item>
-        <item>鴨嘴火龍</item>
-        <item>大甲</item>
-        <item>肯泰羅</item>
-        <item>鯉魚王</item>
-        <item>暴鯉龍</item>
-        <item>乘龍</item>
-        <item>百變怪</item>
-        <item>伊布</item>
-        <item>水精靈</item>
-        <item>雷精靈</item>
-        <item>火精靈</item>
-        <item>3D龍</item>
-        <item>菊石獸</item>
-        <item>多刺菊石獸</item>
-        <item>化石盔</item>
-        <item>鐮刀盔</item>
-        <item>化石翼龍</item>
-        <item>卡比獸</item>
-        <item>急凍鳥</item>
-        <item>閃電鳥</item>
-        <item>火燄鳥</item>
-        <item>迷您龍</item>
-        <item>哈克龍</item>
-        <item>快龍</item>
-        <item>超夢</item>
-        <item>夢幻</item>
-    </string-array>
+    <!-- Added at 2016.12.25 by terrylinooo -->
+    <string name="requires_email_activation">需要驗證電子信箱</string>
+    <string name="marke_active">註記還存活著</string>
+    <string name="dont_show_again">別再顯示</string>
+    <string name="hint_distance_filter">距離為公尺</string>
+    <string name="notifify_min_distance"><![CDATA[Only apply this filter when distance is less than]]></string>
+    <string name="ditto_mode_summary">當此項啟用，您的帳號將補捉一般寶貝以揪出百變怪</string>
+    <string name="ditto_mode_title">百變怪模式</string>
+    <string name="ditto_mode_tuto_title">百變怪尋找模式</string>
+    <string name="ditto_mode_tuto_content">PokeAlert 現在可以揪出百變怪，要達成此目的的話需要先補捉寶貝（PokeAlert會自動補捉）。建議您用帳號產生器創建額外的帳號來獵取百變怪。如果帳號開始遇到很多 CAPTCHA 驗證或被禁用了，再創新一批帳號來用即可 :)</string>
+    <string name="app_language_title">App 語系</string>
+    <string name="language">語言</string>
+    <string name="language_change_warning">您已經變換 app 語系，點擊 OK 重新啟動</string>
+    <string name="notify_captcha_title">當 Captcha 時通知</string>
+    <string name="notify_captcha_summary">當一個帳號遇到 Captcha 驗證時觸發通知</string>
+    <string name="notify_captcha_sound_title">使用音效</string>
+    <string name="notify_captcha_sound_summary">當此項啟用，Captcha 驗證通知會使用預設的音效，關閉此項則保持靜音</string>
+    <string name="retry_when_speedcapped_title">當遇到移動速度鎖定時，再試一次</string>
+    <string name="retry_when_speedcapped_summary">當 PokeAlert 認為您已遇到移動速度鎖定，將會試著重新掃描一次原本掃瞄失敗的地點最多 3 次。此設定只建議用在寶貝密集區</string>
+    <string name="rotate_screen">翻轉螢幕</string>
+    <string name="rotate_screen_warning">您正準備翻轉螢幕。目前掃瞄會因此停止。您仍然要翻轉螢幕嗎？（請注意，使用介面尚未針對橫式寬螢幕最佳化）</string>
+    <string name="twitter">Twitter</string>
+    <string name="discord">Discord</string>
+    <string name="telegram">Telegram</string>
+    <string name="webhook_url">您的機器人 webhook 網址</string>
+    <string name="bot_token">您的機器人的 token</string>
+    <string name="channel_id_hint">您的頻道 ID</string>
+    <string name="verification_sent">測試訊息已送出。檢查是否已收到</string>
+    <string name="send_test_notification">發送測試訊息</string>
+    <string name="enable">啟用</string>
+    <string name="tap_for_more_info">點此對話框取得詳細資訊</string>
+    <string name="alive">存活</string>
+    <string name="banned">已被禁用</string>
+    <string name="email_no_verified">電子信箱尚未驗證</string>
+    <string name="cannot_edit_area">當掃描仍在進行時，區域不能編輯</string>
+    <string name="auto_added">已自動新增</string>
+    <string name="captcha_solved">Captcha 驗證已被解決</string>
+    <string name="password_rules"><![CDATA[您的密碼必須包含大寫和小寫字母、數字和符號（例如 ?!@$%&）且長度至少 8 個字元]]></string>
+    <string name="wrong_pasword_format">密碼並沒有符合以下說明的條件</string>
+    <string name="no_account_with_lure_module">看起來您的帳號都沒有櫻花，確定已用至少一個帳號進行掃描</string>
+    <string name="place_lure_module">撒櫻花</string>
+    <string name="account_place_lure_module">您要在這個補給點撒花嗎？</string>
+    <string name="place_lure_module_success">已經放置撒花器</string>
+    <string name="place_lure_module_error">錯誤。尚未放置撒花器</string>
+    <string name="pogo_into_message">此功能只能每 60 秒使用一次。要在此地區看更多寶貝，按 OK 前往地圖</string>
+    <string name="placing_lure_module">正試著放置撒花器，請稍候片刻</string>
+    <string name="place_lure_module_too_fare">補給點太遠了，請掃描補給點附近範圍 70 公尺以內</string>
+    <string name="place_lure_module_already_lure">此補給點已經有人放撒花器了</string>
+    <string name="stop_service_before_editing_area">在編輯區域之前請先停止掃描服務</string>
+    <string name="auto_ptc_info">PokeAlert 將會為您挑選隨機的帳號名稱。輸入一個有效的 Email (請使用 @gmail、 @outlook 或 @hotmail) 您必須登入 Email 收信激活帳號，因為不激活的話 3 天後帳號就會失效。PokeAlert 最多能讓您在一個批次裡建立10筆帳號</string>
+    <string name="unknown_response">非預期的 onActivityResult 回應碼</string>
+    <string name="sign_in_cancelled">已取消登入</string>
+    <string name="no_internet_connection">沒有網際網路連線</string>
+    <string name="sign_out">登出</string>
+    <string name="sign_out_success">您已成功登出</string>
+    <string name="sign_in_success">您已成功登入</string>
+    <string name="remove_ads">移除廣告</string>
+    <string name="payment_server_down_error">似乎處理付款的伺服器無回應，稍候再試一次</string>
+    <string name="send_payment_error">付款發生錯誤，請再試幾次或聯絡程式作者</string>
+    <string name="success">成功</string>
+    <string name="payment_no_ads_success">謝謝您！我們已收到您的付款。請重新開啟 App 使用無廣告的 PokeAlert！ 如果重啟用仍然有看到廣告，等 5 分鐘再試試。過了 5 分鐘還是有的話請透過 Twitter, Facebook 或 Discord 聯絡作者</string>
+    <string name="pay">支付</string>
+    <string name="processing_payment">付款處理中...</string>
+    <string name="price">價格:</string>
+    <string name="payment_success_with_error">付款 OK 但物品沒增加，請聯絡作者</string>
 </resources>
