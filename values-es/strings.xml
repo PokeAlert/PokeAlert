@@ -261,4 +261,4 @@
     <string name="setup_guide_summary">Guía de instalación y de configuración</string>
     <string name="guide_tittle">Guía de configuración</string>
     <string name="general_payment_error">El pago no se ha realizado. Por favor, contacta con el desarrollador.</string>
-<string name="hash_server_down">Looks like the hash server is down</string>
+</resources>
