@@ -37,7 +37,6 @@
         <item>tajščina</item>
         <item>portugalščina</item>
         <item>poljščina</item>
-        <item>slovenski</item>
     </string-array>
 
     <!-- Translaters DO NOT translate this -->
@@ -55,7 +54,6 @@
         <item>th</item>
         <item>pt</item>
         <item>pl</item>
-        <item>sl</item>
     </string-array>
 
     <string-array name="app_languages">
