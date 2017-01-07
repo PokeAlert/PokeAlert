@@ -262,6 +262,25 @@
     <string name="general_payment_error">Payment didn\'t go through. Please contact the developer</string>
     <string name="hash_server_down">Looks like the hash server is down</string>
 
+    <string name="in_app_items">In app items</string>
+    <string name="in_app_items_info">In app items is a way to show your appreciation to PokeAlert and its developer. As a thank you will be able to enjoy extra features!. \n(Prices are only the minimum required, if you feel more generous, don\'t hesitate to amend it as you wish)</string>
+    <string name="in_app_item_no_ads">Remove ads</string>
+    <string name="in_app_item_full_external_notification">Direct links in all ext. notifications + Twitter</string>
+    <string name="in_app_item_no_ads_description">This will remove all advertisements in the app</string>
+    <string name="in_app_item_full_ext_notification_description">This will unlock Twitter notification and directly display all the Pokemon information in the all the external notification text</string>
+    <string name="loading_items">Loading items...</string>
+    <string name="payment_duplicate_item_error">You have already purchased this item</string>
+    <string name="purchased">purchased</string>
+    <string name="payment_success">Thank you! We have received your payment.\n\nPlease restart the app to start enjoying your new feature!</string>
+    <string name="price_hint">price</string>
+    <string name="invalid_price">The price must be equal or higer than the min. suggested price</string>
+    <string name="missing_in_app_iten_twitter">To enjoy Twitter notification you will need to purchase the \"Full external notification package\" inapp item. This item will also add all the Pokemon information directly in the notification text!</string>
+    <string name="copied_to_clipboard">Copied to clip board</string>
+    <string name="weigth_threshold">weight between</string>
+    <string name="weight">Weight</string>
+    <string name="and">and</string>
+    <string name="area_without_account_alive">Looks like one of your area has 0 alive acounts</string>
+    
     <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
         <item>Bulbasaur</item>
