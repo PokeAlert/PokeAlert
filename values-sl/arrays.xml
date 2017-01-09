@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="hash_server_key_list">
+        <item>150 Zahtev Na Minuto(PP &amp; CC, Sofort)</item>
+        <item>150 Zahtev Na Minuto (RU, CN, SA)</item>
+        <item>500 Zahtev Na Minuto (PP &amp; CC, Sofort)</item>
+        <item>500 Zahtev Na Minuto (RU, CN, SA)</item>
+        <item>1000 Zahtev Na Minuto (PP &amp; CC, Sofort)</item>
+        <item>1000 Zahtev Na Minuto (RU, CN, SA)</item>
+    </string-array>
+
+    <string-array name="icon_type">
+        <item>old school slaba res</item>
+        <item>HD (beta)</item>
+    </string-array>
+
+ 
+    <string-array name="map_type">
+        <item>Normalno</item>
+        <item>Satelitsko</item>
+        <item>Terensko</item>
+        <item>Hibridno</item>
+    </string-array>
+
+    <string-array name="pref_languages">
+        <item>angleščina</item>
+        <item>nemščina</item>
+        <item>francoščina</item>
+        <item>španščina</item>
+        <item>ruščina</item>
+        <item>češčina</item>
+        <item>japonščina</item>
+        <item>kitajščina (PRC)</item>
+        <item>kitajščina (Taiwan)</item>
+        <item>kitajščina (Hong Kong)</item>
+        <item>tajščina</item>
+        <item>portugalščina</item>
+        <item>poljščina</item>
+    </string-array>
+
+    <!-- Translaters DO NOT translate this -->
+    <string-array name="pref_languages_values">
+        <item>en</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>es</item>
+        <item>ru</item>
+        <item>cz</item>
+        <item>jp</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>zh_HK</item>
+        <item>th</item>
+        <item>pt</item>
+        <item>pl</item>
+    </string-array>
+
+    <string-array name="app_languages">
+        <item>angleščina</item>
+        <item>nemščina</item>
+        <item>francoscina</item>
+        <item>španščina</item>
+        <item>češčina</item>
+        <item>japonščina</item>
+        <item>kitajščina (PRC)</item>
+        <item>kitajščina (Taiwan)</item>
+        <item>kitajščina (Hong Kong)</item>
+        <item>portugalščina (Brazilija)</item>
+        <item>poljščina</item>
+        <item>slovenščina</item>
+    </string-array>
+
+    <!-- Translaters DO NOT translate this -->
+    <string-array name="app_languages_values">
+        <item>en</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>es</item>
+        <item>cz</item>
+        <item>jp</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>zh_HK</item>
+        <item>pt_BR</item>
+        <item>pl</item>
+        <item>sl</item>
+    </string-array>
+
+    <string-array name="pref_possible_steps">
+        <item>70m</item>
+        <item>120m</item>
+        <item>210m</item>
+        <item>310m</item>
+        <item>430m</item>
+        <item>550m</item>
+        <item>670m</item>
+        <item>790m</item>
+        <item>900m</item>
+        <item>1000m</item>
+        <item>1100m</item>
+        <item>1200m</item>
+        <item>1300m</item>
+        <item>1400m</item>
+        <item>1500m</item>
+        <item>1600m</item>
+        <item>1700m</item>
+        <item>1850m</item>
+        <item>2000m</item>
+        <item>2200m</item>
+        <item>2400m</item>
+        <item>2500m</item>
+        <item>2600m</item>
+        <item>2700m</item>
+        <item>2800m</item>
+        <item>3000m</item>
+        <item>3100m</item>
+        <item>3200m</item>
+        <item>3300m</item>
+        <item>3400m</item>
+        <item>3600m</item>
+        <item>3700m</item>
+        <item>3800m</item>
+        <item>3900m</item>
+        <item>4000m</item>
+        <item>4200m</item>
+        <item>4300m</item>
+        <item>4400m</item>
+        <item>4500m</item>
+        <item>4600m</item>
+    </string-array>
+
+    <string-array name="scan_delay">
+        <item>10 sekund</item>
+        <item>20 sekund</item>
+        <item>40 sekund</item>
+        <item>1 minuta</item>
+        <item>2 minuti</item>
+        <item>3 minute</item>
+        <item>4 minute</item>
+        <item>5 minut</item>
+        <item>6 minut</item>
+        <item>7 minut</item>
+        <item>8 minut</item>
+        <item>9 minut</item>
+        <item>10 minut</item>
+        <item>20 minut</item>
+        <item>30 minut</item>
+    </string-array>
+
+  
+    <string-array name="pokemon_display_time">
+        <item>Potekli čas (24H)</item>
+        <item>Potekli čas (12H)</item>
+        <item>Odštevanje</item>
+    </string-array>
+
+</resources>
