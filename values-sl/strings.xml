@@ -265,7 +265,7 @@
     <string name="in_app_items">Stvari v aplikaciji</string>
     <string name="in_app_items_info">S kupljenjem katerih koli stvari v aplikaciji boste pokazali kako cenite PokeAlert in razvijalca. Za zahvalitev boste lahko uživali s temi novimi stvarmi! \n(Minimum cene je potreben, če pa se počutite darovalno, se ni treba zadrževati) </string>
     <string name="in_app_item_no_ads">Odstrani oglase</string>
-    <string name="in_app_item_full_external_notification">Direktni linki v vseh zun. obvestilih + Twitter</string>
+    <string name="in_app_item_full_external_notification">Direktni linki v vseh zun. obv. + Twitter</string>
     <string name="in_app_item_no_ads_description">To bo odstranilo vse oglase v aplikaciji</string>
     <string name="in_app_item_full_ext_notification_description">To bo odklenilo Twitter obvestila in direktno pokazalo vse Pokemon informacije v vseh zunanjih obvestilih</string>
     <string name="loading_items">Nalaganje stvari...</string>
