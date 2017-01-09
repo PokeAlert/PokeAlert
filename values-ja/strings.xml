@@ -225,6 +225,7 @@
     <string name="sign_in_cancelled">ログインがキャンセルされました</string>
     <string name="no_internet_connection">インターネット接続がありません</string>
     <string name="sign_out">サインアウト</string>
+    
     <string name="sign_out_success">あなたは正常にログアウトしました</string>
     <string name="sign_in_success">あなたは正常にサインインしました</string>
     <string name="remove_ads">広告の削除</string>
@@ -236,4 +237,202 @@
     <string name="processing_payment">支払い処理中...</string>
     <string name="price">価格:</string>
     <string name="payment_success_with_error">お支払いはOKですが、商品は追加されませんでした。 開発者に連絡してください。</string>
+    <string name="follow_mode_summary">Make the map automatically follow your position</string>
+    <string name="follow_mode_title">Follow mode</string>
+    <string name="two_captcha_title">2Captcha</string>
+    <string name="two_captcha_summary">Use 2Captcha to automatically solve all your Captcha</string>
+    <string name="two_captcha_key">2 Captcha API Key</string>
+    <string name="two_captcha_buy_key">To be able to use 2captcha you will need a valid 2captcha API key. You can afford one on their website (1000 captcha for ~4$). Tap ok to be redirected on their website</string>
+    <string name="hint_hash_server_key">Hash server key</string>
+    <string name="hash_server_config">New API config</string>
+    <string name="rate_limitted">You are rate limitted, reduce your number of accounts!</string>
+    <string name="show_rpm_tittle">Show RPM</string>
+    <string name="show_rpm_summary">Show how much request per-minute the app sends to Niantic</string>
+    <string name="add_key">Add key</string>
+    <string name="hash_server_key_valid">Hash server key valid</string>
+    <string name="hash_server_key_invalid">Hash server key invalid</string>
+    <string name="feature_needs_authentication">You need to be logged-in to use this</string>
+    <string name="stop_current_scan">Please stop the current scan</string>
+    <string name="server_down">Server seems down</string>
+    <string name="need_to_validate_key">Please validate you key</string>
+    <string name="key_deletion_confirmation">Are you sure you want to delete this key?</string>
+    <string name="twitter_help_title">Twitter help</string>
+    <string name="setup_guide_summary">Installation and setup guide</string>
+    <string name="guide_tittle">Setup guide</string>
+    <string name="general_payment_error">Payment didn\'t go through. Please contact the developer</string>
+    <string name="hash_server_down">Looks like the hash server is down</string>
+
+    <string name="in_app_items">In app items</string>
+    <string name="in_app_items_info">In app items is a way to show your appreciation to PokeAlert and its developer. As a thank you will be able to enjoy extra features!. \n(Prices are only the minimum required, if you feel more generous, don\'t hesitate to amend it as you wish)</string>
+    <string name="in_app_item_no_ads">Remove ads</string>
+    <string name="in_app_item_full_external_notification">Direct links in all ext. notifications + Twitter</string>
+    <string name="in_app_item_no_ads_description">This will remove all advertisements in the app</string>
+    <string name="in_app_item_full_ext_notification_description">This will unlock Twitter notification and directly display all the Pokemon information in the all the external notification text</string>
+    <string name="loading_items">Loading items...</string>
+    <string name="payment_duplicate_item_error">You have already purchased this item</string>
+    <string name="purchased">purchased</string>
+    <string name="payment_success">Thank you! We have received your payment.\n\nPlease restart the app to start enjoying your new feature!</string>
+    <string name="price_hint">price</string>
+    <string name="invalid_price">The price must be equal or higer than the min. suggested price</string>
+    <string name="missing_in_app_iten_twitter">To enjoy Twitter notification you will need to purchase the \"Full external notification package\" inapp item. This item will also add all the Pokemon information directly in the notification text!</string>
+    <string name="copied_to_clipboard">Copied to clip board</string>
+    <string name="weigth_threshold">weight between</string>
+    <string name="weight">Weight</string>
+    <string name="and">and</string>
+    <string name="area_without_account_alive">Looks like one of your area has 0 alive acounts</string>
+    
+    <!-- NO NEED TO TRANSLATE THIS -->
+    <string-array name="pokemons">
+        <item>Bulbasaur</item>
+        <item>Ivysaur</item>
+        <item>Venusaur</item>
+        <item>Charmander</item>
+        <item>Charmeleon</item>
+        <item>Charizard</item>
+        <item>Squirtle</item>
+        <item>Wartortle</item>
+        <item>Blastoise</item>
+        <item>Caterpie</item>
+        <item>Metapod</item>
+        <item>Butterfree</item>
+        <item>Weedle</item>
+        <item>Kakuna</item>
+        <item>Beedrill</item>
+        <item>Pidgey</item>
+        <item>Pidgeotto</item>
+        <item>Pidgeot</item>
+        <item>Rattata</item>
+        <item>Raticate</item>
+        <item>Spearow</item>
+        <item>Fearow</item>
+        <item>Ekans</item>
+        <item>Arbok</item>
+        <item>Pikachu</item>
+        <item>Raichu</item>
+        <item>Sandshrew</item>
+        <item>Sandslash</item>
+        <item>Nidoran F</item>
+        <item>Nidorina</item>
+        <item>Nidoqueen</item>
+        <item>Nidoran M</item>
+        <item>Nidorino</item>
+        <item>Nidoking</item>
+        <item>Clefairy</item>
+        <item>Clefable</item>
+        <item>Vulpix</item>
+        <item>Ninetales</item>
+        <item>Jigglypuff</item>
+        <item>Wigglytuff</item>
+        <item>Zubat</item>
+        <item>Golbat</item>
+        <item>Oddish</item>
+        <item>Gloom</item>
+        <item>Vileplume</item>
+        <item>Paras</item>
+        <item>Parasect</item>
+        <item>Venonat</item>
+        <item>Venomoth</item>
+        <item>Diglett</item>
+        <item>Dugtrio</item>
+        <item>Meowth</item>
+        <item>Persian</item>
+        <item>Psyduck</item>
+        <item>Golduck</item>
+        <item>Mankey</item>
+        <item>Primeape</item>
+        <item>Growlithe</item>
+        <item>Arcanine</item>
+        <item>Poliwag</item>
+        <item>Poliwhirl</item>
+        <item>Poliwrath</item>
+        <item>Abra</item>
+        <item>Kadabra</item>
+        <item>Alakazam</item>
+        <item>Machop</item>
+        <item>Machoke</item>
+        <item>Machamp</item>
+        <item>Bellsprout</item>
+        <item>Weepinbell</item>
+        <item>Victreebel</item>
+        <item>Tentacool</item>
+        <item>Tentacruel</item>
+        <item>Geodude</item>
+        <item>Graveler</item>
+        <item>Golem</item>
+        <item>Ponyta</item>
+        <item>Rapidash</item>
+        <item>Slowpoke</item>
+        <item>Slowbro</item>
+        <item>Magnemite</item>
+        <item>Magneton</item>
+        <item>Farfetch\'d</item>
+        <item>Doduo</item>
+        <item>Dodrio</item>
+        <item>Seel</item>
+        <item>Dewgong</item>
+        <item>Grimer</item>
+        <item>Muk</item>
+        <item>Shellder</item>
+        <item>Cloyster</item>
+        <item>Gastly</item>
+        <item>Haunter</item>
+        <item>Gengar</item>
+        <item>Onix</item>
+        <item>Drowzee</item>
+        <item>Hypno</item>
+        <item>Krabby</item>
+        <item>Kingler</item>
+        <item>Voltorb</item>
+        <item>Electrode</item>
+        <item>Exeggcute</item>
+        <item>Exeggutor</item>
+        <item>Cubone</item>
+        <item>Marowak</item>
+        <item>Hitmonlee</item>
+        <item>Hitmonchan</item>
+        <item>Lickitung</item>
+        <item>Koffing</item>
+        <item>Weezing</item>
+        <item>Rhyhorn</item>
+        <item>Rhydon</item>
+        <item>Chansey</item>
+        <item>Tangela</item>
+        <item>Kangaskhan</item>
+        <item>Horsea</item>
+        <item>Seadra</item>
+        <item>Goldeen</item>
+        <item>Seaking</item>
+        <item>Staryu</item>
+        <item>Starmie</item>
+        <item>Mr. Mime</item>
+        <item>Scyther</item>
+        <item>Jynx</item>
+        <item>Electabuzz</item>
+        <item>Magmar</item>
+        <item>Pinsir</item>
+        <item>Tauros</item>
+        <item>Magikarp</item>
+        <item>Gyarados</item>
+        <item>Lapras</item>
+        <item>Ditto</item>
+        <item>Eevee</item>
+        <item>Vaporeon</item>
+        <item>Jolteon</item>
+        <item>Flareon</item>
+        <item>Porygon</item>
+        <item>Omanyte</item>
+        <item>Omastar</item>
+        <item>Kabuto</item>
+        <item>Kabutops</item>
+        <item>Aerodactyl</item>
+        <item>Snorlax</item>
+        <item>Articuno</item>
+        <item>Zapdos</item>
+        <item>Moltres</item>
+        <item>Dratini</item>
+        <item>Dragonair</item>
+        <item>Dragonite</item>
+        <item>Mewtwo</item>
+        <item>Mew</item>
+    </string-array>
 </resources>
