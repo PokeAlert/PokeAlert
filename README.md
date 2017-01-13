@@ -2,6 +2,7 @@
 
 Download links (latest version at the top) 
 ###[Download Section](https://github.com/PokeAlert/PokeAlert/releases)
+###For detailed setup and usage guide: <a href="https://docs.google.com/document/d/1WxrzBSwWTgxr0VOBTQHdeAmAjQ211IteaTEeIJs1mSI/edit"> Click Here </a>
 ##Join us on: <a href="https://discord.gg/JdFdPw3"> <img src="http://i.imgur.com/5qd7qB8.png"> </a>
 
 # PokeAlert - Pokemon Notification for PokemonGO 
