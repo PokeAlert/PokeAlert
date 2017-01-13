@@ -33,19 +33,6 @@ PokeAlert has been developed by a handsome (:)) and enthusiast Pokemon trainer. 
 </p>
 
 
-# Quick Tutorial Step-By-Step
-1) Download and install the latest APK
-
-2) Start the app
-
-3) Login with either a gmail account or a Pokemon Trainer account (remember, don't use your official account, instead create some separate accounts just for scanning)
-
-4) Basically, you are good to go, simply press the "Play" button and you will see the scan starting (pink circle moving around)
-
-You can also follow this guide made by Twitter user @CrimOfSweden
-https://docs.google.com/document/d/1bZ8OHdF1YOE9O3hWKmoYmBM0R1Pqb3su-0Hnru_zjeI/pub
-
-
 # Background scan service
 If you do not want to manually scan areas, you can use the background scan service. When activated, PokeAlert will periodically scan in the background and send notification when a Pokemon is found! You do not need to stare at the map, simply put your phone in your pocket and wait for that Snorlax! :p
 
@@ -53,9 +40,11 @@ If you do not want to manually scan areas, you can use the background scan servi
 
 2) Tap on Settings
 
-3) Configure the scan radius (for background service I like to put it between 120m and 310m)
+3) Configure the scan interval (it is the interval in which the app will receive a new location and starts scan) you can set to 20seconds it is a good number. If you prefer save some battery set to 5 or 10 minutes
 
-4) Configure the scan interval (it is the interval in which the app will receive a new location and starts scan) you can set to 20seconds it is a good number. If you prefer save some battery set to 5 or 10 minutes
+4) Go back to map and select radius on slider
+
+5) Tap on background scan icon (radar icon) to start background scan 
 
 Note: There is only ONE scan at the same time. it means that if a new location is received and that a scan is still running, the scan will be ignored and wait until the next location.
 
@@ -131,17 +120,15 @@ PokeAlert let yout select "multiple" locked areas and assign any number of accou
 
 ## Create a fixed area
 
-1) Activate the feature in the Settings ("use multi scan")
+1) Press Lock icon and select number of accounts you want to scan with
 
-2) Long press on the map. A dialog appear that will ask you select which account will be scanning this area
+2) Press Ok, and you will see a blue circle on the map
 
-3) Press Ok, and you will see a blue circle on the map
-
-4) Long press on the map to create a new area. A dialog appear that will ask you to select which account will be scanning this area
+3) Long press on the map to create a new area. A dialog appear that will ask you to select which account will be scanning this area
 
 ## Edit a fixed area
 
-1) Click ONCE on a blue circle
+1) Click ONCE on a gray area
 
 2) Check or uncheck the accounts of your choice and press OK
 
@@ -149,7 +136,7 @@ Note: You cannot edit an area while a scan is running
 
 ## Delete an area
 
-1) Click ONCE on a blue circle
+1) Click ONCE on a gray area
 
 2) Uncheck all the account and press OK
 
