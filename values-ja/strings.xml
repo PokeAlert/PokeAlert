@@ -89,7 +89,7 @@
     <string name="background_scan_tuto">バックグラウンドスキャンを有効にしポケモンが見つかった場合に通知を送信します</string>
     <string name="clear_map_tuto">マップからすべてのポケモンを削除します</string>
     <string name="fixed_area">エリアを固定</string>
-    <string name="fix_area_tuto">バックグラウンドスキャンのための固定されたエリアを作成することができます。エリアの削除はサークルをタップすることで表示される設定から行うことができます。</string>
+    <string name="fix_area_tuto">バックグラウンドスキャンのための固定されたエリアを作成できます。作成したエリアに行かなくてもバックグラウンドスキャンでそのエリアをスキャンすることができるようになります。エリアの削除はサークルをタップすることで表示される設定から行うことができます。</string>
     <string name="support_pokealert">PokeAlert をサポート</string>
     <string name="supper_pokealert_tuto">これは素晴らしい広告です:) PokeAlert をサポートしたい場合はここをクリックしてください</string>
     <string name="overlaymap">オーバーレイマップ</string>
@@ -280,6 +280,32 @@
     <string name="weight">重さ</string>
     <string name="and">and</string>
     <string name="area_without_account_alive">エリアの1つが有効なアカウントを持っていません。</string>
+    <string name="cache_scan_not_enough_token_error">キャッシュスキャンのトークンが足りません。</string>
+    <string name="cache_tokens">キャッシュトークン:</string>
+    <string name="hint_edit_username">タップでユーザー名の編集</string>
+    <string name="username">ユーザー名</string>
+    <string name="remaining_token">キャッシュスキャントークン:</string>
+    <string name="account_logining_in_started">すべてのアカウントのログイン中です。しばらくお待ちください...</string>
+    <string name="cache_scan">キャッシュスキャン</string>
+    <string name="cache_scan_tuto">キャッシュスキャンは、アカウントを一切使用しない超高速スキャンです。 キャッシュスキャンでは、PokeAlert と PokeMesh のすべてのユーザーがスキャンしたすべてのポケモンが表示されます。 キャッシュサーバーが停止しているときは、アイコンが赤色で表示されます。</string>
+    <string name="in_app_items_tuto">アプリ内アイテムは、PokeAlertの開発に寄付したユーザーに報酬を与える方法です。 例えば\"広告削除\"を購入すると、アプリ内のすべての広告が削除されます。 （価格は固定されておらず、適切と判断した大きな金額を入力することができます）</string>
+    <string name="new_api_tuto">新しいAPIを使用すると、より多くのアカウントを使用することができ、またキャプチャの要求を免れることができます！新しいAPIを使用できるようにするには、このメニューで購入できる\"ハッシュサーバーキー\"を入力する必要があります。そしてご理解していただきたいのは、PokeAlert は単なるアフィリエイトであり、これらのキーを直接販売してはおらず、無料でなくすことを決定したわけではありません。</string>
+    <string name="support_pokealert_tuto">PokeAlert は、開発を支援するために、アプリ内に広告を表示します。 また、広告削除パッケージなどのアプリ内アイテムを購入することでPokeAlertをサポートすることもできます。</string>
+    <string name="cache_scan_maintenance_error">キャッシュスキャンは現在メンテナンス中です。</string>
+    <string name="manually_place_lure">ルアーを手動で設置</string>
+    <string name="auto_place_lure">ルアーを自動設置</string>
+    <string name="auto_lure_placed_success">成功、ルアーはすべてのアカウントのこの場所に設置されました。</string>
+    <string name="failed">失敗しました</string>
+    <string name="setup">セットアップ</string>
+    <string name="setup_info">新規ユーザーのように見えます！PokeAlertはアカウントのセットアップを開始します。準備はOKですか？</string>
+    <string name="advanced_mode_summary">高度な設定モードではさらに多くの機能を使用できます</string>
+    <string name="advanced_mode_title">高度な設定モード</string>
+    <string name="long_press_start_scan">スキャンを開始するには長押ししてください。</string>
+    <string name="reset_accounts">アカウントのリセット</string>
+    <string name="long_press_to_stop">スキャンを開始しました！停止するには長押ししてください。</string>
+    <string name="setup_missing_account_info">アカウントの設定が完了していないません。 [OK]を押すと、PokeAlertはアカウントの自動設定を開始します。</string>
+    <string name="setting_up_account">アカウントのセットアップ...</string>
+    <string name="area_name">エリア名</string>
     
     <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
