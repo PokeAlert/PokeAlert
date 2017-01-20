@@ -168,7 +168,7 @@
     <string name="filter_long_press_info">Dolgo pridržite na Pokemon-u, da odprete več-izbralni način</string>
     <string name="account_stats">Statistika</string>
     <string name="wrong_email">Prosimo potrudite se in vnesite resnični račun</string>
-    <string name="real_user_simulation_summary">Ko je obkljukano, bo PokeAlert poskušal simulirati resničnega igralca, da bo se izognil ban-u ali CAPTCHA-i</string>
+    <string name="real_user_simulation_summary">Ko je obkljukano, bo PokeAlert poskušal simulirati resničnega igralca, da se bi izognil ban-u ali CAPTCHA-i</string>
     <string name="real_user_simulation_title">Resnični Igralec</string>
     <string name="requires_email_activation">Potrebuje e-mail verifikacijo</string>
     <string name="marke_active">Označi kot delujoč</string>
@@ -261,7 +261,26 @@
     <string name="guide_tittle">Vodnik za namestitev</string>
     <string name="general_payment_error">Plačilo ni šlo skozi. Prosim kontaktirajte razvijalca</string>
     <string name="hash_server_down">Izgleda, da hash strežnik ne dela</string>
-
+    
+    <string name="in_app_items">Stvari v aplikaciji</string>
+    <string name="in_app_items_info">S kupljenjem katerih koli stvari v aplikaciji boste pokazali kako cenite PokeAlert in razvijalca. Za zahvalitev boste lahko uživali s temi novimi stvarmi! \n(Minimum cene je potreben, če pa se počutite darovalno, se ni treba zadrževati) </string>
+    <string name="in_app_item_no_ads">Odstrani oglase</string>
+    <string name="in_app_item_full_external_notification">Direktni linki v vseh zun. obv. + Twitter</string>
+    <string name="in_app_item_no_ads_description">To bo odstranilo vse oglase v aplikaciji</string>
+    <string name="in_app_item_full_ext_notification_description">To bo odklenilo Twitter obvestila in direktno pokazalo vse Pokemon informacije v vseh zunanjih obvestilih</string>
+    <string name="loading_items">Nalaganje stvari...</string>
+    <string name="payment_duplicate_item_error">To stvar ste že kupili</string>
+    <string name="purchased">Kupljeno</string>
+    <string name="payment_success">Hvala! Prejeli smo vaše plačilo.\n\nPonovno zaženite aplikacijo in začnite uživati z vašo novo stvarjo!</string>
+    <string name="price_hint">Cena</string>
+    <string name="invalid_price">Cena mora biti enaka ali večja od min. predlagane cene</string>
+    <string name="missing_in_app_iten_twitter">Da bi lahko uporabljali Twitter obvestila, boste morali kupiti \"Cel paket zunanjih obvestil\". Ta paket bo tudi dodal vse Pokemon informacije direktno v obvestilo!</string>
+    <string name="copied_to_clipboard">Kopirano v odložišče</string>
+    <string name="weigth_threshold">Teža med</string>
+    <string name="weight">Teža</string>
+    <string name="and">in</string>
+    <string name="area_without_account_alive">Izgleda, da imate na enem območju 0 delujočih računov</string>
+    
     <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
         <item>Bulbasaur</item>
