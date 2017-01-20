@@ -89,9 +89,8 @@
     <string name="background_scan_tuto">This will activate the background scan and send you notification when a Pokemon is found</string>
     <string name="clear_map_tuto">This will clear the map from all the Pokemon</string>
     <string name="fixed_area">Fixed Area</string>
-    <string name="fix_area_tuto">This will allow you create a \"fixed\" area for your background scanning. To remove the area simply tap once on the circle it will open the fix area settings</string>
+    <string name="fix_area_tuto">This will allow you create a \"fixed\" area for your background scanning. This means that when you start a background scan, the scan will start and stay were you have created your fixed areas. To remove the area simply tap once on the circle it will open the fix area settings</string>
     <string name="support_pokealert">Support PokeAlert</string>
-    <string name="supper_pokealert_tuto">This is nice an advert :) Click on it if you wish to support PokeAlert</string>
     <string name="overlaymap">OverlayMap</string>
     <string name="overlaymap_tuto">This opens an overlay map which can be used at the same time you play PokemonGO</string>
     <string name="spawn_point_manager_title">Spawn Points Manager</string>
@@ -145,7 +144,7 @@
     <string name="area">Area</string>
     <string name="save">Save</string>
     <string name="are_already_locked">You already have locked this area</string>
-    <string name="random_nb_accounts">Random number of accounts</string>
+    <string name="random_nb_accounts">number of accounts</string>
     <string name="external_notification">External notifications</string>
     <string name="consumer_key">Consumer key</string>
     <string name="consumer_secret_key">Consumer secret key</string>
@@ -261,7 +260,6 @@
     <string name="guide_tittle">Setup guide</string>
     <string name="general_payment_error">Payment didn\'t go through. Please contact the developer</string>
     <string name="hash_server_down">Looks like the hash server is down</string>
-
     <string name="in_app_items">In app items</string>
     <string name="in_app_items_info">In app items is a way to show your appreciation to PokeAlert and its developer. As a thank you will be able to enjoy extra features!. \n(Prices are only the minimum required, if you feel more generous, don\'t hesitate to amend it as you wish)</string>
     <string name="in_app_item_no_ads">Remove ads</string>
@@ -280,7 +278,33 @@
     <string name="weight">Weight</string>
     <string name="and">and</string>
     <string name="area_without_account_alive">Looks like one of your area has 0 alive acounts</string>
-    
+    <string name="cache_scan_not_enough_token_error">You dont have enough cache-scan token</string>
+    <string name="cache_tokens">Cache tokens:</string>
+    <string name="hint_edit_username">Tap to edit username</string>
+    <string name="username">Username</string>
+    <string name="remaining_token">Cache scan tokens:</string>
+    <string name="account_logining_in_started">Login all accounts, please wait...</string>
+    <string name="cache_scan">Cache scan</string>
+    <string name="cache_scan_tuto">Cache scan is a super fast scan that do not use any of your accounts. Cache scan will display all the Pokemon that ALL the PokeAlert and PokeMesh user have scanned. Sometimes this icon turns red when the cache server is down</string>
+    <string name="in_app_items_tuto">In-app Items is a way to reward users when they have donated to the development of PokeAlert. An example of item is \"no advertisements\" which will remove all ads from within the app. (Note that prices are not fixed and you can enter the sum you judge appropriate)</string>
+    <string name="new_api_tuto">Using the new API will allow you to use more accounts and avoid getting Captcha! To be able to use the new API you will need to enter your \"hash-server key\" which can be bought in this menu. Please understand that PokeAlert is just an affiliate and is NOT the one selling these keys and is NOT the one that has decided to make it not-free)</string>
+    <string name="support_pokealert_tuto">PokeAlert displays discrete advertisement in the app to financially supports its development. You can also supports PokeAlert by purchasing in-app items such as the no-ads package which will remove all ads form within the app</string>
+    <string name="cache_scan_maintenance_error">Cache scan is under maintenance</string>
+    <string name="manually_place_lure">Manually place lure</string>
+    <string name="auto_place_lure">Automatically place lure</string>
+    <string name="auto_lure_placed_success">Success. A lure will be placed here by any account</string>
+    <string name="failed">Failed</string>
+    <string name="setup">Setup</string>
+    <string name="setup_info">Looks like you are a new user! PokeAlert will setup the accounts for you, are you ready ?</string>
+    <string name="advanced_mode_summary">Advanced mode will unlock more features</string>
+    <string name="advanced_mode_title">Advanced mode</string>
+    <string name="long_press_start_scan">Long press to start a scan</string>
+    <string name="reset_accounts">Reset accounts</string>
+    <string name="long_press_to_stop">Scan started! Long press to stop</string>
+    <string name="setup_missing_account_info">Looks like you did not complete the accounts setup. Press OK to  let PokeAlert automatically setup your accounts again</string>
+    <string name="setting_up_account">Setting up accounts ...</string>
+    <string name="area_name">Area name</string>
+
     <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
         <item>Bulbasaur</item>
