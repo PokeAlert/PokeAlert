@@ -280,6 +280,32 @@
     <string name="weight">Teža</string>
     <string name="and">in</string>
     <string name="area_without_account_alive">Izgleda, da imate na enem območju 0 delujočih računov</string>
+    <string name="cache_scan_not_enough_token_error">Nimate dovolj cache žetonov</string>
+    <string name="cache_tokens">Cache žetoni:</string>
+    <string name="hint_edit_username">Kliknite, da spremenite ime</string>
+    <string name="username">Uporabniško ime</string>
+    <string name="remaining_token">Cache skeniranje žetoni:</string>
+    <string name="account_logining_in_started">Prijavljam vse račune, prosimo počakajte...</string>
+    <string name="cache_scan">Cache skeniranje</string>
+    <string name="cache_scan_tuto">Cache (predpomnilnik) skeniranje je super hitro skeniranje, ki ne potrebuje nobenega računa. pokazal bo pokemon-e, ki so jih že drugi našli na tem mestu s svojimi skeniranji s PokeAlert-om. Včasih je ta gumb rdeč, kar pomeni, da cache strežnik ne dela.</string>
+    <string name="in_app_items_tuto">S stvarmi v aplikaciji lahko nagradimo uporabnike, ki so donirali razvoju te aplikacije. Primer je ta stvar \"brez oglasov\" kar bo odstranilo vse oglase v aplikaciji. (Pomni, da cene še niso dokončne in lahko si izberite vsoto sami)</string>
+    <string name="new_api_tuto">Z uporabljanjem novega API-ja, se boste lahko izognili captcha-i in uporabljali več računov! To be able to use the new API you will need to enter your \"hash-server key\" which can be bought in this menu. Please understand that PokeAlert is just an affiliate and is NOT the one selling these keys and is NOT the one that has decided to make it not-free)</string>
+    <string name="support_pokealert_tuto">PokeAlert pokaže oglase v aplikaciji, da podpira finančni razvoj aplikacije. Lahko pa kupite paket zunanjih obvestil ali pa kupite stvar, ki bo odstranila vse oglase.</string>
+    <string name="cache_scan_maintenance_error">Cache skeniranje je pod vzdrževanjem</string>
+    <string name="manually_place_lure">Ročno postavi lure modul</string>
+    <string name="auto_place_lure">Samodejno postavi lure modul</string>
+    <string name="auto_lure_placed_success">Uspešno. Lure modul bo tukaj postavljen iz kateregakoli računa</string>
+    <string name="failed">Neuspešno</string>
+    <string name="setup">Namestitev (setup)</string>
+    <string name="setup_info">Izgleda, da ste nov uporabnik! PokeAlert bo za vas naredil račune, ste pripravljeni ?</string>
+    <string name="advanced_mode_summary">Napredni način bo odklenil več možnosti</string>
+    <string name="advanced_mode_title">Napredni način</string>
+    <string name="long_press_start_scan">Dolgo pridržite, da začnete skenirati</string>
+    <string name="reset_accounts">Ponastavi račune</string>
+    <string name="long_press_to_stop">Skeniranje se je začelo! Dolgo pridržite, da se ustavi.</string>
+    <string name="setup_missing_account_info">Izgleda, da niste končali z ustvarjanjem računov. Kliknite V redu (OK),da boste pustili PokeAlert-u, da vam samodejno ponovnoma naredi račune</string>
+    <string name="setting_up_account">Ustvarjam račune ...</string>
+    <string name="area_name">Ime območja</string>
     
     <!-- NO NEED TO TRANSLATE THIS -->
     <string-array name="pokemons">
