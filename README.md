@@ -31,4 +31,4 @@ https://twitter.com/ThePokeAlertApp
 
 
 
-**Notice: Pokealert do not enourage people to cheat but it does help players to encrich their game experience**
+**Notice: Pokealert aims to enrich player's game experience**
