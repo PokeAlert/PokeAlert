@@ -1,34 +1,7 @@
-###[Download Section](http://www.pokealertapp.com/#download)
-###For detailed setup and usage guide: <a href="https://docs.google.com/document/d/1WxrzBSwWTgxr0VOBTQHdeAmAjQ211IteaTEeIJs1mSI/edit"> CLICK HERE </a>
-##Join us on: <a href="https://discord.gg/JdFdPw3"> <img src="http://i.imgur.com/5qd7qB8.png"> </a>
+Tuesday January 24h 2017 PokeAlert received a Cease and Desist letter from The Pokemon Company International.
 
-# PokeAlert - Pokemon Notification for PokemonGO 
-PokeAlert has been developed by a handsome (:)) and enthusiast Pokemon trainer. Basically it is an nice alternative to PokeVision, an app to help you scan for Pokemon around you AND that triggers notifications when you are not using the app.
+This Cease and Desist Letter included the request to remove The Pokemon Company International, Inc copyrighted images which I have now complied with but unfortunately this was not enough for me to continue maintaining PokeAlert.
 
-# Contacts
-Website: http://www.pokealertapp.com/
-<br>
-Twitter: https://twitter.com/ThePokeAlertApp
-<br>
-Facebook: https://www.facebook.com/pokealertofficial
+So...I regret to inform you that I will have to shutdown PokeAlert today.
 
-# Features
-- Ditto mode, special mode that allows PokeAlert to find Ditto **(Warning!!! This mode is interfering with your account! Pokemons and items are being transfered in order to makes space for new ones!!)**
-- Real Player tries to simulate 'natural behavior of player' (Pokestop spinnning, Pokemon catching, Item transfers) **(Warning!!! Real Player is interfering with your account! Pokemons and items are being transfered in order to make space for new ones!!)**
-- IP ban and Speed Cap detection- Scanning circles are turning red if one of these happens.
-- Shows pokemon on a Map
-- Scan in the background
-- Sends notification when a Pokemon is found
-- Filters to chose which pokemon trigger a notification
-- Filters to chose which pokemon will be shown on the map
-
-# Guide
-
-You can find a full PokeAlert guide here: https://docs.google.com/document/d/1WxrzBSwWTgxr0VOBTQHdeAmAjQ211IteaTEeIJs1mSI/edit
-
-# Twitter
-https://twitter.com/ThePokeAlertApp
-
-
-
-**Notice: Pokealert aims to enrich player's game experience**
+A big thank you to everyone for having chosen PokeAlert for your Pokemon quest endeavour, hope you guys enjoyed the app!
