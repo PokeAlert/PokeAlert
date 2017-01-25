@@ -1,1 +1,2 @@
-[Please read] (http://www.pokealertapp.com)
+###Please Read
+http://www.pokealertapp.com
