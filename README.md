@@ -8,7 +8,9 @@ PokeAlert has been developed by a handsome (:)) and enthusiast Pokemon trainer. 
 
 # Contacts
 Website: http://www.pokealertapp.com/
+<br>
 Twitter: https://twitter.com/ThePokeAlertApp
+<br>
 Facebook: https://www.facebook.com/pokealertofficial
 
 # Features
